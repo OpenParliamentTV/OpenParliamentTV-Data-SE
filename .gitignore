@@ -1,0 +1,23 @@
+# Do not version cache directory
+cache/
+
+# Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.directory
+
+# Logs
+logs
+_logs/
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+.idea/
+__pycache__
+
