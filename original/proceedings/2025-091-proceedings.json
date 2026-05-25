@@ -2,7 +2,7 @@
   "meta": {
     "session": "2025-091",
     "processing": {
-      "parse_proceedings": "2026-05-01T08:12:30"
+      "parse_proceedings": "2026-05-25T07:23:33"
     },
     "dateStart": "2026-03-17T00:00:00",
     "dateEnd": "2026-03-17T23:59:59"
@@ -19,7 +19,8 @@
       "agendaItem": {
         "officialTitle": "Finansiell stabilitet och finansmarknadsfrågor",
         "title": "Finansiell stabilitet och finansmarknadsfrågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 1,
       "originID": "HD0991-1",
@@ -237,7 +238,8 @@
       "agendaItem": {
         "officialTitle": "Finansiell stabilitet och finansmarknadsfrågor",
         "title": "Finansiell stabilitet och finansmarknadsfrågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 2,
       "originID": "HD0991-2",
@@ -602,7 +604,8 @@
       "agendaItem": {
         "officialTitle": "Finansiell stabilitet och finansmarknadsfrågor",
         "title": "Finansiell stabilitet och finansmarknadsfrågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 3,
       "originID": "HD0991-3",
@@ -700,7 +703,8 @@
       "agendaItem": {
         "officialTitle": "Finansiell stabilitet och finansmarknadsfrågor",
         "title": "Finansiell stabilitet och finansmarknadsfrågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 4,
       "originID": "HD0991-4",
@@ -813,7 +817,8 @@
       "agendaItem": {
         "officialTitle": "Finansiell stabilitet och finansmarknadsfrågor",
         "title": "Finansiell stabilitet och finansmarknadsfrågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 5,
       "originID": "HD0991-5",
@@ -884,7 +889,8 @@
       "agendaItem": {
         "officialTitle": "Finansiell stabilitet och finansmarknadsfrågor",
         "title": "Finansiell stabilitet och finansmarknadsfrågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 6,
       "originID": "HD0991-6",
@@ -1006,7 +1012,8 @@
       "agendaItem": {
         "officialTitle": "Finansiell stabilitet och finansmarknadsfrågor",
         "title": "Finansiell stabilitet och finansmarknadsfrågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 7,
       "originID": "HD0991-7",
@@ -1191,7 +1198,8 @@
       "agendaItem": {
         "officialTitle": "Finansiell stabilitet och finansmarknadsfrågor",
         "title": "Finansiell stabilitet och finansmarknadsfrågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 8,
       "originID": "HD0991-8",
@@ -1343,7 +1351,8 @@
       "agendaItem": {
         "officialTitle": "Finansiell stabilitet och finansmarknadsfrågor",
         "title": "Finansiell stabilitet och finansmarknadsfrågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 9,
       "originID": "HD0991-9",
@@ -1495,7 +1504,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 10,
       "originID": "HD0991-10",
@@ -1806,7 +1816,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 11,
       "originID": "HD0991-11",
@@ -2120,7 +2131,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 12,
       "originID": "HD0991-12",
@@ -2413,7 +2425,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 13,
       "originID": "HD0991-13",
@@ -2529,7 +2542,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 14,
       "originID": "HD0991-14",
@@ -2651,7 +2665,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 15,
       "originID": "HD0991-15",
@@ -2776,7 +2791,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 16,
       "originID": "HD0991-16",
@@ -2898,7 +2914,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 17,
       "originID": "HD0991-17",
@@ -2958,7 +2975,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 18,
       "originID": "HD0991-18",
@@ -3245,7 +3263,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 19,
       "originID": "HD0991-19",
@@ -3484,7 +3503,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 20,
       "originID": "HD0991-20",
@@ -3555,7 +3575,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 21,
       "originID": "HD0991-21",
@@ -3662,7 +3683,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 22,
       "originID": "HD0991-22",
@@ -3748,7 +3770,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 23,
       "originID": "HD0991-23",
@@ -3855,7 +3878,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 24,
       "originID": "HD0991-24",
@@ -4091,7 +4115,8 @@
       "agendaItem": {
         "officialTitle": "Kommunala frågor",
         "title": "Kommunala frågor",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 25,
       "originID": "HD0991-25",
@@ -4327,7 +4352,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 26,
       "originID": "HD0991-26",
@@ -4587,7 +4613,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 27,
       "originID": "HD0991-27",
@@ -4685,7 +4712,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 28,
       "originID": "HD0991-28",
@@ -4789,7 +4817,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 29,
       "originID": "HD0991-29",
@@ -4908,7 +4937,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 30,
       "originID": "HD0991-30",
@@ -5015,7 +5045,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 31,
       "originID": "HD0991-31",
@@ -5116,7 +5147,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 32,
       "originID": "HD0991-32",
@@ -5167,7 +5199,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 33,
       "originID": "HD0991-33",
@@ -5262,7 +5295,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 34,
       "originID": "HD0991-34",
@@ -5360,7 +5394,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 35,
       "originID": "HD0991-35",
@@ -5449,7 +5484,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 36,
       "originID": "HD0991-36",
@@ -5544,7 +5580,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 37,
       "originID": "HD0991-37",
@@ -5651,7 +5688,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 38,
       "originID": "HD0991-38",
@@ -5758,7 +5796,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 39,
       "originID": "HD0991-39",
@@ -5853,7 +5892,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 40,
       "originID": "HD0991-40",
@@ -5954,7 +5994,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 41,
       "originID": "HD0991-41",
@@ -6064,7 +6105,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 42,
       "originID": "HD0991-42",
@@ -6138,7 +6180,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 43,
       "originID": "HD0991-43",
@@ -6239,7 +6282,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 44,
       "originID": "HD0991-44",
@@ -6520,7 +6564,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 45,
       "originID": "HD0991-45",
@@ -6615,7 +6660,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 46,
       "originID": "HD0991-46",
@@ -6716,7 +6762,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 47,
       "originID": "HD0991-47",
@@ -6814,7 +6861,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 48,
       "originID": "HD0991-48",
@@ -6933,7 +6981,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 49,
       "originID": "HD0991-49",
@@ -7034,7 +7083,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 50,
       "originID": "HD0991-50",
@@ -7156,7 +7206,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 51,
       "originID": "HD0991-51",
@@ -7236,7 +7287,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 52,
       "originID": "HD0991-52",
@@ -7358,7 +7410,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 53,
       "originID": "HD0991-53",
@@ -7702,7 +7755,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 54,
       "originID": "HD0991-54",
@@ -7815,7 +7869,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 55,
       "originID": "HD0991-55",
@@ -7934,7 +7989,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 56,
       "originID": "HD0991-56",
@@ -8065,7 +8121,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 57,
       "originID": "HD0991-57",
@@ -8163,7 +8220,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 58,
       "originID": "HD0991-58",
@@ -8393,7 +8451,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 59,
       "originID": "HD0991-59",
@@ -8704,7 +8763,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 60,
       "originID": "HD0991-60",
@@ -8973,7 +9033,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 61,
       "originID": "HD0991-61",
@@ -9035,7 +9096,8 @@
       "agendaItem": {
         "officialTitle": "Näringspolitik",
         "title": "Näringspolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 62,
       "originID": "HD0991-62",
@@ -9148,7 +9210,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 63,
       "originID": "HD0991-63",
@@ -9399,7 +9462,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 64,
       "originID": "HD0991-64",
@@ -9491,7 +9555,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 65,
       "originID": "HD0991-65",
@@ -9592,7 +9657,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 66,
       "originID": "HD0991-66",
@@ -9672,7 +9738,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 67,
       "originID": "HD0991-67",
@@ -9773,7 +9840,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 68,
       "originID": "HD0991-68",
@@ -9865,7 +9933,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 69,
       "originID": "HD0991-69",
@@ -9960,7 +10029,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 70,
       "originID": "HD0991-70",
@@ -10037,7 +10107,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 71,
       "originID": "HD0991-71",
@@ -10144,7 +10215,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 72,
       "originID": "HD0991-72",
@@ -10353,7 +10425,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 73,
       "originID": "HD0991-73",
@@ -10595,7 +10668,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 74,
       "originID": "HD0991-74",
@@ -10672,7 +10746,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 75,
       "originID": "HD0991-75",
@@ -10770,7 +10845,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 76,
       "originID": "HD0991-76",
@@ -10832,7 +10908,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 77,
       "originID": "HD0991-77",
@@ -10903,7 +10980,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 78,
       "originID": "HD0991-78",
@@ -10974,7 +11052,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 79,
       "originID": "HD0991-79",
@@ -11066,7 +11145,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 80,
       "originID": "HD0991-80",
@@ -11143,7 +11223,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 81,
       "originID": "HD0991-81",
@@ -11217,7 +11298,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 82,
       "originID": "HD0991-82",
@@ -11447,7 +11529,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 83,
       "originID": "HD0991-83",
@@ -11635,7 +11718,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 84,
       "originID": "HD0991-84",
@@ -11718,7 +11802,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 85,
       "originID": "HD0991-85",
@@ -11801,7 +11886,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 86,
       "originID": "HD0991-86",
@@ -11875,7 +11961,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 87,
       "originID": "HD0991-87",
@@ -11955,7 +12042,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 88,
       "originID": "HD0991-88",
@@ -12047,7 +12135,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 89,
       "originID": "HD0991-89",
@@ -12160,7 +12249,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 90,
       "originID": "HD0991-90",
@@ -12267,7 +12357,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 91,
       "originID": "HD0991-91",
@@ -12368,7 +12459,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 92,
       "originID": "HD0991-92",
@@ -12631,7 +12723,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 93,
       "originID": "HD0991-93",
@@ -12927,7 +13020,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 94,
       "originID": "HD0991-94",
@@ -13022,7 +13116,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 95,
       "originID": "HD0991-95",
@@ -13126,7 +13221,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 96,
       "originID": "HD0991-96",
@@ -13227,7 +13323,8 @@
       "agendaItem": {
         "officialTitle": "Mineralpolitik",
         "title": "Mineralpolitik",
-        "type": "ärendedebatt"
+        "type": "regular",
+        "nativeType": "ärendedebatt"
       },
       "speechIndex": 97,
       "originID": "HD0991-97",
