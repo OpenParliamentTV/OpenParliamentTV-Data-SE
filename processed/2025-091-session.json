@@ -27,7 +27,7 @@
       "speechIndex": 1,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054321721_720p.mp4#t=13,442",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=13&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=13&autoplay=true&anf=1",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -499,7 +499,7 @@
       "speechIndex": 2,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054321721_720p.mp4#t=447,1176",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=447&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=447&autoplay=true&anf=2",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1345,7 +1345,7 @@
       "speechIndex": 3,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054321721_720p.mp4#t=1180,1274",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1180&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1180&autoplay=true&anf=3",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1542,7 +1542,7 @@
       "speechIndex": 4,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054321721_720p.mp4#t=1274,1400",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1274&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1274&autoplay=true&anf=4",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1789,7 +1789,7 @@
       "speechIndex": 5,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054321721_720p.mp4#t=1400,1448",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1400&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1400&autoplay=true&anf=5",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1932,7 +1932,7 @@
       "speechIndex": 6,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054321721_720p.mp4#t=1448,1570",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1448&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1448&autoplay=true&anf=6",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2198,7 +2198,7 @@
       "speechIndex": 7,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054321721_720p.mp4#t=1583,1950",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1583&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1583&autoplay=true&anf=7",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2597,7 +2597,7 @@
       "speechIndex": 8,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054321721_720p.mp4#t=1961,2128",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1961&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=1961&autoplay=true&anf=8",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2923,7 +2923,7 @@
       "speechIndex": 9,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054321721_720p.mp4#t=2132,2386",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=2132&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/finansiell-stabilitet-och-finansmarknadsfragor_HD01FiU22?pos=2132&autoplay=true&anf=9",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -3228,7 +3228,7 @@
       "speechIndex": 10,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=9,582",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=9&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=9&autoplay=true&anf=10",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4007,7 +4007,7 @@
       "speechIndex": 11,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=590,1221",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=590&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=590&autoplay=true&anf=11",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4677,7 +4677,7 @@
       "speechIndex": 12,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=1234,1747",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=1234&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=1234&autoplay=true&anf=12",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5298,7 +5298,7 @@
       "speechIndex": 13,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=1750,1885",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=1750&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=1750&autoplay=true&anf=13",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5559,7 +5559,7 @@
       "speechIndex": 14,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=1885,2016",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=1885&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=1885&autoplay=true&anf=14",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5823,7 +5823,7 @@
       "speechIndex": 15,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=2016,2145",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2016&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2016&autoplay=true&anf=15",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6100,7 +6100,7 @@
       "speechIndex": 16,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=2145,2267",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2145&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2145&autoplay=true&anf=16",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6385,7 +6385,7 @@
       "speechIndex": 17,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2280&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2280&autoplay=true&anf=17",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": false,
@@ -6491,7 +6491,7 @@
       "speechIndex": 18,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=2285,2849",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2285&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2285&autoplay=true&anf=18",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7127,7 +7127,7 @@
       "speechIndex": 19,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=2850,3316",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2850&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=2850&autoplay=true&anf=19",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7648,7 +7648,7 @@
       "speechIndex": 20,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=3316,3391",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3316&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3316&autoplay=true&anf=20",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7791,7 +7791,7 @@
       "speechIndex": 21,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=3391,3520",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3391&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3391&autoplay=true&anf=21",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8020,7 +8020,7 @@
       "speechIndex": 22,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=3520,3605",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3520&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3520&autoplay=true&anf=22",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8207,7 +8207,7 @@
       "speechIndex": 23,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=3605,3734",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3605&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3605&autoplay=true&anf=23",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8457,7 +8457,7 @@
       "speechIndex": 24,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=3739,4300",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3739&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=3739&autoplay=true&anf=24",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8963,7 +8963,7 @@
       "speechIndex": 25,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054324121_720p.mp4#t=4306,4765",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=4306&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/kommunala-fragor_HD01FiU26?pos=4306&autoplay=true&anf=25",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -9518,7 +9518,7 @@
       "speechIndex": 26,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=10,657",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=10&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=10&autoplay=true&anf=26",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -10159,7 +10159,7 @@
       "speechIndex": 27,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=671,791",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=671&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=671&autoplay=true&anf=27",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -10397,7 +10397,7 @@
       "speechIndex": 28,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=791,919",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=791&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=791&autoplay=true&anf=28",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -10639,7 +10639,7 @@
       "speechIndex": 29,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=919,1044",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=919&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=919&autoplay=true&anf=29",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -10906,7 +10906,7 @@
       "speechIndex": 30,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=1044,1171",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1044&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1044&autoplay=true&anf=30",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11156,7 +11156,7 @@
       "speechIndex": 31,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=1178,1308",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1178&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1178&autoplay=true&anf=31",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11366,7 +11366,7 @@
       "speechIndex": 32,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1308&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1308&autoplay=true&anf=32",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": false,
@@ -11460,7 +11460,7 @@
       "speechIndex": 33,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=1308,1409",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1308&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1308&autoplay=true&anf=33",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11658,7 +11658,7 @@
       "speechIndex": 34,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=1409,1513",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1409&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1409&autoplay=true&anf=34",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11855,7 +11855,7 @@
       "speechIndex": 35,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=1513,1615",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1513&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1513&autoplay=true&anf=35",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12072,7 +12072,7 @@
       "speechIndex": 36,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=1624,1742",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1624&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1624&autoplay=true&anf=36",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12310,7 +12310,7 @@
       "speechIndex": 37,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=1742,1866",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1742&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1742&autoplay=true&anf=37",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12546,7 +12546,7 @@
       "speechIndex": 38,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=1866,1988",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1866&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1866&autoplay=true&anf=38",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12767,7 +12767,7 @@
       "speechIndex": 39,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=1988,2109",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1988&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=1988&autoplay=true&anf=39",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12977,7 +12977,7 @@
       "speechIndex": 40,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=2118,2246",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2118&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2118&autoplay=true&anf=40",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13226,7 +13226,7 @@
       "speechIndex": 41,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=2246,2369",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2246&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2246&autoplay=true&anf=41",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13498,7 +13498,7 @@
       "speechIndex": 42,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=2369,2454",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2369&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2369&autoplay=true&anf=42",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13666,7 +13666,7 @@
       "speechIndex": 43,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=2454,2584",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2454&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2454&autoplay=true&anf=43",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13876,7 +13876,7 @@
       "speechIndex": 44,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=2594,3120",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2594&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=2594&autoplay=true&anf=44",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -14568,7 +14568,7 @@
       "speechIndex": 45,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=3131,3249",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3131&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3131&autoplay=true&anf=45",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -14759,7 +14759,7 @@
       "speechIndex": 46,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=3249,3363",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3249&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3249&autoplay=true&anf=46",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15018,7 +15018,7 @@
       "speechIndex": 47,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=3363,3492",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3363&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3363&autoplay=true&anf=47",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15239,7 +15239,7 @@
       "speechIndex": 48,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=3492,3608",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3492&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3492&autoplay=true&anf=48",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15527,7 +15527,7 @@
       "speechIndex": 49,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=3618,3690",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3618&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3618&autoplay=true&anf=49",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15730,7 +15730,7 @@
       "speechIndex": 50,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=3690,3812",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3690&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3690&autoplay=true&anf=50",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16024,7 +16024,7 @@
       "speechIndex": 51,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=3812,3873",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3812&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3812&autoplay=true&anf=51",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16217,7 +16217,7 @@
       "speechIndex": 52,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=3873,3991",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3873&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=3873&autoplay=true&anf=52",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16497,7 +16497,7 @@
       "speechIndex": 53,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=4009,4512",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4009&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4009&autoplay=true&anf=53",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -17442,7 +17442,7 @@
       "speechIndex": 54,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=4521,4639",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4521&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4521&autoplay=true&anf=54",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -17704,7 +17704,7 @@
       "speechIndex": 55,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=4639,4725",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4639&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4639&autoplay=true&anf=55",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -17950,7 +17950,7 @@
       "speechIndex": 56,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=4725,4838",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4725&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4725&autoplay=true&anf=56",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -18240,7 +18240,7 @@
       "speechIndex": 57,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=4838,4921",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4838&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4838&autoplay=true&anf=57",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -18443,7 +18443,7 @@
       "speechIndex": 58,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=4943,5465",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4943&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=4943&autoplay=true&anf=58",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -18959,7 +18959,7 @@
       "speechIndex": 59,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=5480,6055",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=5480&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=5480&autoplay=true&anf=59",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -19691,7 +19691,7 @@
       "speechIndex": 60,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=6067,6565",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=6067&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=6067&autoplay=true&anf=60",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -20288,7 +20288,7 @@
       "speechIndex": 61,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=6571,6591",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=6571&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=6571&autoplay=true&anf=61",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -20413,7 +20413,7 @@
       "speechIndex": 62,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054326521_720p.mp4#t=6598,6750",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=6598&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/naringspolitik_HD01NU14?pos=6598&autoplay=true&anf=62",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -20647,7 +20647,7 @@
       "speechIndex": 63,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=11,625",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=11&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=11&autoplay=true&anf=63",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21251,7 +21251,7 @@
       "speechIndex": 64,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=637,763",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=637&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=637&autoplay=true&anf=64",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21450,7 +21450,7 @@
       "speechIndex": 65,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=763,889",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=763&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=763&autoplay=true&anf=65",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21653,7 +21653,7 @@
       "speechIndex": 66,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=889,977",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=889&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=889&autoplay=true&anf=66",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21828,7 +21828,7 @@
       "speechIndex": 67,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=977,1076",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=977&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=977&autoplay=true&anf=67",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22038,7 +22038,7 @@
       "speechIndex": 68,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=1084,1215",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1084&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1084&autoplay=true&anf=68",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22223,7 +22223,7 @@
       "speechIndex": 69,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=1215,1342",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1215&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1215&autoplay=true&anf=69",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22435,7 +22435,7 @@
       "speechIndex": 70,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=1342,1431",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1342&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1342&autoplay=true&anf=70",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22583,7 +22583,7 @@
       "speechIndex": 71,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=1431,1562",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1431&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1431&autoplay=true&anf=71",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22798,7 +22798,7 @@
       "speechIndex": 72,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=1573,2151",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1573&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=1573&autoplay=true&anf=72",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -23344,7 +23344,7 @@
       "speechIndex": 73,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=2161,2577",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2161&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2161&autoplay=true&anf=73",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -23990,7 +23990,7 @@
       "speechIndex": 74,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=2590,2683",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2590&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2590&autoplay=true&anf=74",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -24166,7 +24166,7 @@
       "speechIndex": 75,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=2683,2758",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2683&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2683&autoplay=true&anf=75",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -24388,7 +24388,7 @@
       "speechIndex": 76,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=2758,2809",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2758&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2758&autoplay=true&anf=76",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -24526,7 +24526,7 @@
       "speechIndex": 77,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=2809,2851",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2809&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2809&autoplay=true&anf=77",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -24662,7 +24662,7 @@
       "speechIndex": 78,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=2859,2920",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2859&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2859&autoplay=true&anf=78",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -24826,7 +24826,7 @@
       "speechIndex": 79,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=2920,2988",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2920&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2920&autoplay=true&anf=79",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -25018,7 +25018,7 @@
       "speechIndex": 80,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=2988,3060",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2988&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=2988&autoplay=true&anf=80",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -25194,7 +25194,7 @@
       "speechIndex": 81,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=3060,3101",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=3060&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=3060&autoplay=true&anf=81",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -25343,7 +25343,7 @@
       "speechIndex": 82,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=3116,3671",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=3116&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=3116&autoplay=true&anf=82",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -25845,7 +25845,7 @@
       "speechIndex": 83,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=3682,4008",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=3682&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=3682&autoplay=true&anf=83",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -26342,7 +26342,7 @@
       "speechIndex": 84,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=4020,4090",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4020&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4020&autoplay=true&anf=84",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -26516,7 +26516,7 @@
       "speechIndex": 85,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=4090,4137",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4090&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4090&autoplay=true&anf=85",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -26683,7 +26683,7 @@
       "speechIndex": 86,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=4137,4191",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4137&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4137&autoplay=true&anf=86",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -26839,7 +26839,7 @@
       "speechIndex": 87,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=4192,4254",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4192&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4192&autoplay=true&anf=87",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -27014,7 +27014,7 @@
       "speechIndex": 88,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=4266,4356",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4266&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4266&autoplay=true&anf=88",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -27226,7 +27226,7 @@
       "speechIndex": 89,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=4356,4473",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4356&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4356&autoplay=true&anf=89",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -27494,7 +27494,7 @@
       "speechIndex": 90,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=4474,4593",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4474&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4474&autoplay=true&anf=90",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -27736,7 +27736,7 @@
       "speechIndex": 91,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=4593,4700",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4593&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4593&autoplay=true&anf=91",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -27991,7 +27991,7 @@
       "speechIndex": 92,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=4712,5190",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4712&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=4712&autoplay=true&anf=92",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -28714,7 +28714,7 @@
       "speechIndex": 93,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=5194,5878",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=5194&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=5194&autoplay=true&anf=93",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -29460,7 +29460,7 @@
       "speechIndex": 94,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=5887,6011",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=5887&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=5887&autoplay=true&anf=94",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -29665,7 +29665,7 @@
       "speechIndex": 95,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=6011,6140",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=6011&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=6011&autoplay=true&anf=95",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -29881,7 +29881,7 @@
       "speechIndex": 96,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=6140,6275",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=6140&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=6140&autoplay=true&anf=96",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -30111,7 +30111,7 @@
       "speechIndex": 97,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442603170054328921_720p.mp4#t=6275,6399",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=6275&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/mineralpolitik_HD01NU16?pos=6275&autoplay=true&anf=97",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,

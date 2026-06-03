@@ -27,7 +27,7 @@
       "speechIndex": 1,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=32,251",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=32&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=32&autoplay=true&anf=1",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -287,7 +287,7 @@
       "speechIndex": 2,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=266,511",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=266&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=266&autoplay=true&anf=2",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -566,7 +566,7 @@
       "speechIndex": 3,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=521,725",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=521&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=521&autoplay=true&anf=3",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -877,7 +877,7 @@
       "speechIndex": 4,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=736,976",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=736&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=736&autoplay=true&anf=4",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1239,7 +1239,7 @@
       "speechIndex": 5,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=982,1193",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=982&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=982&autoplay=true&anf=5",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1497,7 +1497,7 @@
       "speechIndex": 6,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=1204,1452",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1204&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1204&autoplay=true&anf=6",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1767,7 +1767,7 @@
       "speechIndex": 7,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=1462,1583",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1462&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1462&autoplay=true&anf=7",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1982,7 +1982,7 @@
       "speechIndex": 8,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=1596,1725",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1596&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1596&autoplay=true&anf=8",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2244,7 +2244,7 @@
       "speechIndex": 9,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=1730,1890",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1730&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1730&autoplay=true&anf=9",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2487,7 +2487,7 @@
       "speechIndex": 10,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=1899,2028",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1899&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=1899&autoplay=true&anf=10",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2679,7 +2679,7 @@
       "speechIndex": 11,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051597721_720p.mp4#t=2033,2135",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=2033&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/de-mindre-universitetens-betydelse-for-hela-landet_HD1092?pos=2033&autoplay=true&anf=11",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2878,7 +2878,7 @@
       "speechIndex": 12,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051600121_720p.mp4#t=17,198",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=17&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=17&autoplay=true&anf=12",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -3262,7 +3262,7 @@
       "speechIndex": 13,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051600121_720p.mp4#t=203,454",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=203&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=203&autoplay=true&anf=13",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -3581,7 +3581,7 @@
       "speechIndex": 14,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051600121_720p.mp4#t=460,629",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=460&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=460&autoplay=true&anf=14",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -3824,7 +3824,7 @@
       "speechIndex": 15,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051600121_720p.mp4#t=629,880",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=629&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=629&autoplay=true&anf=15",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4177,7 +4177,7 @@
       "speechIndex": 16,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051600121_720p.mp4#t=880,1063",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=880&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=880&autoplay=true&anf=16",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4506,7 +4506,7 @@
       "speechIndex": 17,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051600121_720p.mp4#t=1063,1191",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=1063&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=1063&autoplay=true&anf=17",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4724,7 +4724,7 @@
       "speechIndex": 18,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051600121_720p.mp4#t=1196,1312",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=1196&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/skydd-av-batkonvojer-och-deras-besattningar_HD1014?pos=1196&autoplay=true&anf=18",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4975,7 +4975,7 @@
       "speechIndex": 19,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051602521_720p.mp4#t=22,154",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=22&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=22&autoplay=true&anf=19",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5251,7 +5251,7 @@
       "speechIndex": 20,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051602521_720p.mp4#t=161,406",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=161&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=161&autoplay=true&anf=20",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5614,7 +5614,7 @@
       "speechIndex": 21,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051602521_720p.mp4#t=406,556",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=406&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=406&autoplay=true&anf=21",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5895,7 +5895,7 @@
       "speechIndex": 22,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051602521_720p.mp4#t=556,719",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=556&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=556&autoplay=true&anf=22",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6206,7 +6206,7 @@
       "speechIndex": 23,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051602521_720p.mp4#t=719,823",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=719&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=719&autoplay=true&anf=23",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6433,7 +6433,7 @@
       "speechIndex": 24,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051602521_720p.mp4#t=823,956",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=823&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=823&autoplay=true&anf=24",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6681,7 +6681,7 @@
       "speechIndex": 25,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051602521_720p.mp4#t=956,1059",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=956&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/stod-till-dokumentation-och-sparning-av_HD1022?pos=956&autoplay=true&anf=25",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6925,7 +6925,7 @@
       "speechIndex": 26,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051604921_720p.mp4#t=12,131",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=12&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=12&autoplay=true&anf=26",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7138,7 +7138,7 @@
       "speechIndex": 27,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051604921_720p.mp4#t=134,377",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=134&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=134&autoplay=true&anf=27",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7405,7 +7405,7 @@
       "speechIndex": 28,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051604921_720p.mp4#t=377,528",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=377&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=377&autoplay=true&anf=28",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7626,7 +7626,7 @@
       "speechIndex": 29,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051604921_720p.mp4#t=528,778",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=528&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=528&autoplay=true&anf=29",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7965,7 +7965,7 @@
       "speechIndex": 30,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051604921_720p.mp4#t=778,917",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=778&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=778&autoplay=true&anf=30",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8140,7 +8140,7 @@
       "speechIndex": 31,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051604921_720p.mp4#t=917,1042",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=917&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=917&autoplay=true&anf=31",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8307,7 +8307,7 @@
       "speechIndex": 32,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051604921_720p.mp4#t=1042,1142",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=1042&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/handlaggningstider-hos-jordbruksverket_HD10101?pos=1042&autoplay=true&anf=32",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8511,7 +8511,7 @@
       "speechIndex": 33,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051607321_720p.mp4#t=19,145",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=19&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=19&autoplay=true&anf=33",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8710,7 +8710,7 @@
       "speechIndex": 34,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051607321_720p.mp4#t=145,391",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=145&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=145&autoplay=true&anf=34",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8945,7 +8945,7 @@
       "speechIndex": 35,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051607321_720p.mp4#t=391,586",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=391&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=391&autoplay=true&anf=35",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -9184,7 +9184,7 @@
       "speechIndex": 36,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051607321_720p.mp4#t=586,830",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=586&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=586&autoplay=true&anf=36",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -9425,7 +9425,7 @@
       "speechIndex": 37,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051607321_720p.mp4#t=830,1007",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=830&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=830&autoplay=true&anf=37",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -9654,7 +9654,7 @@
       "speechIndex": 38,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051607321_720p.mp4#t=1007,1138",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=1007&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=1007&autoplay=true&anf=38",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -9814,7 +9814,7 @@
       "speechIndex": 39,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442511110051607321_720p.mp4#t=1138,1203",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=1138&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/interpellationsdebatt/finansiering-av-algforvaltningen_HD10103?pos=1138&autoplay=true&anf=39",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,

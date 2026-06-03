@@ -1,3 +1,7 @@
+# Do not version converted/parsed media files (originals are raw-*/source formats)
+original/media/[0-9]*-media.json
+# Do not version converted/parsed proceeding files (originals are xml/html/jsonld/raw-*)
+original/proceedings/[0-9]*-proceedings.json
 # Do not version cache directory
 cache/
 
@@ -20,4 +24,5 @@ pids
 *.seed
 .idea/
 __pycache__
+*.lock
 

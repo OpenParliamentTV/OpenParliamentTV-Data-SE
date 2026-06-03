@@ -27,7 +27,7 @@
       "speechIndex": 1,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=22,260",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=22&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=22&autoplay=true&anf=1",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -290,7 +290,7 @@
       "speechIndex": 2,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=271,386",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=271&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=271&autoplay=true&anf=2",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -480,7 +480,7 @@
       "speechIndex": 3,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=386,510",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=386&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=386&autoplay=true&anf=3",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -678,7 +678,7 @@
       "speechIndex": 4,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=510,629",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=510&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=510&autoplay=true&anf=4",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -899,7 +899,7 @@
       "speechIndex": 5,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=629,757",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=629&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=629&autoplay=true&anf=5",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1126,7 +1126,7 @@
       "speechIndex": 6,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=762,895",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=762&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=762&autoplay=true&anf=6",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1330,7 +1330,7 @@
       "speechIndex": 7,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=895,1020",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=895&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=895&autoplay=true&anf=7",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1564,7 +1564,7 @@
       "speechIndex": 8,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=1020,1135",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1020&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1020&autoplay=true&anf=8",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -1788,7 +1788,7 @@
       "speechIndex": 9,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=1135,1262",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1135&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1135&autoplay=true&anf=9",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2103,7 +2103,7 @@
       "speechIndex": 10,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=1268,1320",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1268&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1268&autoplay=true&anf=10",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2271,7 +2271,7 @@
       "speechIndex": 11,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=1320,1445",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1320&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1320&autoplay=true&anf=11",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2499,7 +2499,7 @@
       "speechIndex": 12,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=1445,1504",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1445&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1445&autoplay=true&anf=12",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2648,7 +2648,7 @@
       "speechIndex": 13,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=1504,1629",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1504&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1504&autoplay=true&anf=13",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -2921,7 +2921,7 @@
       "speechIndex": 14,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=1638,2067",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1638&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=1638&autoplay=true&anf=14",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -3481,7 +3481,7 @@
       "speechIndex": 15,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=2076,2116",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2076&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2076&autoplay=true&anf=15",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -3612,7 +3612,7 @@
       "speechIndex": 16,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=2116,2190",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2116&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2116&autoplay=true&anf=16",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -3815,7 +3815,7 @@
       "speechIndex": 17,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=2190,2304",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2190&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2190&autoplay=true&anf=17",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4053,7 +4053,7 @@
       "speechIndex": 18,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=2304,2361",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2304&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2304&autoplay=true&anf=18",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4226,7 +4226,7 @@
       "speechIndex": 19,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=2378,2891",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2378&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2378&autoplay=true&anf=19",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4746,7 +4746,7 @@
       "speechIndex": 20,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=2899,2955",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2899&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2899&autoplay=true&anf=20",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -4876,7 +4876,7 @@
       "speechIndex": 21,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=2955,2996",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2955&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2955&autoplay=true&anf=21",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5019,7 +5019,7 @@
       "speechIndex": 22,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=2996,3062",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2996&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=2996&autoplay=true&anf=22",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5175,7 +5175,7 @@
       "speechIndex": 23,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=3062,3125",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=3062&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=3062&autoplay=true&anf=23",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5341,7 +5341,7 @@
       "speechIndex": 24,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=3147,3657",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=3147&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=3147&autoplay=true&anf=24",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -5840,7 +5840,7 @@
       "speechIndex": 25,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=3665,4144",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=3665&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=3665&autoplay=true&anf=25",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6447,7 +6447,7 @@
       "speechIndex": 26,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=4159,4285",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4159&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4159&autoplay=true&anf=26",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6662,7 +6662,7 @@
       "speechIndex": 27,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=4285,4341",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4285&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4285&autoplay=true&anf=27",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6799,7 +6799,7 @@
       "speechIndex": 28,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=4341,4389",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4341&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4341&autoplay=true&anf=28",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -6943,7 +6943,7 @@
       "speechIndex": 29,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=4389,4489",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4389&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4389&autoplay=true&anf=29",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7116,7 +7116,7 @@
       "speechIndex": 30,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=4500,4624",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4500&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4500&autoplay=true&anf=30",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7313,7 +7313,7 @@
       "speechIndex": 31,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=4624,4751",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4624&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4624&autoplay=true&anf=31",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7565,7 +7565,7 @@
       "speechIndex": 32,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=4751,4873",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4751&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4751&autoplay=true&anf=32",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7768,7 +7768,7 @@
       "speechIndex": 33,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=4873,5008",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4873&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=4873&autoplay=true&anf=33",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -7989,7 +7989,7 @@
       "speechIndex": 34,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=5024,5210",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5024&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5024&autoplay=true&anf=34",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8296,7 +8296,7 @@
       "speechIndex": 35,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=5215,5278",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5215&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5215&autoplay=true&anf=35",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8453,7 +8453,7 @@
       "speechIndex": 36,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=5278,5308",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5278&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5278&autoplay=true&anf=36",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8571,7 +8571,7 @@
       "speechIndex": 37,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=5308,5402",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5308&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5308&autoplay=true&anf=37",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8806,7 +8806,7 @@
       "speechIndex": 38,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=5402,5505",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5402&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5402&autoplay=true&anf=38",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -8991,7 +8991,7 @@
       "speechIndex": 39,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=5520,5895",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5520&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5520&autoplay=true&anf=39",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -9672,7 +9672,7 @@
       "speechIndex": 40,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055761721_720p.mp4#t=5904,6174",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5904&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/offentlighetsprincipen-med-lattnadsregler_HD01UbU20?pos=5904&autoplay=true&anf=40",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -10038,7 +10038,7 @@
       "speechIndex": 41,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055771321_720p.mp4#t=5,516",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/interparlamentariska-unionen_HD01UU13?pos=5&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/interparlamentariska-unionen_HD01UU13?pos=5&autoplay=true&anf=41",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -10823,7 +10823,7 @@
       "speechIndex": 42,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=67&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=67&autoplay=true&anf=42",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": false,
@@ -10967,7 +10967,7 @@
       "speechIndex": 43,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=99,157",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=99&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=99&autoplay=true&anf=43",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11109,7 +11109,7 @@
       "speechIndex": 44,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=157,227",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=157&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=157&autoplay=true&anf=44",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11288,7 +11288,7 @@
       "speechIndex": 45,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=227,272",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=227&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=227&autoplay=true&anf=45",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11449,7 +11449,7 @@
       "speechIndex": 46,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=272,309",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=272&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=272&autoplay=true&anf=46",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11586,7 +11586,7 @@
       "speechIndex": 47,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=319,391",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=319&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=319&autoplay=true&anf=47",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11795,7 +11795,7 @@
       "speechIndex": 48,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=391,459",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=391&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=391&autoplay=true&anf=48",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -11970,7 +11970,7 @@
       "speechIndex": 49,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=459,500",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=459&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=459&autoplay=true&anf=49",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12099,7 +12099,7 @@
       "speechIndex": 50,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=500,527",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=500&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=500&autoplay=true&anf=50",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12235,7 +12235,7 @@
       "speechIndex": 51,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=536,605",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=536&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=536&autoplay=true&anf=51",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12390,7 +12390,7 @@
       "speechIndex": 52,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=605,672",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=605&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=605&autoplay=true&anf=52",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12543,7 +12543,7 @@
       "speechIndex": 53,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=672,712",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=672&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=672&autoplay=true&anf=53",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12686,7 +12686,7 @@
       "speechIndex": 54,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=712,747",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=712&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=712&autoplay=true&anf=54",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12833,7 +12833,7 @@
       "speechIndex": 55,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=757,819",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=757&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=757&autoplay=true&anf=55",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -12990,7 +12990,7 @@
       "speechIndex": 56,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=819,887",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=819&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=819&autoplay=true&anf=56",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13159,7 +13159,7 @@
       "speechIndex": 57,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=887,925",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=887&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=887&autoplay=true&anf=57",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13283,7 +13283,7 @@
       "speechIndex": 58,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=925,964",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=925&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=925&autoplay=true&anf=58",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13407,7 +13407,7 @@
       "speechIndex": 59,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=973,1044",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=973&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=973&autoplay=true&anf=59",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13595,7 +13595,7 @@
       "speechIndex": 60,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1044,1107",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1044&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1044&autoplay=true&anf=60",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13774,7 +13774,7 @@
       "speechIndex": 61,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1107,1146",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1107&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1107&autoplay=true&anf=61",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -13897,7 +13897,7 @@
       "speechIndex": 62,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1146,1183",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1146&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1146&autoplay=true&anf=62",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -14038,7 +14038,7 @@
       "speechIndex": 63,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1188,1237",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1188&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1188&autoplay=true&anf=63",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -14169,7 +14169,7 @@
       "speechIndex": 64,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1238,1304",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1238&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1238&autoplay=true&anf=64",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -14333,7 +14333,7 @@
       "speechIndex": 65,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1304,1330",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1304&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1304&autoplay=true&anf=65",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -14463,7 +14463,7 @@
       "speechIndex": 66,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1330,1365",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1330&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1330&autoplay=true&anf=66",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -14629,7 +14629,7 @@
       "speechIndex": 67,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1371,1440",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1371&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1371&autoplay=true&anf=67",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -14777,7 +14777,7 @@
       "speechIndex": 68,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1440,1507",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1440&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1440&autoplay=true&anf=68",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -14932,7 +14932,7 @@
       "speechIndex": 69,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1507,1542",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1507&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1507&autoplay=true&anf=69",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15061,7 +15061,7 @@
       "speechIndex": 70,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1542,1581",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1542&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1542&autoplay=true&anf=70",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15191,7 +15191,7 @@
       "speechIndex": 71,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1587,1653",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1587&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1587&autoplay=true&anf=71",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15353,7 +15353,7 @@
       "speechIndex": 72,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1653,1713",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1653&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1653&autoplay=true&anf=72",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15509,7 +15509,7 @@
       "speechIndex": 73,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1713,1730",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1713&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1713&autoplay=true&anf=73",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15614,7 +15614,7 @@
       "speechIndex": 74,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1730,1759",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1730&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1730&autoplay=true&anf=74",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15732,7 +15732,7 @@
       "speechIndex": 75,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1765,1826",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1765&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1765&autoplay=true&anf=75",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -15896,7 +15896,7 @@
       "speechIndex": 76,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1826,1897",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1826&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1826&autoplay=true&anf=76",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16045,7 +16045,7 @@
       "speechIndex": 77,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1897,1936",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1897&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1897&autoplay=true&anf=77",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16197,7 +16197,7 @@
       "speechIndex": 78,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1936,1977",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1936&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1936&autoplay=true&anf=78",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16327,7 +16327,7 @@
       "speechIndex": 79,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=1981,2017",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1981&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=1981&autoplay=true&anf=79",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16438,7 +16438,7 @@
       "speechIndex": 80,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2017,2083",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2017&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2017&autoplay=true&anf=80",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16636,7 +16636,7 @@
       "speechIndex": 81,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2083,2113",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2083&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2083&autoplay=true&anf=81",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16747,7 +16747,7 @@
       "speechIndex": 82,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2113,2153",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2113&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2113&autoplay=true&anf=82",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -16869,7 +16869,7 @@
       "speechIndex": 83,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2156,2208",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2156&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2156&autoplay=true&anf=83",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -17006,7 +17006,7 @@
       "speechIndex": 84,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2208,2275",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2208&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2208&autoplay=true&anf=84",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -17193,7 +17193,7 @@
       "speechIndex": 85,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2275,2309",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2275&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2275&autoplay=true&anf=85",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -17335,7 +17335,7 @@
       "speechIndex": 86,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2309,2339",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2309&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2309&autoplay=true&anf=86",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -17465,7 +17465,7 @@
       "speechIndex": 87,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2344,2411",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2344&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2344&autoplay=true&anf=87",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -17671,7 +17671,7 @@
       "speechIndex": 88,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2411,2474",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2411&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2411&autoplay=true&anf=88",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -17890,7 +17890,7 @@
       "speechIndex": 89,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2474,2513",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2474&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2474&autoplay=true&anf=89",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -18070,7 +18070,7 @@
       "speechIndex": 90,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2513,2553",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2513&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2513&autoplay=true&anf=90",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -18247,7 +18247,7 @@
       "speechIndex": 91,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2558,2628",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2558&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2558&autoplay=true&anf=91",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -18403,7 +18403,7 @@
       "speechIndex": 92,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2628,2698",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2628&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2628&autoplay=true&anf=92",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -18590,7 +18590,7 @@
       "speechIndex": 93,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2698,2732",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2698&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2698&autoplay=true&anf=93",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -18713,7 +18713,7 @@
       "speechIndex": 94,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2733,2771",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2733&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2733&autoplay=true&anf=94",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -18850,7 +18850,7 @@
       "speechIndex": 95,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2782,2855",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2782&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2782&autoplay=true&anf=95",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -19004,7 +19004,7 @@
       "speechIndex": 96,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2855,2924",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2855&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2855&autoplay=true&anf=96",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -19147,7 +19147,7 @@
       "speechIndex": 97,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2933,2988",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2933&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2933&autoplay=true&anf=97",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -19309,7 +19309,7 @@
       "speechIndex": 98,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=2988,3046",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2988&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=2988&autoplay=true&anf=98",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -19519,7 +19519,7 @@
       "speechIndex": 99,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3051,3124",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3051&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3051&autoplay=true&anf=99",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -19691,7 +19691,7 @@
       "speechIndex": 100,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3124,3189",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3124&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3124&autoplay=true&anf=100",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -19845,7 +19845,7 @@
       "speechIndex": 101,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3194,3251",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3194&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3194&autoplay=true&anf=101",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -20027,7 +20027,7 @@
       "speechIndex": 102,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3251,3320",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3251&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3251&autoplay=true&anf=102",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -20226,7 +20226,7 @@
       "speechIndex": 103,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3325,3396",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3325&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3325&autoplay=true&anf=103",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -20388,7 +20388,7 @@
       "speechIndex": 104,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3396,3470",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3396&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3396&autoplay=true&anf=104",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -20537,7 +20537,7 @@
       "speechIndex": 105,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3482,3537",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3482&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3482&autoplay=true&anf=105",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -20699,7 +20699,7 @@
       "speechIndex": 106,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3537,3606",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3537&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3537&autoplay=true&anf=106",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -20867,7 +20867,7 @@
       "speechIndex": 107,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3611,3654",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3611&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3611&autoplay=true&anf=107",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21003,7 +21003,7 @@
       "speechIndex": 108,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3654,3720",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3654&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3654&autoplay=true&anf=108",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21197,7 +21197,7 @@
       "speechIndex": 109,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3728,3798",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3728&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3728&autoplay=true&anf=109",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21394,7 +21394,7 @@
       "speechIndex": 110,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3798,3866",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3798&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3798&autoplay=true&anf=110",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21537,7 +21537,7 @@
       "speechIndex": 111,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3875,3927",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3875&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3875&autoplay=true&anf=111",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21705,7 +21705,7 @@
       "speechIndex": 112,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=3927,4002",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3927&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=3927&autoplay=true&anf=112",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -21899,7 +21899,7 @@
       "speechIndex": 113,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4008,4066",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4008&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4008&autoplay=true&anf=113",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22071,7 +22071,7 @@
       "speechIndex": 114,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4066,4134",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4066&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4066&autoplay=true&anf=114",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22233,7 +22233,7 @@
       "speechIndex": 115,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4140,4200",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4140&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4140&autoplay=true&anf=115",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22408,7 +22408,7 @@
       "speechIndex": 116,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4200,4266",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4200&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4200&autoplay=true&anf=116",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22589,7 +22589,7 @@
       "speechIndex": 117,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4271,4338",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4271&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4271&autoplay=true&anf=117",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22744,7 +22744,7 @@
       "speechIndex": 118,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4338,4403",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4338&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4338&autoplay=true&anf=118",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -22911,7 +22911,7 @@
       "speechIndex": 119,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4408,4464",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4408&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4408&autoplay=true&anf=119",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -23067,7 +23067,7 @@
       "speechIndex": 120,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4464,4534",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4464&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4464&autoplay=true&anf=120",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -23230,7 +23230,7 @@
       "speechIndex": 121,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4537,4607",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4537&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4537&autoplay=true&anf=121",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -23392,7 +23392,7 @@
       "speechIndex": 122,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055768921_720p.mp4#t=4607,4676",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4607&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/fragestund/fragestund_HDC120260521fs?pos=4607&autoplay=true&anf=122",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -23586,7 +23586,7 @@
       "speechIndex": 123,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055771321_720p.mp4#t=616,1087",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/interparlamentariska-unionen_HD01UU13?pos=616&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/interparlamentariska-unionen_HD01UU13?pos=616&autoplay=true&anf=123",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -24186,7 +24186,7 @@
       "speechIndex": 124,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055771321_720p.mp4#t=1098,1689",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/interparlamentariska-unionen_HD01UU13?pos=1098&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/interparlamentariska-unionen_HD01UU13?pos=1098&autoplay=true&anf=124",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -24831,7 +24831,7 @@
       "speechIndex": 125,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055773721_720p.mp4#t=19,302",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=19&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=19&autoplay=true&anf=125",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -25200,7 +25200,7 @@
       "speechIndex": 126,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055773721_720p.mp4#t=315,763",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=315&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=315&autoplay=true&anf=126",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -25741,7 +25741,7 @@
       "speechIndex": 127,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055773721_720p.mp4#t=775,1136",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=775&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=775&autoplay=true&anf=127",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -26150,7 +26150,7 @@
       "speechIndex": 128,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055773721_720p.mp4#t=1148,1357",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=1148&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=1148&autoplay=true&anf=128",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -26451,7 +26451,7 @@
       "speechIndex": 129,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055773721_720p.mp4#t=1369,1569",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=1369&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=1369&autoplay=true&anf=129",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -26765,7 +26765,7 @@
       "speechIndex": 130,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055773721_720p.mp4#t=1582,1890",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=1582&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=1582&autoplay=true&anf=130",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -27059,7 +27059,7 @@
       "speechIndex": 131,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055773721_720p.mp4#t=1903,2243",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=1903&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=1903&autoplay=true&anf=131",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -27541,7 +27541,7 @@
       "speechIndex": 132,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055773721_720p.mp4#t=2250,2554",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=2250&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forenklingar-i-jaktlagstiftningen_HD01MJU23?pos=2250&autoplay=true&anf=132",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -27890,7 +27890,7 @@
       "speechIndex": 133,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055778521_720p.mp4#t=15,493",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=15&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=15&autoplay=true&anf=133",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -28346,7 +28346,7 @@
       "speechIndex": 134,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055778521_720p.mp4#t=505,815",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=505&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=505&autoplay=true&anf=134",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -28733,7 +28733,7 @@
       "speechIndex": 135,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055778521_720p.mp4#t=825,911",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=825&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=825&autoplay=true&anf=135",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -28902,7 +28902,7 @@
       "speechIndex": 136,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055778521_720p.mp4#t=911,1030",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=911&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=911&autoplay=true&anf=136",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -29151,7 +29151,7 @@
       "speechIndex": 137,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055778521_720p.mp4#t=1030,1156",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=1030&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=1030&autoplay=true&anf=137",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -29395,7 +29395,7 @@
       "speechIndex": 138,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055778521_720p.mp4#t=1156,1276",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=1156&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=1156&autoplay=true&anf=138",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -29622,7 +29622,7 @@
       "speechIndex": 139,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055778521_720p.mp4#t=1285,1636",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=1285&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/forbattrade-forutsattningar-for-kommuner-att_HD01FiU43?pos=1285&autoplay=true&anf=139",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -30049,7 +30049,7 @@
       "speechIndex": 140,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055780921_720p.mp4#t=15,333",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=15&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=15&autoplay=true&anf=140",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -30390,7 +30390,7 @@
       "speechIndex": 141,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055780921_720p.mp4#t=346,789",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=346&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=346&autoplay=true&anf=141",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -30794,7 +30794,7 @@
       "speechIndex": 142,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055780921_720p.mp4#t=803,1255",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=803&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=803&autoplay=true&anf=142",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -31275,7 +31275,7 @@
       "speechIndex": 143,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055780921_720p.mp4#t=1270,1621",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=1270&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=1270&autoplay=true&anf=143",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -31786,7 +31786,7 @@
       "speechIndex": 144,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055780921_720p.mp4#t=1637,1974",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=1637&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=1637&autoplay=true&anf=144",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
@@ -32117,7 +32117,7 @@
       "speechIndex": 145,
       "media": {
         "videoFileURI": "https://mhdownload.riksdagen.se/VOD1/HD/2442605210055780921_720p.mp4#t=1987,2570",
-        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=1987&autoplay=true",
+        "sourcePage": "https://www.riksdagen.se/sv/webb-tv/video/debatt-om-forslag/en-nationell-utredningsfunktion-for-att_HD01SoU31?pos=1987&autoplay=true&anf=145",
         "creator": "Sveriges Riksdag",
         "license": "https://www.riksdagen.se/en/about-the-website/photo-and-film-rights/",
         "aligned": true,
