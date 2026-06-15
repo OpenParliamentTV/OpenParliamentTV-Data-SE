@@ -1,11 +1,11 @@
 {
   "meta": {
-    "session": "2025-091",
     "schemaVersion": "1.0",
+    "session": "2025-091",
     "dateStart": "2026-03-17T00:00:00",
     "dateEnd": "2026-03-17T23:59:59",
-    "lastUpdate": "2026-05-01T08:15:15",
     "lastProcessing": "align",
+    "lastUpdate": "2026-05-01T08:15:15",
     "processing": {
       "parse_proceedings": "2026-05-01T08:08:14",
       "parse_media": "2026-05-01T08:08:14",
@@ -480,13 +480,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 1,
         "mediaIndex": 1,
-        "debatt_titel": "Finansiell stabilitet och finansmarknadsfrågor",
         "proceedingIndex": 1,
-        "align-duration": 1.7267680168151855,
-        "ner-duration": 0.757559061050415
-      }
+        "alignDuration": 1.7267680168151855,
+        "nerDuration": 0.757559061050415,
+        "anforandeNummer": 1,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1326,13 +1327,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 2,
         "mediaIndex": 2,
-        "debatt_titel": "Finansiell stabilitet och finansmarknadsfrågor",
         "proceedingIndex": 2,
-        "align-duration": 2.661113977432251,
-        "ner-duration": 1.1859588623046875
-      }
+        "alignDuration": 2.661113977432251,
+        "nerDuration": 1.1859588623046875,
+        "anforandeNummer": 2,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1523,13 +1525,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 3,
         "mediaIndex": 3,
-        "debatt_titel": "Finansiell stabilitet och finansmarknadsfrågor",
         "proceedingIndex": 3,
-        "align-duration": 0.5053861141204834,
-        "ner-duration": 0.12805819511413574
-      }
+        "alignDuration": 0.5053861141204834,
+        "nerDuration": 0.12805819511413574,
+        "anforandeNummer": 3,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1770,13 +1773,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 4,
         "mediaIndex": 4,
-        "debatt_titel": "Finansiell stabilitet och finansmarknadsfrågor",
         "proceedingIndex": 4,
-        "align-duration": 0.6280770301818848,
-        "ner-duration": 0.19880294799804688
-      }
+        "alignDuration": 0.6280770301818848,
+        "nerDuration": 0.19880294799804688,
+        "anforandeNummer": 4,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1913,13 +1917,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 5,
         "mediaIndex": 5,
-        "debatt_titel": "Finansiell stabilitet och finansmarknadsfrågor",
         "proceedingIndex": 5,
-        "align-duration": 0.3777620792388916,
-        "ner-duration": 0.06305789947509766
-      }
+        "alignDuration": 0.3777620792388916,
+        "nerDuration": 0.06305789947509766,
+        "anforandeNummer": 5,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2179,13 +2184,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 6,
         "mediaIndex": 6,
-        "debatt_titel": "Finansiell stabilitet och finansmarknadsfrågor",
         "proceedingIndex": 6,
-        "align-duration": 0.630983829498291,
-        "ner-duration": 0.24497103691101074
-      }
+        "alignDuration": 0.630983829498291,
+        "nerDuration": 0.24497103691101074,
+        "anforandeNummer": 6,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2578,13 +2584,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 7,
         "mediaIndex": 7,
-        "debatt_titel": "Finansiell stabilitet och finansmarknadsfrågor",
         "proceedingIndex": 7,
-        "align-duration": 1.317307949066162,
-        "ner-duration": 0.4163818359375
-      }
+        "alignDuration": 1.317307949066162,
+        "nerDuration": 0.4163818359375,
+        "anforandeNummer": 7,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2904,13 +2911,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 8,
         "mediaIndex": 8,
-        "debatt_titel": "Finansiell stabilitet och finansmarknadsfrågor",
         "proceedingIndex": 8,
-        "align-duration": 0.7817769050598145,
-        "ner-duration": 0.33639097213745117
-      }
+        "alignDuration": 0.7817769050598145,
+        "nerDuration": 0.33639097213745117,
+        "anforandeNummer": 8,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -3209,13 +3217,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 9,
         "mediaIndex": 9,
-        "debatt_titel": "Finansiell stabilitet och finansmarknadsfrågor",
         "proceedingIndex": 9,
-        "align-duration": 1.0237879753112793,
-        "ner-duration": 0.3025522232055664
-      }
+        "alignDuration": 1.0237879753112793,
+        "nerDuration": 0.3025522232055664,
+        "anforandeNummer": 9,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -3988,13 +3997,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 10,
         "mediaIndex": 10,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 10,
-        "align-duration": 2.1036529541015625,
-        "ner-duration": 1.1059560775756836
-      }
+        "alignDuration": 2.1036529541015625,
+        "nerDuration": 1.1059560775756836,
+        "anforandeNummer": 10,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -4658,13 +4668,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 11,
         "mediaIndex": 11,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 11,
-        "align-duration": 2.1340858936309814,
-        "ner-duration": 0.8134782314300537
-      }
+        "alignDuration": 2.1340858936309814,
+        "nerDuration": 0.8134782314300537,
+        "anforandeNummer": 11,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5279,13 +5290,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 12,
         "mediaIndex": 12,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 12,
-        "align-duration": 1.8530690670013428,
-        "ner-duration": 0.7419040203094482
-      }
+        "alignDuration": 1.8530690670013428,
+        "nerDuration": 0.7419040203094482,
+        "anforandeNummer": 12,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5540,13 +5552,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 13,
         "mediaIndex": 13,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 13,
-        "align-duration": 0.6537320613861084,
-        "ner-duration": 0.20715904235839844
-      }
+        "alignDuration": 0.6537320613861084,
+        "nerDuration": 0.20715904235839844,
+        "anforandeNummer": 13,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5804,13 +5817,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 14,
         "mediaIndex": 14,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 14,
-        "align-duration": 0.6838903427124023,
-        "ner-duration": 0.3602619171142578
-      }
+        "alignDuration": 0.6838903427124023,
+        "nerDuration": 0.3602619171142578,
+        "anforandeNummer": 14,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6081,13 +6095,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 15,
         "mediaIndex": 15,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 15,
-        "align-duration": 0.6218760013580322,
-        "ner-duration": 0.2065432071685791
-      }
+        "alignDuration": 0.6218760013580322,
+        "nerDuration": 0.2065432071685791,
+        "anforandeNummer": 15,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6366,13 +6381,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 16,
         "mediaIndex": 16,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 16,
-        "align-duration": 0.6951308250427246,
-        "ner-duration": 0.23394417762756348
-      }
+        "alignDuration": 0.6951308250427246,
+        "nerDuration": 0.23394417762756348,
+        "anforandeNummer": 16,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6471,14 +6487,15 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 17,
         "mediaIndex": 17,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 17,
-        "align-skip": "zero-duration-from-source",
-        "align-error": "audio too long (4775s > 2400s)",
-        "ner-duration": 0.03259396553039551
-      }
+        "nerDuration": 0.03259396553039551,
+        "alignError": "audio too long (4775s > 2400s)",
+        "alignSkip": "zero-duration-from-source",
+        "anforandeNummer": 17,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7108,13 +7125,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 18,
         "mediaIndex": 18,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 18,
-        "align-duration": 2.1543779373168945,
-        "ner-duration": 0.929905891418457
-      }
+        "alignDuration": 2.1543779373168945,
+        "nerDuration": 0.929905891418457,
+        "anforandeNummer": 18,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7629,13 +7647,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 19,
         "mediaIndex": 19,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 19,
-        "align-duration": 1.9099810123443604,
-        "ner-duration": 0.6479201316833496
-      }
+        "alignDuration": 1.9099810123443604,
+        "nerDuration": 0.6479201316833496,
+        "anforandeNummer": 19,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7772,13 +7791,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 20,
         "mediaIndex": 20,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 20,
-        "align-duration": 0.43386387825012207,
-        "ner-duration": 0.08963584899902344
-      }
+        "alignDuration": 0.43386387825012207,
+        "nerDuration": 0.08963584899902344,
+        "anforandeNummer": 20,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8001,13 +8021,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 21,
         "mediaIndex": 21,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 21,
-        "align-duration": 0.7554440498352051,
-        "ner-duration": 0.2445518970489502
-      }
+        "alignDuration": 0.7554440498352051,
+        "nerDuration": 0.2445518970489502,
+        "anforandeNummer": 21,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8188,13 +8209,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 22,
         "mediaIndex": 22,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 22,
-        "align-duration": 0.4926600456237793,
-        "ner-duration": 0.10357403755187988
-      }
+        "alignDuration": 0.4926600456237793,
+        "nerDuration": 0.10357403755187988,
+        "anforandeNummer": 22,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8438,13 +8460,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 23,
         "mediaIndex": 23,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 23,
-        "align-duration": 0.6974997520446777,
-        "ner-duration": 0.18718695640563965
-      }
+        "alignDuration": 0.6974997520446777,
+        "nerDuration": 0.18718695640563965,
+        "anforandeNummer": 23,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8944,13 +8967,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 24,
         "mediaIndex": 24,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 24,
-        "align-duration": 1.9580740928649902,
-        "ner-duration": 0.6099729537963867
-      }
+        "alignDuration": 1.9580740928649902,
+        "nerDuration": 0.6099729537963867,
+        "anforandeNummer": 24,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -9499,13 +9523,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 25,
         "mediaIndex": 25,
-        "debatt_titel": "Kommunala frågor",
         "proceedingIndex": 25,
-        "align-duration": 1.7191569805145264,
-        "ner-duration": 0.6041102409362793
-      }
+        "alignDuration": 1.7191569805145264,
+        "nerDuration": 0.6041102409362793,
+        "anforandeNummer": 25,
+        "debattTitel": "Kommunala frågor"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -10140,13 +10165,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 26,
         "mediaIndex": 26,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 26,
-        "align-duration": 2.3450281620025635,
-        "ner-duration": 0.8053019046783447
-      }
+        "alignDuration": 2.3450281620025635,
+        "nerDuration": 0.8053019046783447,
+        "anforandeNummer": 26,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -10378,13 +10404,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 27,
         "mediaIndex": 27,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 27,
-        "align-duration": 0.6047191619873047,
-        "ner-duration": 0.17937278747558594
-      }
+        "alignDuration": 0.6047191619873047,
+        "nerDuration": 0.17937278747558594,
+        "anforandeNummer": 27,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -10620,13 +10647,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 28,
         "mediaIndex": 28,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 28,
-        "align-duration": 0.6527740955352783,
-        "ner-duration": 0.17685914039611816
-      }
+        "alignDuration": 0.6527740955352783,
+        "nerDuration": 0.17685914039611816,
+        "anforandeNummer": 28,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -10887,13 +10915,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 29,
         "mediaIndex": 29,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 29,
-        "align-duration": 0.6662042140960693,
-        "ner-duration": 0.23809313774108887
-      }
+        "alignDuration": 0.6662042140960693,
+        "nerDuration": 0.23809313774108887,
+        "anforandeNummer": 29,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11137,13 +11166,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 30,
         "mediaIndex": 30,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 30,
-        "align-duration": 0.6228542327880859,
-        "ner-duration": 0.18741202354431152
-      }
+        "alignDuration": 0.6228542327880859,
+        "nerDuration": 0.18741202354431152,
+        "anforandeNummer": 30,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11347,13 +11377,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 31,
         "mediaIndex": 31,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 31,
-        "align-duration": 0.6182289123535156,
-        "ner-duration": 0.15756869316101074
-      }
+        "alignDuration": 0.6182289123535156,
+        "nerDuration": 0.15756869316101074,
+        "anforandeNummer": 31,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11440,14 +11471,15 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 32,
         "mediaIndex": 32,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 32,
-        "align-skip": "zero-duration-from-source",
-        "align-error": "audio too long (6771s > 2400s)",
-        "ner-duration": 0.009589910507202148
-      }
+        "nerDuration": 0.009589910507202148,
+        "alignError": "audio too long (6771s > 2400s)",
+        "alignSkip": "zero-duration-from-source",
+        "anforandeNummer": 32,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11639,13 +11671,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 33,
         "mediaIndex": 33,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 33,
-        "align-duration": 0.6828718185424805,
-        "ner-duration": 0.1423492431640625
-      }
+        "alignDuration": 0.6828718185424805,
+        "nerDuration": 0.1423492431640625,
+        "anforandeNummer": 33,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11836,13 +11869,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 34,
         "mediaIndex": 34,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 34,
-        "align-duration": 0.5720160007476807,
-        "ner-duration": 0.14692401885986328
-      }
+        "alignDuration": 0.5720160007476807,
+        "nerDuration": 0.14692401885986328,
+        "anforandeNummer": 34,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12053,13 +12087,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 35,
         "mediaIndex": 35,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 35,
-        "align-duration": 0.5504269599914551,
-        "ner-duration": 0.1473400592803955
-      }
+        "alignDuration": 0.5504269599914551,
+        "nerDuration": 0.1473400592803955,
+        "anforandeNummer": 35,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12291,13 +12326,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 36,
         "mediaIndex": 36,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 36,
-        "align-duration": 0.6090900897979736,
-        "ner-duration": 0.157271146774292
-      }
+        "alignDuration": 0.6090900897979736,
+        "nerDuration": 0.157271146774292,
+        "anforandeNummer": 36,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12527,13 +12563,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 37,
         "mediaIndex": 37,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 37,
-        "align-duration": 0.6274058818817139,
-        "ner-duration": 0.1942751407623291
-      }
+        "alignDuration": 0.6274058818817139,
+        "nerDuration": 0.1942751407623291,
+        "anforandeNummer": 37,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12748,13 +12785,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 38,
         "mediaIndex": 38,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 38,
-        "align-duration": 0.6432662010192871,
-        "ner-duration": 0.17410993576049805
-      }
+        "alignDuration": 0.6432662010192871,
+        "nerDuration": 0.17410993576049805,
+        "anforandeNummer": 38,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12958,13 +12996,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 39,
         "mediaIndex": 39,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 39,
-        "align-duration": 0.5971689224243164,
-        "ner-duration": 0.14947724342346191
-      }
+        "alignDuration": 0.5971689224243164,
+        "nerDuration": 0.14947724342346191,
+        "anforandeNummer": 39,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13207,13 +13246,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 40,
         "mediaIndex": 40,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 40,
-        "align-duration": 0.6276071071624756,
-        "ner-duration": 0.2024531364440918
-      }
+        "alignDuration": 0.6276071071624756,
+        "nerDuration": 0.2024531364440918,
+        "anforandeNummer": 40,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13479,13 +13519,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 41,
         "mediaIndex": 41,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 41,
-        "align-duration": 0.625805139541626,
-        "ner-duration": 0.21665692329406738
-      }
+        "alignDuration": 0.625805139541626,
+        "nerDuration": 0.21665692329406738,
+        "anforandeNummer": 41,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13647,13 +13688,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 42,
         "mediaIndex": 42,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 42,
-        "align-duration": 0.4897608757019043,
-        "ner-duration": 0.09274029731750488
-      }
+        "alignDuration": 0.4897608757019043,
+        "nerDuration": 0.09274029731750488,
+        "anforandeNummer": 42,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13857,13 +13899,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 43,
         "mediaIndex": 43,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 43,
-        "align-duration": 0.6379787921905518,
-        "ner-duration": 0.1776130199432373
-      }
+        "alignDuration": 0.6379787921905518,
+        "nerDuration": 0.1776130199432373,
+        "anforandeNummer": 43,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14549,13 +14592,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 44,
         "mediaIndex": 44,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 44,
-        "align-duration": 2.0928640365600586,
-        "ner-duration": 0.742650032043457
-      }
+        "alignDuration": 2.0928640365600586,
+        "nerDuration": 0.742650032043457,
+        "anforandeNummer": 44,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14740,13 +14784,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 45,
         "mediaIndex": 45,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 45,
-        "align-duration": 0.6273977756500244,
-        "ner-duration": 0.14629387855529785
-      }
+        "alignDuration": 0.6273977756500244,
+        "nerDuration": 0.14629387855529785,
+        "anforandeNummer": 45,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14999,13 +15044,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 46,
         "mediaIndex": 46,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 46,
-        "align-duration": 0.6142299175262451,
-        "ner-duration": 0.17605996131896973
-      }
+        "alignDuration": 0.6142299175262451,
+        "nerDuration": 0.17605996131896973,
+        "anforandeNummer": 46,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15220,13 +15266,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 47,
         "mediaIndex": 47,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 47,
-        "align-duration": 0.6609420776367188,
-        "ner-duration": 0.15629792213439941
-      }
+        "alignDuration": 0.6609420776367188,
+        "nerDuration": 0.15629792213439941,
+        "anforandeNummer": 47,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15508,13 +15555,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 48,
         "mediaIndex": 48,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 48,
-        "align-duration": 0.6597959995269775,
-        "ner-duration": 0.20390796661376953
-      }
+        "alignDuration": 0.6597959995269775,
+        "nerDuration": 0.20390796661376953,
+        "anforandeNummer": 48,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15711,13 +15759,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 49,
         "mediaIndex": 49,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 49,
-        "align-duration": 0.47030019760131836,
-        "ner-duration": 0.13366222381591797
-      }
+        "alignDuration": 0.47030019760131836,
+        "nerDuration": 0.13366222381591797,
+        "anforandeNummer": 49,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16005,13 +16054,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 50,
         "mediaIndex": 50,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 50,
-        "align-duration": 0.6686108112335205,
-        "ner-duration": 0.2691841125488281
-      }
+        "alignDuration": 0.6686108112335205,
+        "nerDuration": 0.2691841125488281,
+        "anforandeNummer": 50,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16198,13 +16248,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 51,
         "mediaIndex": 51,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 51,
-        "align-duration": 0.4760158061981201,
-        "ner-duration": 0.09540486335754395
-      }
+        "alignDuration": 0.4760158061981201,
+        "nerDuration": 0.09540486335754395,
+        "anforandeNummer": 51,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16478,13 +16529,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 52,
         "mediaIndex": 52,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 52,
-        "align-duration": 0.7457499504089355,
-        "ner-duration": 0.20643925666809082
-      }
+        "alignDuration": 0.7457499504089355,
+        "nerDuration": 0.20643925666809082,
+        "anforandeNummer": 52,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -17423,13 +17475,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 53,
         "mediaIndex": 53,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 53,
-        "align-duration": 2.025291919708252,
-        "ner-duration": 1.0863091945648193
-      }
+        "alignDuration": 2.025291919708252,
+        "nerDuration": 1.0863091945648193,
+        "anforandeNummer": 53,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -17685,13 +17738,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 54,
         "mediaIndex": 54,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 54,
-        "align-duration": 0.6401951313018799,
-        "ner-duration": 0.20046496391296387
-      }
+        "alignDuration": 0.6401951313018799,
+        "nerDuration": 0.20046496391296387,
+        "anforandeNummer": 54,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -17931,13 +17985,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 55,
         "mediaIndex": 55,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 55,
-        "align-duration": 0.5466179847717285,
-        "ner-duration": 0.18358516693115234
-      }
+        "alignDuration": 0.5466179847717285,
+        "nerDuration": 0.18358516693115234,
+        "anforandeNummer": 55,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18221,13 +18276,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 56,
         "mediaIndex": 56,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 56,
-        "align-duration": 0.6439359188079834,
-        "ner-duration": 0.22553396224975586
-      }
+        "alignDuration": 0.6439359188079834,
+        "nerDuration": 0.22553396224975586,
+        "anforandeNummer": 56,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18424,13 +18480,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 57,
         "mediaIndex": 57,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 57,
-        "align-duration": 0.5431859493255615,
-        "ner-duration": 0.14490008354187012
-      }
+        "alignDuration": 0.5431859493255615,
+        "nerDuration": 0.14490008354187012,
+        "anforandeNummer": 57,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18940,13 +18997,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 58,
         "mediaIndex": 58,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 58,
-        "align-duration": 2.0318362712860107,
-        "ner-duration": 0.6297729015350342
-      }
+        "alignDuration": 2.0318362712860107,
+        "nerDuration": 0.6297729015350342,
+        "anforandeNummer": 58,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -19672,13 +19730,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 59,
         "mediaIndex": 59,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 59,
-        "align-duration": 2.223629951477051,
-        "ner-duration": 0.8809871673583984
-      }
+        "alignDuration": 2.223629951477051,
+        "nerDuration": 0.8809871673583984,
+        "anforandeNummer": 59,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20269,13 +20328,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 60,
         "mediaIndex": 60,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 60,
-        "align-duration": 1.9005911350250244,
-        "ner-duration": 0.6551051139831543
-      }
+        "alignDuration": 1.9005911350250244,
+        "nerDuration": 0.6551051139831543,
+        "anforandeNummer": 60,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20394,13 +20454,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 61,
         "mediaIndex": 61,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 61,
-        "align-duration": 0.3232855796813965,
-        "ner-duration": 0.03730010986328125
-      }
+        "alignDuration": 0.3232855796813965,
+        "nerDuration": 0.03730010986328125,
+        "anforandeNummer": 61,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20628,13 +20689,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 62,
         "mediaIndex": 62,
-        "debatt_titel": "Näringspolitik",
         "proceedingIndex": 62,
-        "align-duration": 0.7653713226318359,
-        "ner-duration": 0.21953487396240234
-      }
+        "alignDuration": 0.7653713226318359,
+        "nerDuration": 0.21953487396240234,
+        "anforandeNummer": 62,
+        "debattTitel": "Näringspolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -21232,13 +21294,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 63,
         "mediaIndex": 63,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 63,
-        "align-duration": 2.2980058193206787,
-        "ner-duration": 0.7826941013336182
-      }
+        "alignDuration": 2.2980058193206787,
+        "nerDuration": 0.7826941013336182,
+        "anforandeNummer": 63,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -21431,13 +21494,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 64,
         "mediaIndex": 64,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 64,
-        "align-duration": 0.6566948890686035,
-        "ner-duration": 0.14328789710998535
-      }
+        "alignDuration": 0.6566948890686035,
+        "nerDuration": 0.14328789710998535,
+        "anforandeNummer": 64,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -21634,13 +21698,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 65,
         "mediaIndex": 65,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 65,
-        "align-duration": 0.6516001224517822,
-        "ner-duration": 0.16262388229370117
-      }
+        "alignDuration": 0.6516001224517822,
+        "nerDuration": 0.16262388229370117,
+        "anforandeNummer": 65,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -21809,13 +21874,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 66,
         "mediaIndex": 66,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 66,
-        "align-duration": 0.5599019527435303,
-        "ner-duration": 0.11119413375854492
-      }
+        "alignDuration": 0.5599019527435303,
+        "nerDuration": 0.11119413375854492,
+        "anforandeNummer": 66,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22019,13 +22085,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 67,
         "mediaIndex": 67,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 67,
-        "align-duration": 0.5613019466400146,
-        "ner-duration": 0.14958882331848145
-      }
+        "alignDuration": 0.5613019466400146,
+        "nerDuration": 0.14958882331848145,
+        "anforandeNummer": 67,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22204,13 +22271,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 68,
         "mediaIndex": 68,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 68,
-        "align-duration": 0.6785540580749512,
-        "ner-duration": 0.13579416275024414
-      }
+        "alignDuration": 0.6785540580749512,
+        "nerDuration": 0.13579416275024414,
+        "anforandeNummer": 68,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22416,13 +22484,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 69,
         "mediaIndex": 69,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 69,
-        "align-duration": 0.651961088180542,
-        "ner-duration": 0.15856099128723145
-      }
+        "alignDuration": 0.651961088180542,
+        "nerDuration": 0.15856099128723145,
+        "anforandeNummer": 69,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22564,13 +22633,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 70,
         "mediaIndex": 70,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 70,
-        "align-duration": 0.544287919998169,
-        "ner-duration": 0.11542510986328125
-      }
+        "alignDuration": 0.544287919998169,
+        "nerDuration": 0.11542510986328125,
+        "anforandeNummer": 70,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22779,13 +22849,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 71,
         "mediaIndex": 71,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 71,
-        "align-duration": 0.6666321754455566,
-        "ner-duration": 0.17867708206176758
-      }
+        "alignDuration": 0.6666321754455566,
+        "nerDuration": 0.17867708206176758,
+        "anforandeNummer": 71,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -23325,13 +23396,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 72,
         "mediaIndex": 72,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 72,
-        "align-duration": 2.012753963470459,
-        "ner-duration": 0.65323805809021
-      }
+        "alignDuration": 2.012753963470459,
+        "nerDuration": 0.65323805809021,
+        "anforandeNummer": 72,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -23971,13 +24043,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 73,
         "mediaIndex": 73,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 73,
-        "align-duration": 1.6311120986938477,
-        "ner-duration": 0.726661205291748
-      }
+        "alignDuration": 1.6311120986938477,
+        "nerDuration": 0.726661205291748,
+        "anforandeNummer": 73,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -24147,13 +24220,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 74,
         "mediaIndex": 74,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 74,
-        "align-duration": 0.5090241432189941,
-        "ner-duration": 0.09276318550109863
-      }
+        "alignDuration": 0.5090241432189941,
+        "nerDuration": 0.09276318550109863,
+        "anforandeNummer": 74,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -24369,13 +24443,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 75,
         "mediaIndex": 75,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 75,
-        "align-duration": 0.4808380603790283,
-        "ner-duration": 0.15182995796203613
-      }
+        "alignDuration": 0.4808380603790283,
+        "nerDuration": 0.15182995796203613,
+        "anforandeNummer": 75,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -24507,13 +24582,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 76,
         "mediaIndex": 76,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 76,
-        "align-duration": 0.4018838405609131,
-        "ner-duration": 0.04861903190612793
-      }
+        "alignDuration": 0.4018838405609131,
+        "nerDuration": 0.04861903190612793,
+        "anforandeNummer": 76,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -24643,13 +24719,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 77,
         "mediaIndex": 77,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 77,
-        "align-duration": 0.36139893531799316,
-        "ner-duration": 0.05832505226135254
-      }
+        "alignDuration": 0.36139893531799316,
+        "nerDuration": 0.05832505226135254,
+        "anforandeNummer": 77,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -24807,13 +24884,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 78,
         "mediaIndex": 78,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 78,
-        "align-duration": 0.4164741039276123,
-        "ner-duration": 0.06949019432067871
-      }
+        "alignDuration": 0.4164741039276123,
+        "nerDuration": 0.06949019432067871,
+        "anforandeNummer": 78,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -24999,13 +25077,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 79,
         "mediaIndex": 79,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 79,
-        "align-duration": 0.4437069892883301,
-        "ner-duration": 0.12153983116149902
-      }
+        "alignDuration": 0.4437069892883301,
+        "nerDuration": 0.12153983116149902,
+        "anforandeNummer": 79,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -25175,13 +25254,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 80,
         "mediaIndex": 80,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 80,
-        "align-duration": 0.449404239654541,
-        "ner-duration": 0.08649277687072754
-      }
+        "alignDuration": 0.449404239654541,
+        "nerDuration": 0.08649277687072754,
+        "anforandeNummer": 80,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -25324,13 +25404,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 81,
         "mediaIndex": 81,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 81,
-        "align-duration": 0.3828909397125244,
-        "ner-duration": 0.06590795516967773
-      }
+        "alignDuration": 0.3828909397125244,
+        "nerDuration": 0.06590795516967773,
+        "anforandeNummer": 81,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -25826,13 +25907,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 82,
         "mediaIndex": 82,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 82,
-        "align-duration": 1.9617071151733398,
-        "ner-duration": 0.5779669284820557
-      }
+        "alignDuration": 1.9617071151733398,
+        "nerDuration": 0.5779669284820557,
+        "anforandeNummer": 82,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -26323,13 +26405,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 83,
         "mediaIndex": 83,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 83,
-        "align-duration": 1.2912569046020508,
-        "ner-duration": 0.5035998821258545
-      }
+        "alignDuration": 1.2912569046020508,
+        "nerDuration": 0.5035998821258545,
+        "anforandeNummer": 83,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -26497,13 +26580,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 84,
         "mediaIndex": 84,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 84,
-        "align-duration": 0.4882659912109375,
-        "ner-duration": 0.10173988342285156
-      }
+        "alignDuration": 0.4882659912109375,
+        "nerDuration": 0.10173988342285156,
+        "anforandeNummer": 84,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -26664,13 +26748,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 85,
         "mediaIndex": 85,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 85,
-        "align-duration": 0.39724016189575195,
-        "ner-duration": 0.08063793182373047
-      }
+        "alignDuration": 0.39724016189575195,
+        "nerDuration": 0.08063793182373047,
+        "anforandeNummer": 85,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -26820,13 +26905,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 86,
         "mediaIndex": 86,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 86,
-        "align-duration": 0.4386870861053467,
-        "ner-duration": 0.07007312774658203
-      }
+        "alignDuration": 0.4386870861053467,
+        "nerDuration": 0.07007312774658203,
+        "anforandeNummer": 86,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -26995,13 +27081,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 87,
         "mediaIndex": 87,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 87,
-        "align-duration": 0.45046234130859375,
-        "ner-duration": 0.0926048755645752
-      }
+        "alignDuration": 0.45046234130859375,
+        "nerDuration": 0.0926048755645752,
+        "anforandeNummer": 87,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -27207,13 +27294,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 88,
         "mediaIndex": 88,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 88,
-        "align-duration": 0.5332849025726318,
-        "ner-duration": 0.13115406036376953
-      }
+        "alignDuration": 0.5332849025726318,
+        "nerDuration": 0.13115406036376953,
+        "anforandeNummer": 88,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -27475,13 +27563,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 89,
         "mediaIndex": 89,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 89,
-        "align-duration": 0.6570250988006592,
-        "ner-duration": 0.19598817825317383
-      }
+        "alignDuration": 0.6570250988006592,
+        "nerDuration": 0.19598817825317383,
+        "anforandeNummer": 89,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -27717,13 +27806,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 90,
         "mediaIndex": 90,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 90,
-        "align-duration": 0.6524319648742676,
-        "ner-duration": 0.18895912170410156
-      }
+        "alignDuration": 0.6524319648742676,
+        "nerDuration": 0.18895912170410156,
+        "anforandeNummer": 90,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -27972,13 +28062,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 91,
         "mediaIndex": 91,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 91,
-        "align-duration": 0.6238479614257812,
-        "ner-duration": 0.17976021766662598
-      }
+        "alignDuration": 0.6238479614257812,
+        "nerDuration": 0.17976021766662598,
+        "anforandeNummer": 91,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -28695,13 +28786,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 92,
         "mediaIndex": 92,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 92,
-        "align-duration": 1.813380241394043,
-        "ner-duration": 0.7776899337768555
-      }
+        "alignDuration": 1.813380241394043,
+        "nerDuration": 0.7776899337768555,
+        "anforandeNummer": 92,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -29441,13 +29533,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 93,
         "mediaIndex": 93,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 93,
-        "align-duration": 2.597574234008789,
-        "ner-duration": 0.9258921146392822
-      }
+        "alignDuration": 2.597574234008789,
+        "nerDuration": 0.9258921146392822,
+        "anforandeNummer": 93,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -29646,13 +29739,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 94,
         "mediaIndex": 94,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 94,
-        "align-duration": 0.6682412624359131,
-        "ner-duration": 0.16915082931518555
-      }
+        "alignDuration": 0.6682412624359131,
+        "nerDuration": 0.16915082931518555,
+        "anforandeNummer": 94,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -29862,13 +29956,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 95,
         "mediaIndex": 95,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 95,
-        "align-duration": 0.6631402969360352,
-        "ner-duration": 0.16101789474487305
-      }
+        "alignDuration": 0.6631402969360352,
+        "nerDuration": 0.16101789474487305,
+        "anforandeNummer": 95,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -30092,13 +30187,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 96,
         "mediaIndex": 96,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 96,
-        "align-duration": 0.695300817489624,
-        "ner-duration": 0.15668392181396484
-      }
+        "alignDuration": 0.695300817489624,
+        "nerDuration": 0.15668392181396484,
+        "anforandeNummer": 96,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -30313,13 +30409,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 97,
         "mediaIndex": 97,
-        "debatt_titel": "Mineralpolitik",
         "proceedingIndex": 97,
-        "align-duration": 0.6587100028991699,
-        "ner-duration": 0.16644620895385742
-      }
+        "alignDuration": 0.6587100028991699,
+        "nerDuration": 0.16644620895385742,
+        "anforandeNummer": 97,
+        "debattTitel": "Mineralpolitik"
+      },
+      "originalLanguage": "sv"
     }
   ]
 }

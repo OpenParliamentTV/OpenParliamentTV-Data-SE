@@ -1,11 +1,11 @@
 {
   "meta": {
-    "session": "2025-030",
     "schemaVersion": "1.0",
+    "session": "2025-030",
     "dateStart": "2025-11-11T00:00:00",
     "dateEnd": "2025-11-11T23:59:59",
-    "lastUpdate": "2026-05-24T10:55:49",
     "lastProcessing": "align",
+    "lastUpdate": "2026-05-24T10:55:49",
     "processing": {
       "parse_proceedings": "2026-05-24T10:54:23",
       "parse_media": "2026-05-24T10:54:23",
@@ -268,13 +268,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 1,
         "mediaIndex": 1,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 1,
-        "align-duration": 1.0599761009216309,
-        "ner-duration": 0.6315550804138184
-      }
+        "alignDuration": 1.0599761009216309,
+        "nerDuration": 0.6315550804138184,
+        "anforandeNummer": 1,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -547,13 +548,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 2,
         "mediaIndex": 2,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 2,
-        "align-duration": 0.972430944442749,
-        "ner-duration": 0.47809815406799316
-      }
+        "alignDuration": 0.972430944442749,
+        "nerDuration": 0.47809815406799316,
+        "anforandeNummer": 2,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -858,13 +860,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 3,
         "mediaIndex": 3,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 3,
-        "align-duration": 0.9042680263519287,
-        "ner-duration": 0.7129631042480469
-      }
+        "alignDuration": 0.9042680263519287,
+        "nerDuration": 0.7129631042480469,
+        "anforandeNummer": 3,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1220,13 +1223,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 4,
         "mediaIndex": 4,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 4,
-        "align-duration": 0.9626469612121582,
-        "ner-duration": 0.7868893146514893
-      }
+        "alignDuration": 0.9626469612121582,
+        "nerDuration": 0.7868893146514893,
+        "anforandeNummer": 4,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1478,13 +1482,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 5,
         "mediaIndex": 5,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 5,
-        "align-duration": 0.8717989921569824,
-        "ner-duration": 0.30669093132019043
-      }
+        "alignDuration": 0.8717989921569824,
+        "nerDuration": 0.30669093132019043,
+        "anforandeNummer": 5,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1748,13 +1753,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 6,
         "mediaIndex": 6,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 6,
-        "align-duration": 0.9850759506225586,
-        "ner-duration": 0.4737091064453125
-      }
+        "alignDuration": 0.9850759506225586,
+        "nerDuration": 0.4737091064453125,
+        "anforandeNummer": 6,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1963,13 +1969,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 7,
         "mediaIndex": 7,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 7,
-        "align-duration": 0.6276531219482422,
-        "ner-duration": 0.24567389488220215
-      }
+        "alignDuration": 0.6276531219482422,
+        "nerDuration": 0.24567389488220215,
+        "anforandeNummer": 7,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2225,13 +2232,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 8,
         "mediaIndex": 8,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 8,
-        "align-duration": 0.6305699348449707,
-        "ner-duration": 0.21300315856933594
-      }
+        "alignDuration": 0.6305699348449707,
+        "nerDuration": 0.21300315856933594,
+        "anforandeNummer": 8,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2468,13 +2476,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 9,
         "mediaIndex": 9,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 9,
-        "align-duration": 0.7349758148193359,
-        "ner-duration": 0.2775542736053467
-      }
+        "alignDuration": 0.7349758148193359,
+        "nerDuration": 0.2775542736053467,
+        "anforandeNummer": 9,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2660,13 +2669,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 10,
         "mediaIndex": 10,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 10,
-        "align-duration": 0.6300761699676514,
-        "ner-duration": 0.14283204078674316
-      }
+        "alignDuration": 0.6300761699676514,
+        "nerDuration": 0.14283204078674316,
+        "anforandeNummer": 10,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2859,13 +2869,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 11,
         "mediaIndex": 11,
-        "debatt_titel": "De mindre universitetens betydelse för hela landet",
         "proceedingIndex": 11,
-        "align-duration": 0.545583963394165,
-        "ner-duration": 0.15274715423583984
-      }
+        "alignDuration": 0.545583963394165,
+        "nerDuration": 0.15274715423583984,
+        "anforandeNummer": 11,
+        "debattTitel": "De mindre universitetens betydelse för hela landet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -3243,13 +3254,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 12,
         "mediaIndex": 12,
-        "debatt_titel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
         "proceedingIndex": 12,
-        "align-duration": 0.8686447143554688,
-        "ner-duration": 0.9732098579406738
-      }
+        "alignDuration": 0.8686447143554688,
+        "nerDuration": 0.9732098579406738,
+        "anforandeNummer": 12,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -3562,13 +3574,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 13,
         "mediaIndex": 13,
-        "debatt_titel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
         "proceedingIndex": 13,
-        "align-duration": 1.0277178287506104,
-        "ner-duration": 0.6656160354614258
-      }
+        "alignDuration": 1.0277178287506104,
+        "nerDuration": 0.6656160354614258,
+        "anforandeNummer": 13,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -3805,13 +3818,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 14,
         "mediaIndex": 14,
-        "debatt_titel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
         "proceedingIndex": 14,
-        "align-duration": 0.764915943145752,
-        "ner-duration": 0.2299818992614746
-      }
+        "alignDuration": 0.764915943145752,
+        "nerDuration": 0.2299818992614746,
+        "anforandeNummer": 14,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -4158,13 +4172,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 15,
         "mediaIndex": 15,
-        "debatt_titel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
         "proceedingIndex": 15,
-        "align-duration": 1.0106031894683838,
-        "ner-duration": 0.3547689914703369
-      }
+        "alignDuration": 1.0106031894683838,
+        "nerDuration": 0.3547689914703369,
+        "anforandeNummer": 15,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -4487,13 +4502,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 16,
         "mediaIndex": 16,
-        "debatt_titel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
         "proceedingIndex": 16,
-        "align-duration": 0.8220720291137695,
-        "ner-duration": 0.28284311294555664
-      }
+        "alignDuration": 0.8220720291137695,
+        "nerDuration": 0.28284311294555664,
+        "anforandeNummer": 16,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -4705,13 +4721,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 17,
         "mediaIndex": 17,
-        "debatt_titel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
         "proceedingIndex": 17,
-        "align-duration": 0.6275720596313477,
-        "ner-duration": 0.1394360065460205
-      }
+        "alignDuration": 0.6275720596313477,
+        "nerDuration": 0.1394360065460205,
+        "anforandeNummer": 17,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -4956,13 +4973,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 18,
         "mediaIndex": 18,
-        "debatt_titel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
         "proceedingIndex": 18,
-        "align-duration": 0.6157362461090088,
-        "ner-duration": 0.19445490837097168
-      }
+        "alignDuration": 0.6157362461090088,
+        "nerDuration": 0.19445490837097168,
+        "anforandeNummer": 18,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5232,13 +5250,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 19,
         "mediaIndex": 19,
-        "debatt_titel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
         "proceedingIndex": 19,
-        "align-duration": 0.7268579006195068,
-        "ner-duration": 0.34101414680480957
-      }
+        "alignDuration": 0.7268579006195068,
+        "nerDuration": 0.34101414680480957,
+        "anforandeNummer": 19,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5595,13 +5614,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 20,
         "mediaIndex": 20,
-        "debatt_titel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
         "proceedingIndex": 20,
-        "align-duration": 1.0081830024719238,
-        "ner-duration": 0.6824719905853271
-      }
+        "alignDuration": 1.0081830024719238,
+        "nerDuration": 0.6824719905853271,
+        "anforandeNummer": 20,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5876,13 +5896,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 21,
         "mediaIndex": 21,
-        "debatt_titel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
         "proceedingIndex": 21,
-        "align-duration": 0.712183952331543,
-        "ner-duration": 0.2339341640472412
-      }
+        "alignDuration": 0.712183952331543,
+        "nerDuration": 0.2339341640472412,
+        "anforandeNummer": 21,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6187,13 +6208,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 22,
         "mediaIndex": 22,
-        "debatt_titel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
         "proceedingIndex": 22,
-        "align-duration": 0.7437279224395752,
-        "ner-duration": 0.281843900680542
-      }
+        "alignDuration": 0.7437279224395752,
+        "nerDuration": 0.281843900680542,
+        "anforandeNummer": 22,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6414,13 +6436,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 23,
         "mediaIndex": 23,
-        "debatt_titel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
         "proceedingIndex": 23,
-        "align-duration": 0.5748081207275391,
-        "ner-duration": 0.6543450355529785
-      }
+        "alignDuration": 0.5748081207275391,
+        "nerDuration": 0.6543450355529785,
+        "anforandeNummer": 23,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6662,13 +6685,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 24,
         "mediaIndex": 24,
-        "debatt_titel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
         "proceedingIndex": 24,
-        "align-duration": 0.6391150951385498,
-        "ner-duration": 0.23836302757263184
-      }
+        "alignDuration": 0.6391150951385498,
+        "nerDuration": 0.23836302757263184,
+        "anforandeNummer": 24,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6906,13 +6930,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 25,
         "mediaIndex": 25,
-        "debatt_titel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
         "proceedingIndex": 25,
-        "align-duration": 0.5819299221038818,
-        "ner-duration": 0.2509732246398926
-      }
+        "alignDuration": 0.5819299221038818,
+        "nerDuration": 0.2509732246398926,
+        "anforandeNummer": 25,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7119,13 +7144,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 26,
         "mediaIndex": 26,
-        "debatt_titel": "Handläggningstider hos Jordbruksverket",
         "proceedingIndex": 26,
-        "align-duration": 0.6211788654327393,
-        "ner-duration": 0.2416977882385254
-      }
+        "alignDuration": 0.6211788654327393,
+        "nerDuration": 0.2416977882385254,
+        "anforandeNummer": 26,
+        "debattTitel": "Handläggningstider hos Jordbruksverket"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7386,13 +7412,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 27,
         "mediaIndex": 27,
-        "debatt_titel": "Handläggningstider hos Jordbruksverket",
         "proceedingIndex": 27,
-        "align-duration": 0.972891092300415,
-        "ner-duration": 0.3354952335357666
-      }
+        "alignDuration": 0.972891092300415,
+        "nerDuration": 0.3354952335357666,
+        "anforandeNummer": 27,
+        "debattTitel": "Handläggningstider hos Jordbruksverket"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7607,13 +7634,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 28,
         "mediaIndex": 28,
-        "debatt_titel": "Handläggningstider hos Jordbruksverket",
         "proceedingIndex": 28,
-        "align-duration": 0.718189001083374,
-        "ner-duration": 0.21365118026733398
-      }
+        "alignDuration": 0.718189001083374,
+        "nerDuration": 0.21365118026733398,
+        "anforandeNummer": 28,
+        "debattTitel": "Handläggningstider hos Jordbruksverket"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7946,13 +7974,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 29,
         "mediaIndex": 29,
-        "debatt_titel": "Handläggningstider hos Jordbruksverket",
         "proceedingIndex": 29,
-        "align-duration": 1.0138378143310547,
-        "ner-duration": 0.31638193130493164
-      }
+        "alignDuration": 1.0138378143310547,
+        "nerDuration": 0.31638193130493164,
+        "anforandeNummer": 29,
+        "debattTitel": "Handläggningstider hos Jordbruksverket"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8121,13 +8150,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 30,
         "mediaIndex": 30,
-        "debatt_titel": "Handläggningstider hos Jordbruksverket",
         "proceedingIndex": 30,
-        "align-duration": 0.6962299346923828,
-        "ner-duration": 0.14056611061096191
-      }
+        "alignDuration": 0.6962299346923828,
+        "nerDuration": 0.14056611061096191,
+        "anforandeNummer": 30,
+        "debattTitel": "Handläggningstider hos Jordbruksverket"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8288,13 +8318,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 31,
         "mediaIndex": 31,
-        "debatt_titel": "Handläggningstider hos Jordbruksverket",
         "proceedingIndex": 31,
-        "align-duration": 0.5728342533111572,
-        "ner-duration": 0.10413074493408203
-      }
+        "alignDuration": 0.5728342533111572,
+        "nerDuration": 0.10413074493408203,
+        "anforandeNummer": 31,
+        "debattTitel": "Handläggningstider hos Jordbruksverket"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8492,13 +8523,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 32,
         "mediaIndex": 32,
-        "debatt_titel": "Handläggningstider hos Jordbruksverket",
         "proceedingIndex": 32,
-        "align-duration": 0.5648660659790039,
-        "ner-duration": 0.14881110191345215
-      }
+        "alignDuration": 0.5648660659790039,
+        "nerDuration": 0.14881110191345215,
+        "anforandeNummer": 32,
+        "debattTitel": "Handläggningstider hos Jordbruksverket"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8691,13 +8723,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 33,
         "mediaIndex": 33,
-        "debatt_titel": "Finansiering av älgförvaltningen",
         "proceedingIndex": 33,
-        "align-duration": 0.6662940979003906,
-        "ner-duration": 0.143571138381958
-      }
+        "alignDuration": 0.6662940979003906,
+        "nerDuration": 0.143571138381958,
+        "anforandeNummer": 33,
+        "debattTitel": "Finansiering av älgförvaltningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8926,13 +8959,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 34,
         "mediaIndex": 34,
-        "debatt_titel": "Finansiering av älgförvaltningen",
         "proceedingIndex": 34,
-        "align-duration": 1.011918067932129,
-        "ner-duration": 0.22166013717651367
-      }
+        "alignDuration": 1.011918067932129,
+        "nerDuration": 0.22166013717651367,
+        "anforandeNummer": 34,
+        "debattTitel": "Finansiering av älgförvaltningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -9165,13 +9199,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 35,
         "mediaIndex": 35,
-        "debatt_titel": "Finansiering av älgförvaltningen",
         "proceedingIndex": 35,
-        "align-duration": 0.8809740543365479,
-        "ner-duration": 0.20146489143371582
-      }
+        "alignDuration": 0.8809740543365479,
+        "nerDuration": 0.20146489143371582,
+        "anforandeNummer": 35,
+        "debattTitel": "Finansiering av älgförvaltningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -9406,13 +9441,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 36,
         "mediaIndex": 36,
-        "debatt_titel": "Finansiering av älgförvaltningen",
         "proceedingIndex": 36,
-        "align-duration": 1.0296010971069336,
-        "ner-duration": 0.2563650608062744
-      }
+        "alignDuration": 1.0296010971069336,
+        "nerDuration": 0.2563650608062744,
+        "anforandeNummer": 36,
+        "debattTitel": "Finansiering av älgförvaltningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -9635,13 +9671,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 37,
         "mediaIndex": 37,
-        "debatt_titel": "Finansiering av älgförvaltningen",
         "proceedingIndex": 37,
-        "align-duration": 0.8007891178131104,
-        "ner-duration": 0.18915510177612305
-      }
+        "alignDuration": 0.8007891178131104,
+        "nerDuration": 0.18915510177612305,
+        "anforandeNummer": 37,
+        "debattTitel": "Finansiering av älgförvaltningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -9795,13 +9832,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 38,
         "mediaIndex": 38,
-        "debatt_titel": "Finansiering av älgförvaltningen",
         "proceedingIndex": 38,
-        "align-duration": 0.6352760791778564,
-        "ner-duration": 0.1067662239074707
-      }
+        "alignDuration": 0.6352760791778564,
+        "nerDuration": 0.1067662239074707,
+        "anforandeNummer": 38,
+        "debattTitel": "Finansiering av älgförvaltningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -9938,13 +9976,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 39,
         "mediaIndex": 39,
-        "debatt_titel": "Finansiering av älgförvaltningen",
         "proceedingIndex": 39,
-        "align-duration": 0.4208369255065918,
-        "ner-duration": 0.0673668384552002
-      }
+        "alignDuration": 0.4208369255065918,
+        "nerDuration": 0.0673668384552002,
+        "anforandeNummer": 39,
+        "debattTitel": "Finansiering av älgförvaltningen"
+      },
+      "originalLanguage": "sv"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "session": "2025-122",
     "schemaVersion": "1.0",
+    "session": "2025-122",
     "dateStart": "2026-05-21T00:00:00",
     "dateEnd": "2026-05-21T23:59:59",
-    "lastUpdate": "2026-05-24T10:59:52",
     "lastProcessing": "align",
+    "lastUpdate": "2026-05-24T10:59:52",
     "processing": {
       "parse_proceedings": "2026-05-24T10:54:30",
       "parse_media": "2026-05-24T10:54:30",
@@ -271,13 +271,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 1,
         "mediaIndex": 1,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 1,
-        "align-duration": 1.0239520072937012,
-        "ner-duration": 0.27026891708374023
-      }
+        "alignDuration": 1.0239520072937012,
+        "nerDuration": 0.27026891708374023,
+        "anforandeNummer": 1,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -461,13 +462,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 2,
         "mediaIndex": 2,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 2,
-        "align-duration": 0.6046321392059326,
-        "ner-duration": 0.17835617065429688
-      }
+        "alignDuration": 0.6046321392059326,
+        "nerDuration": 0.17835617065429688,
+        "anforandeNummer": 2,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -659,13 +661,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 3,
         "mediaIndex": 3,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 3,
-        "align-duration": 0.6710820198059082,
-        "ner-duration": 0.15993809700012207
-      }
+        "alignDuration": 0.6710820198059082,
+        "nerDuration": 0.15993809700012207,
+        "anforandeNummer": 3,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -880,13 +883,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 4,
         "mediaIndex": 4,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 4,
-        "align-duration": 0.6195919513702393,
-        "ner-duration": 0.19111299514770508
-      }
+        "alignDuration": 0.6195919513702393,
+        "nerDuration": 0.19111299514770508,
+        "anforandeNummer": 4,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1107,13 +1111,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 5,
         "mediaIndex": 5,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 5,
-        "align-duration": 0.655026912689209,
-        "ner-duration": 0.17302703857421875
-      }
+        "alignDuration": 0.655026912689209,
+        "nerDuration": 0.17302703857421875,
+        "anforandeNummer": 5,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1311,13 +1316,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 6,
         "mediaIndex": 6,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 6,
-        "align-duration": 0.68060302734375,
-        "ner-duration": 0.16341829299926758
-      }
+        "alignDuration": 0.68060302734375,
+        "nerDuration": 0.16341829299926758,
+        "anforandeNummer": 6,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1545,13 +1551,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 7,
         "mediaIndex": 7,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 7,
-        "align-duration": 0.6470949649810791,
-        "ner-duration": 0.19756793975830078
-      }
+        "alignDuration": 0.6470949649810791,
+        "nerDuration": 0.19756793975830078,
+        "anforandeNummer": 7,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -1769,13 +1776,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 8,
         "mediaIndex": 8,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 8,
-        "align-duration": 0.6536839008331299,
-        "ner-duration": 0.16211199760437012
-      }
+        "alignDuration": 0.6536839008331299,
+        "nerDuration": 0.16211199760437012,
+        "anforandeNummer": 8,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2084,13 +2092,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 9,
         "mediaIndex": 9,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 9,
-        "align-duration": 0.6757900714874268,
-        "ner-duration": 0.261171817779541
-      }
+        "alignDuration": 0.6757900714874268,
+        "nerDuration": 0.261171817779541,
+        "anforandeNummer": 9,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2252,13 +2261,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 10,
         "mediaIndex": 10,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 10,
-        "align-duration": 0.3764932155609131,
-        "ner-duration": 0.07427692413330078
-      }
+        "alignDuration": 0.3764932155609131,
+        "nerDuration": 0.07427692413330078,
+        "anforandeNummer": 10,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2480,13 +2490,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 11,
         "mediaIndex": 11,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 11,
-        "align-duration": 0.679804801940918,
-        "ner-duration": 0.18094515800476074
-      }
+        "alignDuration": 0.679804801940918,
+        "nerDuration": 0.18094515800476074,
+        "anforandeNummer": 11,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2629,13 +2640,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 12,
         "mediaIndex": 12,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 12,
-        "align-duration": 0.4134669303894043,
-        "ner-duration": 0.07427310943603516
-      }
+        "alignDuration": 0.4134669303894043,
+        "nerDuration": 0.07427310943603516,
+        "anforandeNummer": 12,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -2902,13 +2914,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 13,
         "mediaIndex": 13,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 13,
-        "align-duration": 0.6514780521392822,
-        "ner-duration": 0.2099151611328125
-      }
+        "alignDuration": 0.6514780521392822,
+        "nerDuration": 0.2099151611328125,
+        "anforandeNummer": 13,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -3462,13 +3475,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 14,
         "mediaIndex": 14,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 14,
-        "align-duration": 1.665815830230713,
-        "ner-duration": 0.6250507831573486
-      }
+        "alignDuration": 1.665815830230713,
+        "nerDuration": 0.6250507831573486,
+        "anforandeNummer": 14,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -3593,13 +3607,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 15,
         "mediaIndex": 15,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 15,
-        "align-duration": 0.35919880867004395,
-        "ner-duration": 0.04364204406738281
-      }
+        "alignDuration": 0.35919880867004395,
+        "nerDuration": 0.04364204406738281,
+        "anforandeNummer": 15,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -3796,13 +3811,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 16,
         "mediaIndex": 16,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 16,
-        "align-duration": 0.50701904296875,
-        "ner-duration": 0.1393439769744873
-      }
+        "alignDuration": 0.50701904296875,
+        "nerDuration": 0.1393439769744873,
+        "anforandeNummer": 16,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -4034,13 +4050,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 17,
         "mediaIndex": 17,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 17,
-        "align-duration": 0.6075377464294434,
-        "ner-duration": 0.15588808059692383
-      }
+        "alignDuration": 0.6075377464294434,
+        "nerDuration": 0.15588808059692383,
+        "anforandeNummer": 17,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -4207,13 +4224,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 18,
         "mediaIndex": 18,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 18,
-        "align-duration": 0.45716094970703125,
-        "ner-duration": 0.1304028034210205
-      }
+        "alignDuration": 0.45716094970703125,
+        "nerDuration": 0.1304028034210205,
+        "anforandeNummer": 18,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -4727,13 +4745,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 19,
         "mediaIndex": 19,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 19,
-        "align-duration": 1.8361868858337402,
-        "ner-duration": 0.6068329811096191
-      }
+        "alignDuration": 1.8361868858337402,
+        "nerDuration": 0.6068329811096191,
+        "anforandeNummer": 19,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -4857,13 +4876,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 20,
         "mediaIndex": 20,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 20,
-        "align-duration": 0.399320125579834,
-        "ner-duration": 0.04801774024963379
-      }
+        "alignDuration": 0.399320125579834,
+        "nerDuration": 0.04801774024963379,
+        "anforandeNummer": 20,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5000,13 +5020,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 21,
         "mediaIndex": 21,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 21,
-        "align-duration": 0.36705684661865234,
-        "ner-duration": 0.056404829025268555
-      }
+        "alignDuration": 0.36705684661865234,
+        "nerDuration": 0.056404829025268555,
+        "anforandeNummer": 21,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5156,13 +5177,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 22,
         "mediaIndex": 22,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 22,
-        "align-duration": 0.43883705139160156,
-        "ner-duration": 0.07096600532531738
-      }
+        "alignDuration": 0.43883705139160156,
+        "nerDuration": 0.07096600532531738,
+        "anforandeNummer": 22,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5322,13 +5344,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 23,
         "mediaIndex": 23,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 23,
-        "align-duration": 0.439831018447876,
-        "ner-duration": 0.10188484191894531
-      }
+        "alignDuration": 0.439831018447876,
+        "nerDuration": 0.10188484191894531,
+        "anforandeNummer": 23,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -5821,13 +5844,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 24,
         "mediaIndex": 24,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 24,
-        "align-duration": 1.91298508644104,
-        "ner-duration": 0.5958108901977539
-      }
+        "alignDuration": 1.91298508644104,
+        "nerDuration": 0.5958108901977539,
+        "anforandeNummer": 24,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6428,13 +6452,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 25,
         "mediaIndex": 25,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 25,
-        "align-duration": 1.7818870544433594,
-        "ner-duration": 0.6799418926239014
-      }
+        "alignDuration": 1.7818870544433594,
+        "nerDuration": 0.6799418926239014,
+        "anforandeNummer": 25,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6643,13 +6668,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 26,
         "mediaIndex": 26,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 26,
-        "align-duration": 0.6652328968048096,
-        "ner-duration": 0.17273497581481934
-      }
+        "alignDuration": 0.6652328968048096,
+        "nerDuration": 0.17273497581481934,
+        "anforandeNummer": 26,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6780,13 +6806,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 27,
         "mediaIndex": 27,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 27,
-        "align-duration": 0.4104959964752197,
-        "ner-duration": 0.054589033126831055
-      }
+        "alignDuration": 0.4104959964752197,
+        "nerDuration": 0.054589033126831055,
+        "anforandeNummer": 27,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -6924,13 +6951,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 28,
         "mediaIndex": 28,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 28,
-        "align-duration": 0.40317487716674805,
-        "ner-duration": 0.055210113525390625
-      }
+        "alignDuration": 0.40317487716674805,
+        "nerDuration": 0.055210113525390625,
+        "anforandeNummer": 28,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7097,13 +7125,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 29,
         "mediaIndex": 29,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 29,
-        "align-duration": 0.5502781867980957,
-        "ner-duration": 0.1110379695892334
-      }
+        "alignDuration": 0.5502781867980957,
+        "nerDuration": 0.1110379695892334,
+        "anforandeNummer": 29,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7294,13 +7323,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 30,
         "mediaIndex": 30,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 30,
-        "align-duration": 0.6200008392333984,
-        "ner-duration": 0.1359539031982422
-      }
+        "alignDuration": 0.6200008392333984,
+        "nerDuration": 0.1359539031982422,
+        "anforandeNummer": 30,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7546,13 +7576,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 31,
         "mediaIndex": 31,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 31,
-        "align-duration": 0.6725330352783203,
-        "ner-duration": 0.22098207473754883
-      }
+        "alignDuration": 0.6725330352783203,
+        "nerDuration": 0.22098207473754883,
+        "anforandeNummer": 31,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7749,13 +7780,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 32,
         "mediaIndex": 32,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 32,
-        "align-duration": 0.6169238090515137,
-        "ner-duration": 0.15378999710083008
-      }
+        "alignDuration": 0.6169238090515137,
+        "nerDuration": 0.15378999710083008,
+        "anforandeNummer": 32,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -7970,13 +8002,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 33,
         "mediaIndex": 33,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 33,
-        "align-duration": 0.6587240695953369,
-        "ner-duration": 0.17467308044433594
-      }
+        "alignDuration": 0.6587240695953369,
+        "nerDuration": 0.17467308044433594,
+        "anforandeNummer": 33,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8277,13 +8310,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 34,
         "mediaIndex": 34,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 34,
-        "align-duration": 0.8396799564361572,
-        "ner-duration": 0.2700388431549072
-      }
+        "alignDuration": 0.8396799564361572,
+        "nerDuration": 0.2700388431549072,
+        "anforandeNummer": 34,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8434,13 +8468,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 35,
         "mediaIndex": 35,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 35,
-        "align-duration": 0.40236520767211914,
-        "ner-duration": 0.06940579414367676
-      }
+        "alignDuration": 0.40236520767211914,
+        "nerDuration": 0.06940579414367676,
+        "anforandeNummer": 35,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8552,13 +8587,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 36,
         "mediaIndex": 36,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 36,
-        "align-duration": 0.33588099479675293,
-        "ner-duration": 0.0332028865814209
-      }
+        "alignDuration": 0.33588099479675293,
+        "nerDuration": 0.0332028865814209,
+        "anforandeNummer": 36,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8787,13 +8823,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 37,
         "mediaIndex": 37,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 37,
-        "align-duration": 0.5532798767089844,
-        "ner-duration": 0.16654109954833984
-      }
+        "alignDuration": 0.5532798767089844,
+        "nerDuration": 0.16654109954833984,
+        "anforandeNummer": 37,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -8972,13 +9009,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 38,
         "mediaIndex": 38,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 38,
-        "align-duration": 0.5681390762329102,
-        "ner-duration": 0.14187312126159668
-      }
+        "alignDuration": 0.5681390762329102,
+        "nerDuration": 0.14187312126159668,
+        "anforandeNummer": 38,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -9653,13 +9691,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 39,
         "mediaIndex": 39,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 39,
-        "align-duration": 1.544508934020996,
-        "ner-duration": 0.7557029724121094
-      }
+        "alignDuration": 1.544508934020996,
+        "nerDuration": 0.7557029724121094,
+        "anforandeNummer": 39,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -10019,13 +10058,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 40,
         "mediaIndex": 40,
-        "debatt_titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
         "proceedingIndex": 40,
-        "align-duration": 1.1146531105041504,
-        "ner-duration": 0.3934769630432129
-      }
+        "alignDuration": 1.1146531105041504,
+        "nerDuration": 0.3934769630432129,
+        "anforandeNummer": 40,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -10804,13 +10844,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 41,
         "mediaIndex": 41,
-        "debatt_titel": "Interparlamentariska unionen",
         "proceedingIndex": 41,
-        "align-duration": 1.9051399230957031,
-        "ner-duration": 0.8454899787902832
-      }
+        "alignDuration": 1.9051399230957031,
+        "nerDuration": 0.8454899787902832,
+        "anforandeNummer": 41,
+        "debattTitel": "Interparlamentariska unionen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -10948,13 +10989,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 42,
         "mediaIndex": 42,
         "proceedingIndex": 42,
-        "align-skip": "zero-duration-from-source",
-        "align-error": "audio too long (4690s > 2400s)",
-        "ner-duration": 0.10457801818847656
-      }
+        "nerDuration": 0.10457801818847656,
+        "alignError": "audio too long (4690s > 2400s)",
+        "alignSkip": "zero-duration-from-source",
+        "anforandeNummer": 42
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11091,12 +11133,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 43,
         "mediaIndex": 43,
         "proceedingIndex": 43,
-        "align-duration": 0.4158029556274414,
-        "ner-duration": 0.07235884666442871
-      }
+        "alignDuration": 0.4158029556274414,
+        "nerDuration": 0.07235884666442871,
+        "anforandeNummer": 43
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11270,12 +11313,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 44,
         "mediaIndex": 44,
         "proceedingIndex": 44,
-        "align-duration": 0.4530062675476074,
-        "ner-duration": 0.1249380111694336
-      }
+        "alignDuration": 0.4530062675476074,
+        "nerDuration": 0.1249380111694336,
+        "anforandeNummer": 44
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11431,12 +11475,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 45,
         "mediaIndex": 45,
         "proceedingIndex": 45,
-        "align-duration": 0.3760039806365967,
-        "ner-duration": 0.09431028366088867
-      }
+        "alignDuration": 0.3760039806365967,
+        "nerDuration": 0.09431028366088867,
+        "anforandeNummer": 45
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11568,12 +11613,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 46,
         "mediaIndex": 46,
         "proceedingIndex": 46,
-        "align-duration": 0.3506009578704834,
-        "ner-duration": 0.06297707557678223
-      }
+        "alignDuration": 0.3506009578704834,
+        "nerDuration": 0.06297707557678223,
+        "anforandeNummer": 46
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11777,12 +11823,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 47,
         "mediaIndex": 47,
         "proceedingIndex": 47,
-        "align-duration": 0.4820098876953125,
-        "ner-duration": 0.16937494277954102
-      }
+        "alignDuration": 0.4820098876953125,
+        "nerDuration": 0.16937494277954102,
+        "anforandeNummer": 47
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -11952,12 +11999,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 48,
         "mediaIndex": 48,
         "proceedingIndex": 48,
-        "align-duration": 0.4628620147705078,
-        "ner-duration": 0.12148904800415039
-      }
+        "alignDuration": 0.4628620147705078,
+        "nerDuration": 0.12148904800415039,
+        "anforandeNummer": 48
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12081,12 +12129,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 49,
         "mediaIndex": 49,
         "proceedingIndex": 49,
-        "align-duration": 0.38111376762390137,
-        "ner-duration": 0.06006479263305664
-      }
+        "alignDuration": 0.38111376762390137,
+        "nerDuration": 0.06006479263305664,
+        "anforandeNummer": 49
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12217,12 +12266,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 50,
         "mediaIndex": 50,
         "proceedingIndex": 50,
-        "align-duration": 0.32410407066345215,
-        "ner-duration": 0.06078314781188965
-      }
+        "alignDuration": 0.32410407066345215,
+        "nerDuration": 0.06078314781188965,
+        "anforandeNummer": 50
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12372,12 +12422,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 51,
         "mediaIndex": 51,
         "proceedingIndex": 51,
-        "align-duration": 0.4589529037475586,
-        "ner-duration": 0.08623790740966797
-      }
+        "alignDuration": 0.4589529037475586,
+        "nerDuration": 0.08623790740966797,
+        "anforandeNummer": 51
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12525,12 +12576,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 52,
         "mediaIndex": 52,
         "proceedingIndex": 52,
-        "align-duration": 0.45887017250061035,
-        "ner-duration": 0.09508800506591797
-      }
+        "alignDuration": 0.45887017250061035,
+        "nerDuration": 0.09508800506591797,
+        "anforandeNummer": 52
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12668,12 +12720,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 53,
         "mediaIndex": 53,
         "proceedingIndex": 53,
-        "align-duration": 0.35576605796813965,
-        "ner-duration": 0.07508730888366699
-      }
+        "alignDuration": 0.35576605796813965,
+        "nerDuration": 0.07508730888366699,
+        "anforandeNummer": 53
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12815,12 +12868,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 54,
         "mediaIndex": 54,
         "proceedingIndex": 54,
-        "align-duration": 0.3652160167694092,
-        "ner-duration": 0.08366703987121582
-      }
+        "alignDuration": 0.3652160167694092,
+        "nerDuration": 0.08366703987121582,
+        "anforandeNummer": 54
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -12972,12 +13026,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 55,
         "mediaIndex": 55,
         "proceedingIndex": 55,
-        "align-duration": 0.431901216506958,
-        "ner-duration": 0.08849883079528809
-      }
+        "alignDuration": 0.431901216506958,
+        "nerDuration": 0.08849883079528809,
+        "anforandeNummer": 55
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13141,12 +13196,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 56,
         "mediaIndex": 56,
         "proceedingIndex": 56,
-        "align-duration": 0.43625879287719727,
-        "ner-duration": 0.09318399429321289
-      }
+        "alignDuration": 0.43625879287719727,
+        "nerDuration": 0.09318399429321289,
+        "anforandeNummer": 56
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13265,12 +13321,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 57,
         "mediaIndex": 57,
         "proceedingIndex": 57,
-        "align-duration": 0.35787010192871094,
-        "ner-duration": 0.05589699745178223
-      }
+        "alignDuration": 0.35787010192871094,
+        "nerDuration": 0.05589699745178223,
+        "anforandeNummer": 57
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13389,12 +13446,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 58,
         "mediaIndex": 58,
         "proceedingIndex": 58,
-        "align-duration": 0.37191009521484375,
-        "ner-duration": 0.059928178787231445
-      }
+        "alignDuration": 0.37191009521484375,
+        "nerDuration": 0.059928178787231445,
+        "anforandeNummer": 58
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13577,12 +13635,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 59,
         "mediaIndex": 59,
         "proceedingIndex": 59,
-        "align-duration": 0.4653968811035156,
-        "ner-duration": 0.13313984870910645
-      }
+        "alignDuration": 0.4653968811035156,
+        "nerDuration": 0.13313984870910645,
+        "anforandeNummer": 59
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13756,12 +13815,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 60,
         "mediaIndex": 60,
         "proceedingIndex": 60,
-        "align-duration": 0.43383097648620605,
-        "ner-duration": 0.10765886306762695
-      }
+        "alignDuration": 0.43383097648620605,
+        "nerDuration": 0.10765886306762695,
+        "anforandeNummer": 60
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -13879,12 +13939,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 61,
         "mediaIndex": 61,
         "proceedingIndex": 61,
-        "align-duration": 0.36093902587890625,
-        "ner-duration": 0.05112719535827637
-      }
+        "alignDuration": 0.36093902587890625,
+        "nerDuration": 0.05112719535827637,
+        "anforandeNummer": 61
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14020,12 +14081,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 62,
         "mediaIndex": 62,
         "proceedingIndex": 62,
-        "align-duration": 0.36487674713134766,
-        "ner-duration": 0.06997084617614746
-      }
+        "alignDuration": 0.36487674713134766,
+        "nerDuration": 0.06997084617614746,
+        "anforandeNummer": 62
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14151,12 +14213,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 63,
         "mediaIndex": 63,
         "proceedingIndex": 63,
-        "align-duration": 0.3736891746520996,
-        "ner-duration": 0.05283188819885254
-      }
+        "alignDuration": 0.3736891746520996,
+        "nerDuration": 0.05283188819885254,
+        "anforandeNummer": 63
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14315,12 +14378,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 64,
         "mediaIndex": 64,
         "proceedingIndex": 64,
-        "align-duration": 0.46477389335632324,
-        "ner-duration": 0.10537886619567871
-      }
+        "alignDuration": 0.46477389335632324,
+        "nerDuration": 0.10537886619567871,
+        "anforandeNummer": 64
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14445,12 +14509,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 65,
         "mediaIndex": 65,
         "proceedingIndex": 65,
-        "align-duration": 0.329420804977417,
-        "ner-duration": 0.04689216613769531
-      }
+        "alignDuration": 0.329420804977417,
+        "nerDuration": 0.04689216613769531,
+        "anforandeNummer": 65
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14611,12 +14676,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 66,
         "mediaIndex": 66,
         "proceedingIndex": 66,
-        "align-duration": 0.3491020202636719,
-        "ner-duration": 0.08618807792663574
-      }
+        "alignDuration": 0.3491020202636719,
+        "nerDuration": 0.08618807792663574,
+        "anforandeNummer": 66
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14759,12 +14825,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 67,
         "mediaIndex": 67,
         "proceedingIndex": 67,
-        "align-duration": 0.44420504570007324,
-        "ner-duration": 0.08395195007324219
-      }
+        "alignDuration": 0.44420504570007324,
+        "nerDuration": 0.08395195007324219,
+        "anforandeNummer": 67
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -14914,12 +14981,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 68,
         "mediaIndex": 68,
         "proceedingIndex": 68,
-        "align-duration": 0.4589040279388428,
-        "ner-duration": 0.09023690223693848
-      }
+        "alignDuration": 0.4589040279388428,
+        "nerDuration": 0.09023690223693848,
+        "anforandeNummer": 68
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15043,12 +15111,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 69,
         "mediaIndex": 69,
         "proceedingIndex": 69,
-        "align-duration": 0.34319496154785156,
-        "ner-duration": 0.0559542179107666
-      }
+        "alignDuration": 0.34319496154785156,
+        "nerDuration": 0.0559542179107666,
+        "anforandeNummer": 69
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15173,12 +15242,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 70,
         "mediaIndex": 70,
         "proceedingIndex": 70,
-        "align-duration": 0.3494760990142822,
-        "ner-duration": 0.05851292610168457
-      }
+        "alignDuration": 0.3494760990142822,
+        "nerDuration": 0.05851292610168457,
+        "anforandeNummer": 70
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15335,12 +15405,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 71,
         "mediaIndex": 71,
         "proceedingIndex": 71,
-        "align-duration": 0.4336698055267334,
-        "ner-duration": 0.0924379825592041
-      }
+        "alignDuration": 0.4336698055267334,
+        "nerDuration": 0.0924379825592041,
+        "anforandeNummer": 71
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15491,12 +15562,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 72,
         "mediaIndex": 72,
         "proceedingIndex": 72,
-        "align-duration": 0.4133157730102539,
-        "ner-duration": 0.0836639404296875
-      }
+        "alignDuration": 0.4133157730102539,
+        "nerDuration": 0.0836639404296875,
+        "anforandeNummer": 72
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15596,12 +15668,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 73,
         "mediaIndex": 73,
         "proceedingIndex": 73,
-        "align-duration": 0.2982912063598633,
-        "ner-duration": 0.023778200149536133
-      }
+        "alignDuration": 0.2982912063598633,
+        "nerDuration": 0.023778200149536133,
+        "anforandeNummer": 73
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15714,12 +15787,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 74,
         "mediaIndex": 74,
         "proceedingIndex": 74,
-        "align-duration": 0.33890485763549805,
-        "ner-duration": 0.04050898551940918
-      }
+        "alignDuration": 0.33890485763549805,
+        "nerDuration": 0.04050898551940918,
+        "anforandeNummer": 74
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -15878,12 +15952,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 75,
         "mediaIndex": 75,
         "proceedingIndex": 75,
-        "align-duration": 0.4252188205718994,
-        "ner-duration": 0.10126805305480957
-      }
+        "alignDuration": 0.4252188205718994,
+        "nerDuration": 0.10126805305480957,
+        "anforandeNummer": 75
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16027,12 +16102,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 76,
         "mediaIndex": 76,
         "proceedingIndex": 76,
-        "align-duration": 0.45560312271118164,
-        "ner-duration": 0.08420705795288086
-      }
+        "alignDuration": 0.45560312271118164,
+        "nerDuration": 0.08420705795288086,
+        "anforandeNummer": 76
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16179,12 +16255,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 77,
         "mediaIndex": 77,
         "proceedingIndex": 77,
-        "align-duration": 0.3444631099700928,
-        "ner-duration": 0.07472586631774902
-      }
+        "alignDuration": 0.3444631099700928,
+        "nerDuration": 0.07472586631774902,
+        "anforandeNummer": 77
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16309,12 +16386,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 78,
         "mediaIndex": 78,
         "proceedingIndex": 78,
-        "align-duration": 0.3833003044128418,
-        "ner-duration": 0.05586886405944824
-      }
+        "alignDuration": 0.3833003044128418,
+        "nerDuration": 0.05586886405944824,
+        "anforandeNummer": 78
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16420,12 +16498,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 79,
         "mediaIndex": 79,
         "proceedingIndex": 79,
-        "align-duration": 0.3447558879852295,
-        "ner-duration": 0.03381609916687012
-      }
+        "alignDuration": 0.3447558879852295,
+        "nerDuration": 0.03381609916687012,
+        "anforandeNummer": 79
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16618,12 +16697,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 80,
         "mediaIndex": 80,
         "proceedingIndex": 80,
-        "align-duration": 0.45274901390075684,
-        "ner-duration": 0.12549901008605957
-      }
+        "alignDuration": 0.45274901390075684,
+        "nerDuration": 0.12549901008605957,
+        "anforandeNummer": 80
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16729,12 +16809,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 81,
         "mediaIndex": 81,
         "proceedingIndex": 81,
-        "align-duration": 0.3286111354827881,
-        "ner-duration": 0.03389692306518555
-      }
+        "alignDuration": 0.3286111354827881,
+        "nerDuration": 0.03389692306518555,
+        "anforandeNummer": 81
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16851,12 +16932,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 82,
         "mediaIndex": 82,
         "proceedingIndex": 82,
-        "align-duration": 0.3663949966430664,
-        "ner-duration": 0.05792713165283203
-      }
+        "alignDuration": 0.3663949966430664,
+        "nerDuration": 0.05792713165283203,
+        "anforandeNummer": 82
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -16988,12 +17070,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 83,
         "mediaIndex": 83,
         "proceedingIndex": 83,
-        "align-duration": 0.3922281265258789,
-        "ner-duration": 0.06044602394104004
-      }
+        "alignDuration": 0.3922281265258789,
+        "nerDuration": 0.06044602394104004,
+        "anforandeNummer": 83
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -17175,12 +17258,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 84,
         "mediaIndex": 84,
         "proceedingIndex": 84,
-        "align-duration": 0.45786094665527344,
-        "ner-duration": 0.09809303283691406
-      }
+        "alignDuration": 0.45786094665527344,
+        "nerDuration": 0.09809303283691406,
+        "anforandeNummer": 84
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -17317,12 +17401,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 85,
         "mediaIndex": 85,
         "proceedingIndex": 85,
-        "align-duration": 0.3680760860443115,
-        "ner-duration": 0.06010603904724121
-      }
+        "alignDuration": 0.3680760860443115,
+        "nerDuration": 0.06010603904724121,
+        "anforandeNummer": 85
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -17447,12 +17532,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 86,
         "mediaIndex": 86,
         "proceedingIndex": 86,
-        "align-duration": 0.33234405517578125,
-        "ner-duration": 0.04520606994628906
-      }
+        "alignDuration": 0.33234405517578125,
+        "nerDuration": 0.04520606994628906,
+        "anforandeNummer": 86
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -17653,12 +17739,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 87,
         "mediaIndex": 87,
         "proceedingIndex": 87,
-        "align-duration": 0.45343780517578125,
-        "ner-duration": 0.1116940975189209
-      }
+        "alignDuration": 0.45343780517578125,
+        "nerDuration": 0.1116940975189209,
+        "anforandeNummer": 87
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -17872,12 +17959,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 88,
         "mediaIndex": 88,
         "proceedingIndex": 88,
-        "align-duration": 0.4553568363189697,
-        "ner-duration": 0.2750101089477539
-      }
+        "alignDuration": 0.4553568363189697,
+        "nerDuration": 0.2750101089477539,
+        "anforandeNummer": 88
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18052,12 +18140,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 89,
         "mediaIndex": 89,
         "proceedingIndex": 89,
-        "align-duration": 0.3679642677307129,
-        "ner-duration": 0.11993408203125
-      }
+        "alignDuration": 0.3679642677307129,
+        "nerDuration": 0.11993408203125,
+        "anforandeNummer": 89
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18229,12 +18318,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 90,
         "mediaIndex": 90,
         "proceedingIndex": 90,
-        "align-duration": 0.3738548755645752,
-        "ner-duration": 0.08602595329284668
-      }
+        "alignDuration": 0.3738548755645752,
+        "nerDuration": 0.08602595329284668,
+        "anforandeNummer": 90
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18385,12 +18475,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 91,
         "mediaIndex": 91,
         "proceedingIndex": 91,
-        "align-duration": 0.44107890129089355,
-        "ner-duration": 0.09033083915710449
-      }
+        "alignDuration": 0.44107890129089355,
+        "nerDuration": 0.09033083915710449,
+        "anforandeNummer": 91
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18572,12 +18663,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 92,
         "mediaIndex": 92,
         "proceedingIndex": 92,
-        "align-duration": 0.46250319480895996,
-        "ner-duration": 0.12901711463928223
-      }
+        "alignDuration": 0.46250319480895996,
+        "nerDuration": 0.12901711463928223,
+        "anforandeNummer": 92
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18695,12 +18787,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 93,
         "mediaIndex": 93,
         "proceedingIndex": 93,
-        "align-duration": 0.34448909759521484,
-        "ner-duration": 0.04877495765686035
-      }
+        "alignDuration": 0.34448909759521484,
+        "nerDuration": 0.04877495765686035,
+        "anforandeNummer": 93
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18832,12 +18925,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 94,
         "mediaIndex": 94,
         "proceedingIndex": 94,
-        "align-duration": 0.35827183723449707,
-        "ner-duration": 0.0713810920715332
-      }
+        "alignDuration": 0.35827183723449707,
+        "nerDuration": 0.0713810920715332,
+        "anforandeNummer": 94
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -18986,12 +19080,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 95,
         "mediaIndex": 95,
         "proceedingIndex": 95,
-        "align-duration": 0.4420919418334961,
-        "ner-duration": 0.08457493782043457
-      }
+        "alignDuration": 0.4420919418334961,
+        "nerDuration": 0.08457493782043457,
+        "anforandeNummer": 95
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -19129,12 +19224,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 96,
         "mediaIndex": 96,
         "proceedingIndex": 96,
-        "align-duration": 0.45946502685546875,
-        "ner-duration": 0.08191204071044922
-      }
+        "alignDuration": 0.45946502685546875,
+        "nerDuration": 0.08191204071044922,
+        "anforandeNummer": 96
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -19291,12 +19387,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 97,
         "mediaIndex": 97,
         "proceedingIndex": 97,
-        "align-duration": 0.41432905197143555,
-        "ner-duration": 0.11627888679504395
-      }
+        "alignDuration": 0.41432905197143555,
+        "nerDuration": 0.11627888679504395,
+        "anforandeNummer": 97
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -19501,12 +19598,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 98,
         "mediaIndex": 98,
         "proceedingIndex": 98,
-        "align-duration": 0.434769868850708,
-        "ner-duration": 0.14143109321594238
-      }
+        "alignDuration": 0.434769868850708,
+        "nerDuration": 0.14143109321594238,
+        "anforandeNummer": 98
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -19673,12 +19771,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 99,
         "mediaIndex": 99,
         "proceedingIndex": 99,
-        "align-duration": 0.4821739196777344,
-        "ner-duration": 0.11957907676696777
-      }
+        "alignDuration": 0.4821739196777344,
+        "nerDuration": 0.11957907676696777,
+        "anforandeNummer": 99
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -19827,12 +19926,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 100,
         "mediaIndex": 100,
         "proceedingIndex": 100,
-        "align-duration": 0.44829797744750977,
-        "ner-duration": 0.09855270385742188
-      }
+        "alignDuration": 0.44829797744750977,
+        "nerDuration": 0.09855270385742188,
+        "anforandeNummer": 100
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20009,12 +20109,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 101,
         "mediaIndex": 101,
         "proceedingIndex": 101,
-        "align-duration": 0.4105970859527588,
-        "ner-duration": 0.08092093467712402
-      }
+        "alignDuration": 0.4105970859527588,
+        "nerDuration": 0.08092093467712402,
+        "anforandeNummer": 101
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20208,12 +20309,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 102,
         "mediaIndex": 102,
         "proceedingIndex": 102,
-        "align-duration": 0.4694099426269531,
-        "ner-duration": 0.1445920467376709
-      }
+        "alignDuration": 0.4694099426269531,
+        "nerDuration": 0.1445920467376709,
+        "anforandeNummer": 102
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20370,12 +20472,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 103,
         "mediaIndex": 103,
         "proceedingIndex": 103,
-        "align-duration": 0.4493131637573242,
-        "ner-duration": 0.09091496467590332
-      }
+        "alignDuration": 0.4493131637573242,
+        "nerDuration": 0.09091496467590332,
+        "anforandeNummer": 103
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20519,12 +20622,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 104,
         "mediaIndex": 104,
         "proceedingIndex": 104,
-        "align-duration": 0.48013782501220703,
-        "ner-duration": 0.08572697639465332
-      }
+        "alignDuration": 0.48013782501220703,
+        "nerDuration": 0.08572697639465332,
+        "anforandeNummer": 104
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20681,12 +20785,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 105,
         "mediaIndex": 105,
         "proceedingIndex": 105,
-        "align-duration": 0.41603708267211914,
-        "ner-duration": 0.0807039737701416
-      }
+        "alignDuration": 0.41603708267211914,
+        "nerDuration": 0.0807039737701416,
+        "anforandeNummer": 105
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20849,12 +20954,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 106,
         "mediaIndex": 106,
         "proceedingIndex": 106,
-        "align-duration": 0.45937013626098633,
-        "ner-duration": 0.1005861759185791
-      }
+        "alignDuration": 0.45937013626098633,
+        "nerDuration": 0.1005861759185791,
+        "anforandeNummer": 106
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -20985,12 +21091,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 107,
         "mediaIndex": 107,
         "proceedingIndex": 107,
-        "align-duration": 0.374204158782959,
-        "ner-duration": 0.05420684814453125
-      }
+        "alignDuration": 0.374204158782959,
+        "nerDuration": 0.05420684814453125,
+        "anforandeNummer": 107
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -21179,12 +21286,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 108,
         "mediaIndex": 108,
         "proceedingIndex": 108,
-        "align-duration": 0.44919610023498535,
-        "ner-duration": 0.13068580627441406
-      }
+        "alignDuration": 0.44919610023498535,
+        "nerDuration": 0.13068580627441406,
+        "anforandeNummer": 108
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -21376,12 +21484,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 109,
         "mediaIndex": 109,
         "proceedingIndex": 109,
-        "align-duration": 0.4594762325286865,
-        "ner-duration": 0.15244817733764648
-      }
+        "alignDuration": 0.4594762325286865,
+        "nerDuration": 0.15244817733764648,
+        "anforandeNummer": 109
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -21519,12 +21628,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 110,
         "mediaIndex": 110,
         "proceedingIndex": 110,
-        "align-duration": 0.44177675247192383,
-        "ner-duration": 0.08397603034973145
-      }
+        "alignDuration": 0.44177675247192383,
+        "nerDuration": 0.08397603034973145,
+        "anforandeNummer": 110
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -21687,12 +21797,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 111,
         "mediaIndex": 111,
         "proceedingIndex": 111,
-        "align-duration": 0.4105808734893799,
-        "ner-duration": 0.08586788177490234
-      }
+        "alignDuration": 0.4105808734893799,
+        "nerDuration": 0.08586788177490234,
+        "anforandeNummer": 111
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -21881,12 +21992,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 112,
         "mediaIndex": 112,
         "proceedingIndex": 112,
-        "align-duration": 0.4662041664123535,
-        "ner-duration": 0.13107585906982422
-      }
+        "alignDuration": 0.4662041664123535,
+        "nerDuration": 0.13107585906982422,
+        "anforandeNummer": 112
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22053,12 +22165,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 113,
         "mediaIndex": 113,
         "proceedingIndex": 113,
-        "align-duration": 0.41773223876953125,
-        "ner-duration": 0.10117197036743164
-      }
+        "alignDuration": 0.41773223876953125,
+        "nerDuration": 0.10117197036743164,
+        "anforandeNummer": 113
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22215,12 +22328,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 114,
         "mediaIndex": 114,
         "proceedingIndex": 114,
-        "align-duration": 0.45888614654541016,
-        "ner-duration": 0.11176323890686035
-      }
+        "alignDuration": 0.45888614654541016,
+        "nerDuration": 0.11176323890686035,
+        "anforandeNummer": 114
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22390,12 +22504,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 115,
         "mediaIndex": 115,
         "proceedingIndex": 115,
-        "align-duration": 0.4152698516845703,
-        "ner-duration": 0.08096170425415039
-      }
+        "alignDuration": 0.4152698516845703,
+        "nerDuration": 0.08096170425415039,
+        "anforandeNummer": 115
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22571,12 +22686,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 116,
         "mediaIndex": 116,
         "proceedingIndex": 116,
-        "align-duration": 0.4528629779815674,
-        "ner-duration": 0.12282013893127441
-      }
+        "alignDuration": 0.4528629779815674,
+        "nerDuration": 0.12282013893127441,
+        "anforandeNummer": 116
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22726,12 +22842,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 117,
         "mediaIndex": 117,
         "proceedingIndex": 117,
-        "align-duration": 0.44805002212524414,
-        "ner-duration": 0.07853889465332031
-      }
+        "alignDuration": 0.44805002212524414,
+        "nerDuration": 0.07853889465332031,
+        "anforandeNummer": 117
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -22893,12 +23010,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 118,
         "mediaIndex": 118,
         "proceedingIndex": 118,
-        "align-duration": 0.45650172233581543,
-        "ner-duration": 0.12420320510864258
-      }
+        "alignDuration": 0.45650172233581543,
+        "nerDuration": 0.12420320510864258,
+        "anforandeNummer": 118
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -23049,12 +23167,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 119,
         "mediaIndex": 119,
         "proceedingIndex": 119,
-        "align-duration": 0.3866732120513916,
-        "ner-duration": 0.07691597938537598
-      }
+        "alignDuration": 0.3866732120513916,
+        "nerDuration": 0.07691597938537598,
+        "anforandeNummer": 119
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -23212,12 +23331,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 120,
         "mediaIndex": 120,
         "proceedingIndex": 120,
-        "align-duration": 0.46783876419067383,
-        "ner-duration": 0.09486079216003418
-      }
+        "alignDuration": 0.46783876419067383,
+        "nerDuration": 0.09486079216003418,
+        "anforandeNummer": 120
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -23374,12 +23494,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 121,
         "mediaIndex": 121,
         "proceedingIndex": 121,
-        "align-duration": 0.4722740650177002,
-        "ner-duration": 0.11767315864562988
-      }
+        "alignDuration": 0.4722740650177002,
+        "nerDuration": 0.11767315864562988,
+        "anforandeNummer": 121
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -23568,12 +23689,13 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 122,
         "mediaIndex": 122,
         "proceedingIndex": 122,
-        "align-duration": 0.47626590728759766,
-        "ner-duration": 0.1269359588623047
-      }
+        "alignDuration": 0.47626590728759766,
+        "nerDuration": 0.1269359588623047,
+        "anforandeNummer": 122
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -24167,13 +24289,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 123,
         "mediaIndex": 123,
-        "debatt_titel": "Interparlamentariska unionen",
         "proceedingIndex": 123,
-        "align-duration": 1.7424557209014893,
-        "ner-duration": 0.5995519161224365
-      }
+        "alignDuration": 1.7424557209014893,
+        "nerDuration": 0.5995519161224365,
+        "anforandeNummer": 123,
+        "debattTitel": "Interparlamentariska unionen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -24812,13 +24935,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 124,
         "mediaIndex": 124,
-        "debatt_titel": "Interparlamentariska unionen",
         "proceedingIndex": 124,
-        "align-duration": 1.9991929531097412,
-        "ner-duration": 0.6493520736694336
-      }
+        "alignDuration": 1.9991929531097412,
+        "nerDuration": 0.6493520736694336,
+        "anforandeNummer": 124,
+        "debattTitel": "Interparlamentariska unionen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -25181,13 +25305,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 125,
         "mediaIndex": 125,
-        "debatt_titel": "Förenklingar i jaktlagstiftningen",
         "proceedingIndex": 125,
-        "align-duration": 1.1623039245605469,
-        "ner-duration": 0.39427614212036133
-      }
+        "alignDuration": 1.1623039245605469,
+        "nerDuration": 0.39427614212036133,
+        "anforandeNummer": 125,
+        "debattTitel": "Förenklingar i jaktlagstiftningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -25722,13 +25847,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 126,
         "mediaIndex": 126,
-        "debatt_titel": "Förenklingar i jaktlagstiftningen",
         "proceedingIndex": 126,
-        "align-duration": 1.6408188343048096,
-        "ner-duration": 0.6194660663604736
-      }
+        "alignDuration": 1.6408188343048096,
+        "nerDuration": 0.6194660663604736,
+        "anforandeNummer": 126,
+        "debattTitel": "Förenklingar i jaktlagstiftningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -26131,13 +26257,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 127,
         "mediaIndex": 127,
-        "debatt_titel": "Förenklingar i jaktlagstiftningen",
         "proceedingIndex": 127,
-        "align-duration": 1.4461891651153564,
-        "ner-duration": 0.48055410385131836
-      }
+        "alignDuration": 1.4461891651153564,
+        "nerDuration": 0.48055410385131836,
+        "anforandeNummer": 127,
+        "debattTitel": "Förenklingar i jaktlagstiftningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -26432,13 +26559,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 128,
         "mediaIndex": 128,
-        "debatt_titel": "Förenklingar i jaktlagstiftningen",
         "proceedingIndex": 128,
-        "align-duration": 0.8789129257202148,
-        "ner-duration": 0.2868001461029053
-      }
+        "alignDuration": 0.8789129257202148,
+        "nerDuration": 0.2868001461029053,
+        "anforandeNummer": 128,
+        "debattTitel": "Förenklingar i jaktlagstiftningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -26746,13 +26874,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 129,
         "mediaIndex": 129,
-        "debatt_titel": "Förenklingar i jaktlagstiftningen",
         "proceedingIndex": 129,
-        "align-duration": 0.9006562232971191,
-        "ner-duration": 0.3029320240020752
-      }
+        "alignDuration": 0.9006562232971191,
+        "nerDuration": 0.3029320240020752,
+        "anforandeNummer": 129,
+        "debattTitel": "Förenklingar i jaktlagstiftningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -27040,13 +27169,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 130,
         "mediaIndex": 130,
-        "debatt_titel": "Förenklingar i jaktlagstiftningen",
         "proceedingIndex": 130,
-        "align-duration": 1.1390609741210938,
-        "ner-duration": 0.302731990814209
-      }
+        "alignDuration": 1.1390609741210938,
+        "nerDuration": 0.302731990814209,
+        "anforandeNummer": 130,
+        "debattTitel": "Förenklingar i jaktlagstiftningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -27522,13 +27652,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 131,
         "mediaIndex": 131,
-        "debatt_titel": "Förenklingar i jaktlagstiftningen",
         "proceedingIndex": 131,
-        "align-duration": 1.3531601428985596,
-        "ner-duration": 0.50813889503479
-      }
+        "alignDuration": 1.3531601428985596,
+        "nerDuration": 0.50813889503479,
+        "anforandeNummer": 131,
+        "debattTitel": "Förenklingar i jaktlagstiftningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -27871,13 +28002,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 132,
         "mediaIndex": 132,
-        "debatt_titel": "Förenklingar i jaktlagstiftningen",
         "proceedingIndex": 132,
-        "align-duration": 1.1979141235351562,
-        "ner-duration": 0.33791327476501465
-      }
+        "alignDuration": 1.1979141235351562,
+        "nerDuration": 0.33791327476501465,
+        "anforandeNummer": 132,
+        "debattTitel": "Förenklingar i jaktlagstiftningen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -28327,13 +28459,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 133,
         "mediaIndex": 133,
-        "debatt_titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
         "proceedingIndex": 133,
-        "align-duration": 1.7939083576202393,
-        "ner-duration": 0.5122959613800049
-      }
+        "alignDuration": 1.7939083576202393,
+        "nerDuration": 0.5122959613800049,
+        "anforandeNummer": 133,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -28714,13 +28847,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 134,
         "mediaIndex": 134,
-        "debatt_titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
         "proceedingIndex": 134,
-        "align-duration": 1.3233270645141602,
-        "ner-duration": 0.41878724098205566
-      }
+        "alignDuration": 1.3233270645141602,
+        "nerDuration": 0.41878724098205566,
+        "anforandeNummer": 134,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -28883,13 +29017,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 135,
         "mediaIndex": 135,
-        "debatt_titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
         "proceedingIndex": 135,
-        "align-duration": 0.4857628345489502,
-        "ner-duration": 0.0953679084777832
-      }
+        "alignDuration": 0.4857628345489502,
+        "nerDuration": 0.0953679084777832,
+        "anforandeNummer": 135,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -29132,13 +29267,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 136,
         "mediaIndex": 136,
-        "debatt_titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
         "proceedingIndex": 136,
-        "align-duration": 0.6548759937286377,
-        "ner-duration": 0.1970539093017578
-      }
+        "alignDuration": 0.6548759937286377,
+        "nerDuration": 0.1970539093017578,
+        "anforandeNummer": 136,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -29376,13 +29512,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 137,
         "mediaIndex": 137,
-        "debatt_titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
         "proceedingIndex": 137,
-        "align-duration": 0.6298460960388184,
-        "ner-duration": 0.2113959789276123
-      }
+        "alignDuration": 0.6298460960388184,
+        "nerDuration": 0.2113959789276123,
+        "anforandeNummer": 137,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -29603,13 +29740,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 138,
         "mediaIndex": 138,
-        "debatt_titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
         "proceedingIndex": 138,
-        "align-duration": 0.6542317867279053,
-        "ner-duration": 0.1986711025238037
-      }
+        "alignDuration": 0.6542317867279053,
+        "nerDuration": 0.1986711025238037,
+        "anforandeNummer": 138,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -30030,13 +30168,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 139,
         "mediaIndex": 139,
-        "debatt_titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
         "proceedingIndex": 139,
-        "align-duration": 1.3481431007385254,
-        "ner-duration": 0.47945499420166016
-      }
+        "alignDuration": 1.3481431007385254,
+        "nerDuration": 0.47945499420166016,
+        "anforandeNummer": 139,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -30371,13 +30510,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 140,
         "mediaIndex": 140,
-        "debatt_titel": "En nationell utredningsfunktion för att förebygga suicid",
         "proceedingIndex": 140,
-        "align-duration": 1.2211720943450928,
-        "ner-duration": 0.3490939140319824
-      }
+        "alignDuration": 1.2211720943450928,
+        "nerDuration": 0.3490939140319824,
+        "anforandeNummer": 140,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -30775,13 +30915,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 141,
         "mediaIndex": 141,
-        "debatt_titel": "En nationell utredningsfunktion för att förebygga suicid",
         "proceedingIndex": 141,
-        "align-duration": 1.5715351104736328,
-        "ner-duration": 0.425976037979126
-      }
+        "alignDuration": 1.5715351104736328,
+        "nerDuration": 0.425976037979126,
+        "anforandeNummer": 141,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -31256,13 +31397,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 142,
         "mediaIndex": 142,
-        "debatt_titel": "En nationell utredningsfunktion för att förebygga suicid",
         "proceedingIndex": 142,
-        "align-duration": 1.685487985610962,
-        "ner-duration": 0.5401852130889893
-      }
+        "alignDuration": 1.685487985610962,
+        "nerDuration": 0.5401852130889893,
+        "anforandeNummer": 142,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -31767,13 +31909,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 143,
         "mediaIndex": 143,
-        "debatt_titel": "En nationell utredningsfunktion för att förebygga suicid",
         "proceedingIndex": 143,
-        "align-duration": 1.4590611457824707,
-        "ner-duration": 0.5290689468383789
-      }
+        "alignDuration": 1.4590611457824707,
+        "nerDuration": 0.5290689468383789,
+        "anforandeNummer": 143,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -32098,13 +32241,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 144,
         "mediaIndex": 144,
-        "debatt_titel": "En nationell utredningsfunktion för att förebygga suicid",
         "proceedingIndex": 144,
-        "align-duration": 1.2698020935058594,
-        "ner-duration": 0.33829617500305176
-      }
+        "alignDuration": 1.2698020935058594,
+        "nerDuration": 0.33829617500305176,
+        "anforandeNummer": 144,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+      },
+      "originalLanguage": "sv"
     },
     {
       "parliament": "SE",
@@ -32651,13 +32795,14 @@
         }
       ],
       "debug": {
-        "anforande_nummer": 145,
         "mediaIndex": 145,
-        "debatt_titel": "En nationell utredningsfunktion för att förebygga suicid",
         "proceedingIndex": 145,
-        "align-duration": 2.1093571186065674,
-        "ner-duration": 0.5883550643920898
-      }
+        "alignDuration": 2.1093571186065674,
+        "nerDuration": 0.5883550643920898,
+        "anforandeNummer": 145,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+      },
+      "originalLanguage": "sv"
     }
   ]
 }
