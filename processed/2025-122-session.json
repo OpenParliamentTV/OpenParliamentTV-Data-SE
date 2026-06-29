@@ -5,14 +5,13 @@
     "dateStart": "2026-05-21T00:00:00",
     "dateEnd": "2026-05-21T23:59:59",
     "lastProcessing": "align",
-    "lastUpdate": "2026-05-24T10:59:52",
+    "lastUpdate": "2026-06-29T09:29:18",
     "processing": {
-      "parse_proceedings": "2026-05-24T10:54:30",
-      "parse_media": "2026-05-24T10:54:30",
-      "merge": "2026-05-24T10:54:30",
-      "align": "2026-05-24T10:59:52",
-      "nel": "2026-05-25T09:23:40",
-      "ner": "2026-05-25T09:29:36"
+      "parse_proceedings": "2026-06-29T09:23:55",
+      "parse_media": "2026-06-29T09:23:55",
+      "merge": "2026-06-29T09:23:55+00:00",
+      "align": "2026-06-29T09:29:18",
+      "ner": "2026-06-29T09:29:57"
     }
   },
   "data": [
@@ -271,12 +270,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 1,
-        "proceedingIndex": 1,
-        "alignDuration": 1.0239520072937012,
-        "nerDuration": 0.27026891708374023,
         "anforandeNummer": 1,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 1,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 1,
+        "alignDuration": 1.0315167903900146,
+        "nerDuration": 0.15515947341918945
       },
       "originalLanguage": "sv"
     },
@@ -462,12 +461,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 2,
-        "proceedingIndex": 2,
-        "alignDuration": 0.6046321392059326,
-        "nerDuration": 0.17835617065429688,
         "anforandeNummer": 2,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 2,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 2,
+        "alignDuration": 0.6144249439239502,
+        "nerDuration": 0.08460235595703125
       },
       "originalLanguage": "sv"
     },
@@ -624,14 +623,26 @@
                   "entities": []
                 },
                 {
-                  "text": "I grunden tycker vi att offentlighetsprincipen ska gälla alla, men det finns också en rimlighet i att de som är för små för att ha en egen administratör eller en egen registrator anställd – och allt vad det här innebär – och som inte har haft det här kravet på sig tidigare får lite längre tid.",
+                  "text": "I grunden tycker vi att offentlighetsprincipen ska gälla alla, men det finns också en rimlighet i att de som är för små för att ha en egen administratör eller en egen registrator anställd",
                   "timeStart": "91.440",
-                  "timeEnd": "109.240",
+                  "timeEnd": "102.600",
+                  "entities": []
+                },
+                {
+                  "text": "och allt vad det här innebär",
+                  "timeStart": "102.600",
+                  "timeEnd": "104.640",
+                  "entities": []
+                },
+                {
+                  "text": "och som inte har haft det här kravet på sig tidigare får lite längre tid.",
+                  "timeStart": "104.640",
+                  "timeEnd": "108.760",
                   "entities": []
                 },
                 {
                   "text": "Det handlar ju inte om oceaner av tid, och det handlar inte om något avsteg från principen.",
-                  "timeStart": "109.240",
+                  "timeStart": "108.760",
                   "timeEnd": "115.680",
                   "entities": []
                 },
@@ -661,12 +672,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 3,
-        "proceedingIndex": 3,
-        "alignDuration": 0.6710820198059082,
-        "nerDuration": 0.15993809700012207,
         "anforandeNummer": 3,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 3,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 3,
+        "alignDuration": 0.671360969543457,
+        "nerDuration": 0.0954275131225586
       },
       "originalLanguage": "sv"
     },
@@ -883,12 +894,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 4,
-        "proceedingIndex": 4,
-        "alignDuration": 0.6195919513702393,
-        "nerDuration": 0.19111299514770508,
         "anforandeNummer": 4,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 4,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 4,
+        "alignDuration": 0.6328392028808594,
+        "nerDuration": 0.11215567588806152
       },
       "originalLanguage": "sv"
     },
@@ -1111,12 +1122,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 5,
-        "proceedingIndex": 5,
-        "alignDuration": 0.655026912689209,
-        "nerDuration": 0.17302703857421875,
         "anforandeNummer": 5,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 5,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 5,
+        "alignDuration": 0.6716265678405762,
+        "nerDuration": 0.1119687557220459
       },
       "originalLanguage": "sv"
     },
@@ -1316,12 +1327,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 6,
-        "proceedingIndex": 6,
-        "alignDuration": 0.68060302734375,
-        "nerDuration": 0.16341829299926758,
         "anforandeNummer": 6,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 6,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 6,
+        "alignDuration": 0.6785383224487305,
+        "nerDuration": 0.10401773452758789
       },
       "originalLanguage": "sv"
     },
@@ -1551,12 +1562,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 7,
-        "proceedingIndex": 7,
-        "alignDuration": 0.6470949649810791,
-        "nerDuration": 0.19756793975830078,
         "anforandeNummer": 7,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 7,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 7,
+        "alignDuration": 0.6925919055938721,
+        "nerDuration": 0.12328290939331055
       },
       "originalLanguage": "sv"
     },
@@ -1776,12 +1787,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 8,
-        "proceedingIndex": 8,
-        "alignDuration": 0.6536839008331299,
-        "nerDuration": 0.16211199760437012,
         "anforandeNummer": 8,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 8,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 8,
+        "alignDuration": 0.6677682399749756,
+        "nerDuration": 0.10445833206176758
       },
       "originalLanguage": "sv"
     },
@@ -2092,12 +2103,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 9,
-        "proceedingIndex": 9,
-        "alignDuration": 0.6757900714874268,
-        "nerDuration": 0.261171817779541,
         "anforandeNummer": 9,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 9,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 9,
+        "alignDuration": 0.7073683738708496,
+        "nerDuration": 0.15432047843933105
       },
       "originalLanguage": "sv"
     },
@@ -2261,12 +2272,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 10,
-        "proceedingIndex": 10,
-        "alignDuration": 0.3764932155609131,
-        "nerDuration": 0.07427692413330078,
         "anforandeNummer": 10,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 10,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 10,
+        "alignDuration": 0.42270827293395996,
+        "nerDuration": 0.04385781288146973
       },
       "originalLanguage": "sv"
     },
@@ -2490,12 +2501,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 11,
-        "proceedingIndex": 11,
-        "alignDuration": 0.679804801940918,
-        "nerDuration": 0.18094515800476074,
         "anforandeNummer": 11,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 11,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 11,
+        "alignDuration": 0.6979563236236572,
+        "nerDuration": 0.11091065406799316
       },
       "originalLanguage": "sv"
     },
@@ -2602,14 +2613,20 @@
                   "entities": []
                 },
                 {
-                  "text": "Jag var nyfiken, för jag trodde genuint att det fanns någonting mer som man var överens om och som skulle stoppa marknadsskolan – något som skulle se till att den här lagstiftningen faktiskt blev en offentlighetslagstiftning fullt ut, på lika villkor, för alla skolor, oavsett om de är offentliga eller privata.",
+                  "text": "Jag var nyfiken, för jag trodde genuint att det fanns någonting mer som man var överens om och som skulle stoppa marknadsskolan",
                   "timeStart": "29.320",
-                  "timeEnd": "50.720",
+                  "timeEnd": "36.840",
+                  "entities": []
+                },
+                {
+                  "text": "något som skulle se till att den här lagstiftningen faktiskt blev en offentlighetslagstiftning fullt ut, på lika villkor, för alla skolor, oavsett om de är offentliga eller privata.",
+                  "timeStart": "36.840",
+                  "timeEnd": "50.680",
                   "entities": []
                 },
                 {
                   "text": "Men det var bara väldigt många ord för att säga att det inte finns något mer som man är överens om, herr talman.",
-                  "timeStart": "50.720",
+                  "timeStart": "50.680",
                   "timeEnd": "59.000",
                   "entities": [
                     {
@@ -2640,12 +2657,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 12,
-        "proceedingIndex": 12,
-        "alignDuration": 0.4134669303894043,
-        "nerDuration": 0.07427310943603516,
         "anforandeNummer": 12,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 12,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 12,
+        "alignDuration": 0.4849369525909424,
+        "nerDuration": 0.05060553550720215
       },
       "originalLanguage": "sv"
     },
@@ -2914,12 +2931,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 13,
-        "proceedingIndex": 13,
-        "alignDuration": 0.6514780521392822,
-        "nerDuration": 0.2099151611328125,
         "anforandeNummer": 13,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 13,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 13,
+        "alignDuration": 0.6744194030761719,
+        "nerDuration": 0.13140201568603516
       },
       "originalLanguage": "sv"
     },
@@ -3475,12 +3492,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 14,
-        "proceedingIndex": 14,
-        "alignDuration": 1.665815830230713,
-        "nerDuration": 0.6250507831573486,
         "anforandeNummer": 14,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 14,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 14,
+        "alignDuration": 1.6710169315338135,
+        "nerDuration": 0.3908517360687256
       },
       "originalLanguage": "sv"
     },
@@ -3607,12 +3624,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 15,
-        "proceedingIndex": 15,
-        "alignDuration": 0.35919880867004395,
-        "nerDuration": 0.04364204406738281,
         "anforandeNummer": 15,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 15,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 15,
+        "alignDuration": 0.41208744049072266,
+        "nerDuration": 0.028354883193969727
       },
       "originalLanguage": "sv"
     },
@@ -3811,12 +3828,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 16,
-        "proceedingIndex": 16,
-        "alignDuration": 0.50701904296875,
-        "nerDuration": 0.1393439769744873,
         "anforandeNummer": 16,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 16,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 16,
+        "alignDuration": 0.5280368328094482,
+        "nerDuration": 0.09000945091247559
       },
       "originalLanguage": "sv"
     },
@@ -4050,12 +4067,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 17,
-        "proceedingIndex": 17,
-        "alignDuration": 0.6075377464294434,
-        "nerDuration": 0.15588808059692383,
         "anforandeNummer": 17,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 17,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 17,
+        "alignDuration": 0.6340723037719727,
+        "nerDuration": 0.0958554744720459
       },
       "originalLanguage": "sv"
     },
@@ -4224,12 +4241,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 18,
-        "proceedingIndex": 18,
-        "alignDuration": 0.45716094970703125,
-        "nerDuration": 0.1304028034210205,
         "anforandeNummer": 18,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 18,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 18,
+        "alignDuration": 0.4706275463104248,
+        "nerDuration": 0.06276917457580566
       },
       "originalLanguage": "sv"
     },
@@ -4745,12 +4762,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 19,
-        "proceedingIndex": 19,
-        "alignDuration": 1.8361868858337402,
-        "nerDuration": 0.6068329811096191,
         "anforandeNummer": 19,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 19,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 19,
+        "alignDuration": 1.7489449977874756,
+        "nerDuration": 0.34772634506225586
       },
       "originalLanguage": "sv"
     },
@@ -4876,12 +4893,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 20,
-        "proceedingIndex": 20,
-        "alignDuration": 0.399320125579834,
-        "nerDuration": 0.04801774024963379,
         "anforandeNummer": 20,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 20,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 20,
+        "alignDuration": 0.4482591152191162,
+        "nerDuration": 0.028807401657104492
       },
       "originalLanguage": "sv"
     },
@@ -5020,12 +5037,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 21,
-        "proceedingIndex": 21,
-        "alignDuration": 0.36705684661865234,
-        "nerDuration": 0.056404829025268555,
         "anforandeNummer": 21,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 21,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 21,
+        "alignDuration": 0.4235548973083496,
+        "nerDuration": 0.033623695373535156
       },
       "originalLanguage": "sv"
     },
@@ -5177,12 +5194,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 22,
-        "proceedingIndex": 22,
-        "alignDuration": 0.43883705139160156,
-        "nerDuration": 0.07096600532531738,
         "anforandeNummer": 22,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 22,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 22,
+        "alignDuration": 0.4933931827545166,
+        "nerDuration": 0.04317879676818848
       },
       "originalLanguage": "sv"
     },
@@ -5344,12 +5361,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 23,
-        "proceedingIndex": 23,
-        "alignDuration": 0.439831018447876,
-        "nerDuration": 0.10188484191894531,
         "anforandeNummer": 23,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 23,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 23,
+        "alignDuration": 0.494631290435791,
+        "nerDuration": 0.056890010833740234
       },
       "originalLanguage": "sv"
     },
@@ -5844,12 +5861,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 24,
-        "proceedingIndex": 24,
-        "alignDuration": 1.91298508644104,
-        "nerDuration": 0.5958108901977539,
         "anforandeNummer": 24,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 24,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 24,
+        "alignDuration": 1.7379224300384521,
+        "nerDuration": 0.38301610946655273
       },
       "originalLanguage": "sv"
     },
@@ -6452,12 +6469,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 25,
-        "proceedingIndex": 25,
-        "alignDuration": 1.7818870544433594,
-        "nerDuration": 0.6799418926239014,
         "anforandeNummer": 25,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 25,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 25,
+        "alignDuration": 1.639859914779663,
+        "nerDuration": 0.3861050605773926
       },
       "originalLanguage": "sv"
     },
@@ -6668,12 +6685,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 26,
-        "proceedingIndex": 26,
-        "alignDuration": 0.6652328968048096,
-        "nerDuration": 0.17273497581481934,
         "anforandeNummer": 26,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 26,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 26,
+        "alignDuration": 0.6709740161895752,
+        "nerDuration": 0.1128382682800293
       },
       "originalLanguage": "sv"
     },
@@ -6806,12 +6823,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 27,
-        "proceedingIndex": 27,
-        "alignDuration": 0.4104959964752197,
-        "nerDuration": 0.054589033126831055,
         "anforandeNummer": 27,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 27,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 27,
+        "alignDuration": 0.4570310115814209,
+        "nerDuration": 0.05342864990234375
       },
       "originalLanguage": "sv"
     },
@@ -6951,12 +6968,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 28,
-        "proceedingIndex": 28,
-        "alignDuration": 0.40317487716674805,
-        "nerDuration": 0.055210113525390625,
         "anforandeNummer": 28,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 28,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 28,
+        "alignDuration": 0.4406278133392334,
+        "nerDuration": 0.0416417121887207
       },
       "originalLanguage": "sv"
     },
@@ -7125,12 +7142,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 29,
-        "proceedingIndex": 29,
-        "alignDuration": 0.5502781867980957,
-        "nerDuration": 0.1110379695892334,
         "anforandeNummer": 29,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 29,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 29,
+        "alignDuration": 0.5926313400268555,
+        "nerDuration": 0.0671393871307373
       },
       "originalLanguage": "sv"
     },
@@ -7323,12 +7340,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 30,
-        "proceedingIndex": 30,
-        "alignDuration": 0.6200008392333984,
-        "nerDuration": 0.1359539031982422,
         "anforandeNummer": 30,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 30,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 30,
+        "alignDuration": 0.6717634201049805,
+        "nerDuration": 0.08717703819274902
       },
       "originalLanguage": "sv"
     },
@@ -7576,12 +7593,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 31,
-        "proceedingIndex": 31,
-        "alignDuration": 0.6725330352783203,
-        "nerDuration": 0.22098207473754883,
         "anforandeNummer": 31,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 31,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 31,
+        "alignDuration": 0.6891176700592041,
+        "nerDuration": 0.12713360786437988
       },
       "originalLanguage": "sv"
     },
@@ -7780,12 +7797,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 32,
-        "proceedingIndex": 32,
-        "alignDuration": 0.6169238090515137,
-        "nerDuration": 0.15378999710083008,
         "anforandeNummer": 32,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 32,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 32,
+        "alignDuration": 0.6220126152038574,
+        "nerDuration": 0.09907698631286621
       },
       "originalLanguage": "sv"
     },
@@ -8002,12 +8019,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 33,
-        "proceedingIndex": 33,
-        "alignDuration": 0.6587240695953369,
-        "nerDuration": 0.17467308044433594,
         "anforandeNummer": 33,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 33,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 33,
+        "alignDuration": 0.7114303112030029,
+        "nerDuration": 0.10627412796020508
       },
       "originalLanguage": "sv"
     },
@@ -8310,12 +8327,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 34,
-        "proceedingIndex": 34,
-        "alignDuration": 0.8396799564361572,
-        "nerDuration": 0.2700388431549072,
         "anforandeNummer": 34,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 34,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 34,
+        "alignDuration": 0.845832109451294,
+        "nerDuration": 0.16544747352600098
       },
       "originalLanguage": "sv"
     },
@@ -8468,12 +8485,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 35,
-        "proceedingIndex": 35,
-        "alignDuration": 0.40236520767211914,
-        "nerDuration": 0.06940579414367676,
         "anforandeNummer": 35,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 35,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 35,
+        "alignDuration": 0.4747810363769531,
+        "nerDuration": 0.0419917106628418
       },
       "originalLanguage": "sv"
     },
@@ -8587,12 +8604,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 36,
-        "proceedingIndex": 36,
-        "alignDuration": 0.33588099479675293,
-        "nerDuration": 0.0332028865814209,
         "anforandeNummer": 36,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 36,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 36,
+        "alignDuration": 0.39290666580200195,
+        "nerDuration": 0.020250797271728516
       },
       "originalLanguage": "sv"
     },
@@ -8823,12 +8840,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 37,
-        "proceedingIndex": 37,
-        "alignDuration": 0.5532798767089844,
-        "nerDuration": 0.16654109954833984,
         "anforandeNummer": 37,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 37,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 37,
+        "alignDuration": 0.5635628700256348,
+        "nerDuration": 0.09509801864624023
       },
       "originalLanguage": "sv"
     },
@@ -9009,12 +9026,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 38,
-        "proceedingIndex": 38,
-        "alignDuration": 0.5681390762329102,
-        "nerDuration": 0.14187312126159668,
         "anforandeNummer": 38,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 38,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 38,
+        "alignDuration": 0.5949695110321045,
+        "nerDuration": 0.06682014465332031
       },
       "originalLanguage": "sv"
     },
@@ -9691,12 +9708,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 39,
-        "proceedingIndex": 39,
-        "alignDuration": 1.544508934020996,
-        "nerDuration": 0.7557029724121094,
         "anforandeNummer": 39,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 39,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 39,
+        "alignDuration": 1.4291181564331055,
+        "nerDuration": 0.45842456817626953
       },
       "originalLanguage": "sv"
     },
@@ -10058,12 +10075,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 40,
-        "proceedingIndex": 40,
-        "alignDuration": 1.1146531105041504,
-        "nerDuration": 0.3934769630432129,
         "anforandeNummer": 40,
-        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet"
+        "mediaIndex": 40,
+        "debattTitel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "proceedingIndex": 40,
+        "alignDuration": 1.0820369720458984,
+        "nerDuration": 0.23168396949768066
       },
       "originalLanguage": "sv"
     },
@@ -10844,12 +10861,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 41,
-        "proceedingIndex": 41,
-        "alignDuration": 1.9051399230957031,
-        "nerDuration": 0.8454899787902832,
         "anforandeNummer": 41,
-        "debattTitel": "Interparlamentariska unionen"
+        "mediaIndex": 41,
+        "debattTitel": "Interparlamentariska unionen",
+        "proceedingIndex": 41,
+        "alignDuration": 1.826003074645996,
+        "nerDuration": 0.49754905700683594
       },
       "originalLanguage": "sv"
     },
@@ -10989,12 +11006,12 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 42,
         "mediaIndex": 42,
         "proceedingIndex": 42,
-        "nerDuration": 0.10457801818847656,
-        "alignError": "audio too long (4690s > 2400s)",
         "alignSkip": "zero-duration-from-source",
-        "anforandeNummer": 42
+        "alignError": "audio too long (4690s > 2400s)",
+        "nerDuration": 0.04024648666381836
       },
       "originalLanguage": "sv"
     },
@@ -11133,11 +11150,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 43,
         "mediaIndex": 43,
         "proceedingIndex": 43,
-        "alignDuration": 0.4158029556274414,
-        "nerDuration": 0.07235884666442871,
-        "anforandeNummer": 43
+        "alignDuration": 0.45542192459106445,
+        "nerDuration": 0.04600977897644043
       },
       "originalLanguage": "sv"
     },
@@ -11205,8 +11222,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11313,11 +11330,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 44,
         "mediaIndex": 44,
         "proceedingIndex": 44,
-        "alignDuration": 0.4530062675476074,
-        "nerDuration": 0.1249380111694336,
-        "anforandeNummer": 44
+        "alignDuration": 0.5030980110168457,
+        "nerDuration": 0.08129549026489258
       },
       "originalLanguage": "sv"
     },
@@ -11475,11 +11492,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 45,
         "mediaIndex": 45,
         "proceedingIndex": 45,
-        "alignDuration": 0.3760039806365967,
-        "nerDuration": 0.09431028366088867,
-        "anforandeNummer": 45
+        "alignDuration": 0.4340522289276123,
+        "nerDuration": 0.06724333763122559
       },
       "originalLanguage": "sv"
     },
@@ -11547,8 +11564,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11613,11 +11630,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 46,
         "mediaIndex": 46,
         "proceedingIndex": 46,
-        "alignDuration": 0.3506009578704834,
-        "nerDuration": 0.06297707557678223,
-        "anforandeNummer": 46
+        "alignDuration": 0.41419196128845215,
+        "nerDuration": 0.04223442077636719
       },
       "originalLanguage": "sv"
     },
@@ -11823,11 +11840,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 47,
         "mediaIndex": 47,
         "proceedingIndex": 47,
-        "alignDuration": 0.4820098876953125,
-        "nerDuration": 0.16937494277954102,
-        "anforandeNummer": 47
+        "alignDuration": 0.5047688484191895,
+        "nerDuration": 0.09621334075927734
       },
       "originalLanguage": "sv"
     },
@@ -11895,8 +11912,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11999,11 +12016,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 48,
         "mediaIndex": 48,
         "proceedingIndex": 48,
-        "alignDuration": 0.4628620147705078,
-        "nerDuration": 0.12148904800415039,
-        "anforandeNummer": 48
+        "alignDuration": 0.5080926418304443,
+        "nerDuration": 0.06627011299133301
       },
       "originalLanguage": "sv"
     },
@@ -12129,11 +12146,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 49,
         "mediaIndex": 49,
         "proceedingIndex": 49,
-        "alignDuration": 0.38111376762390137,
-        "nerDuration": 0.06006479263305664,
-        "anforandeNummer": 49
+        "alignDuration": 0.41927051544189453,
+        "nerDuration": 0.03404355049133301
       },
       "originalLanguage": "sv"
     },
@@ -12201,8 +12218,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12266,11 +12283,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 50,
         "mediaIndex": 50,
         "proceedingIndex": 50,
-        "alignDuration": 0.32410407066345215,
-        "nerDuration": 0.06078314781188965,
-        "anforandeNummer": 50
+        "alignDuration": 0.3894939422607422,
+        "nerDuration": 0.036260128021240234
       },
       "originalLanguage": "sv"
     },
@@ -12422,11 +12439,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 51,
         "mediaIndex": 51,
         "proceedingIndex": 51,
-        "alignDuration": 0.4589529037475586,
-        "nerDuration": 0.08623790740966797,
-        "anforandeNummer": 51
+        "alignDuration": 0.5140383243560791,
+        "nerDuration": 0.05112504959106445
       },
       "originalLanguage": "sv"
     },
@@ -12475,8 +12492,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -12492,8 +12508,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12576,11 +12592,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 52,
         "mediaIndex": 52,
         "proceedingIndex": 52,
-        "alignDuration": 0.45887017250061035,
-        "nerDuration": 0.09508800506591797,
-        "anforandeNummer": 52
+        "alignDuration": 0.507758378982544,
+        "nerDuration": 0.06833958625793457
       },
       "originalLanguage": "sv"
     },
@@ -12720,11 +12736,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 53,
         "mediaIndex": 53,
         "proceedingIndex": 53,
-        "alignDuration": 0.35576605796813965,
-        "nerDuration": 0.07508730888366699,
-        "anforandeNummer": 53
+        "alignDuration": 0.4209268093109131,
+        "nerDuration": 0.038077354431152344
       },
       "originalLanguage": "sv"
     },
@@ -12773,8 +12789,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -12790,8 +12805,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12868,11 +12883,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 54,
         "mediaIndex": 54,
         "proceedingIndex": 54,
-        "alignDuration": 0.3652160167694092,
-        "nerDuration": 0.08366703987121582,
-        "anforandeNummer": 54
+        "alignDuration": 0.40360188484191895,
+        "nerDuration": 0.03814268112182617
       },
       "originalLanguage": "sv"
     },
@@ -13026,11 +13041,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 55,
         "mediaIndex": 55,
         "proceedingIndex": 55,
-        "alignDuration": 0.431901216506958,
-        "nerDuration": 0.08849883079528809,
-        "anforandeNummer": 55
+        "alignDuration": 0.48194050788879395,
+        "nerDuration": 0.050859689712524414
       },
       "originalLanguage": "sv"
     },
@@ -13098,8 +13113,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Energi- och näringsministern Ebba Busch",
-              "speakerstatus": null,
+              "speaker": "Ebba Busch",
+              "speakerstatus": "Energi- och näringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13114,9 +13129,9 @@
                   "entities": []
                 },
                 {
-                  "text": "Om Sverige ska skilja ut sig inom Europeiska unionen i det globala industrikrig som Europa riskerar att klämmas i mellan våra vänner i USA och Kina med deras metoder, där man använder handel och näringsliv som en form av maktutövning snarare än handel för handelns skull, behöver vi visa att vi är ett land som fortsätter att vara ledande när det kommer till innovation – vi är tvåa i världen nu – och som fortsätter att vara bäst på unicorns.",
+                  "text": "Om Sverige ska skilja ut sig inom Europeiska unionen i det globala industrikrig som Europa riskerar att klämmas i mellan våra vänner i USA och Kina med deras metoder, där man använder handel och näringsliv som en form av maktutövning snarare än handel för handelns skull, behöver vi visa att vi är ett land som fortsätter att vara ledande när det kommer till innovation",
                   "timeStart": "6.120",
-                  "timeEnd": "37.560",
+                  "timeEnd": "33.480",
                   "entities": [
                     {
                       "label": "Sverige",
@@ -13145,8 +13160,20 @@
                   ]
                 },
                 {
+                  "text": "vi är tvåa i världen nu",
+                  "timeStart": "33.480",
+                  "timeEnd": "35.240",
+                  "entities": []
+                },
+                {
+                  "text": "och som fortsätter att vara bäst på unicorns.",
+                  "timeStart": "35.240",
+                  "timeEnd": "37.840",
+                  "entities": []
+                },
+                {
                   "text": "Trots att vi utgör 1 procent av EU:s befolkning står vi alltså för 12 procent av alla så kallade enhörningar, unicorns.",
-                  "timeStart": "37.560",
+                  "timeStart": "37.840",
                   "timeEnd": "45.760",
                   "entities": []
                 },
@@ -13196,11 +13223,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 56,
         "mediaIndex": 56,
         "proceedingIndex": 56,
-        "alignDuration": 0.43625879287719727,
-        "nerDuration": 0.09318399429321289,
-        "anforandeNummer": 56
+        "alignDuration": 0.4896664619445801,
+        "nerDuration": 0.06093859672546387
       },
       "originalLanguage": "sv"
     },
@@ -13321,11 +13348,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 57,
         "mediaIndex": 57,
         "proceedingIndex": 57,
-        "alignDuration": 0.35787010192871094,
-        "nerDuration": 0.05589699745178223,
-        "anforandeNummer": 57
+        "alignDuration": 0.41835689544677734,
+        "nerDuration": 0.030034780502319336
       },
       "originalLanguage": "sv"
     },
@@ -13393,8 +13420,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Energi- och näringsministern Ebba Busch",
-              "speakerstatus": null,
+              "speaker": "Ebba Busch",
+              "speakerstatus": "Energi- och näringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13446,11 +13473,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 58,
         "mediaIndex": 58,
         "proceedingIndex": 58,
-        "alignDuration": 0.37191009521484375,
-        "nerDuration": 0.059928178787231445,
-        "anforandeNummer": 58
+        "alignDuration": 0.40494489669799805,
+        "nerDuration": 0.03232526779174805
       },
       "originalLanguage": "sv"
     },
@@ -13635,11 +13662,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 59,
         "mediaIndex": 59,
         "proceedingIndex": 59,
-        "alignDuration": 0.4653968811035156,
-        "nerDuration": 0.13313984870910645,
-        "anforandeNummer": 59
+        "alignDuration": 0.4959218502044678,
+        "nerDuration": 0.061595916748046875
       },
       "originalLanguage": "sv"
     },
@@ -13688,8 +13715,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -13705,8 +13731,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13815,11 +13841,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 60,
         "mediaIndex": 60,
         "proceedingIndex": 60,
-        "alignDuration": 0.43383097648620605,
-        "nerDuration": 0.10765886306762695,
-        "anforandeNummer": 60
+        "alignDuration": 0.4826784133911133,
+        "nerDuration": 0.06245541572570801
       },
       "originalLanguage": "sv"
     },
@@ -13939,11 +13965,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 61,
         "mediaIndex": 61,
         "proceedingIndex": 61,
-        "alignDuration": 0.36093902587890625,
-        "nerDuration": 0.05112719535827637,
-        "anforandeNummer": 61
+        "alignDuration": 0.43050360679626465,
+        "nerDuration": 0.03150343894958496
       },
       "originalLanguage": "sv"
     },
@@ -13992,8 +14018,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -14009,8 +14034,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14081,11 +14106,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 62,
         "mediaIndex": 62,
         "proceedingIndex": 62,
-        "alignDuration": 0.36487674713134766,
-        "nerDuration": 0.06997084617614746,
-        "anforandeNummer": 62
+        "alignDuration": 0.40265679359436035,
+        "nerDuration": 0.04243350028991699
       },
       "originalLanguage": "sv"
     },
@@ -14213,11 +14238,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 63,
         "mediaIndex": 63,
         "proceedingIndex": 63,
-        "alignDuration": 0.3736891746520996,
-        "nerDuration": 0.05283188819885254,
-        "anforandeNummer": 63
+        "alignDuration": 0.4368147850036621,
+        "nerDuration": 0.036364078521728516
       },
       "originalLanguage": "sv"
     },
@@ -14266,8 +14291,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -14283,8 +14307,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14378,11 +14402,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 64,
         "mediaIndex": 64,
         "proceedingIndex": 64,
-        "alignDuration": 0.46477389335632324,
-        "nerDuration": 0.10537886619567871,
-        "anforandeNummer": 64
+        "alignDuration": 0.49187755584716797,
+        "nerDuration": 0.07034873962402344
       },
       "originalLanguage": "sv"
     },
@@ -14509,11 +14533,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 65,
         "mediaIndex": 65,
         "proceedingIndex": 65,
-        "alignDuration": 0.329420804977417,
-        "nerDuration": 0.04689216613769531,
-        "anforandeNummer": 65
+        "alignDuration": 0.38588619232177734,
+        "nerDuration": 0.046272993087768555
       },
       "originalLanguage": "sv"
     },
@@ -14562,8 +14586,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -14579,8 +14602,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14676,11 +14699,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 66,
         "mediaIndex": 66,
         "proceedingIndex": 66,
-        "alignDuration": 0.3491020202636719,
-        "nerDuration": 0.08618807792663574,
-        "anforandeNummer": 66
+        "alignDuration": 0.395768404006958,
+        "nerDuration": 0.056818246841430664
       },
       "originalLanguage": "sv"
     },
@@ -14825,11 +14848,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 67,
         "mediaIndex": 67,
         "proceedingIndex": 67,
-        "alignDuration": 0.44420504570007324,
-        "nerDuration": 0.08395195007324219,
-        "anforandeNummer": 67
+        "alignDuration": 0.491100549697876,
+        "nerDuration": 0.056142568588256836
       },
       "originalLanguage": "sv"
     },
@@ -14897,8 +14920,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14981,11 +15004,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 68,
         "mediaIndex": 68,
         "proceedingIndex": 68,
-        "alignDuration": 0.4589040279388428,
-        "nerDuration": 0.09023690223693848,
-        "anforandeNummer": 68
+        "alignDuration": 0.5013546943664551,
+        "nerDuration": 0.051577091217041016
       },
       "originalLanguage": "sv"
     },
@@ -15082,12 +15105,12 @@
                 {
                   "text": "Därför handlar detta inte bara om organisation och bemanning utan också om människovärde, som statsrådet själv lyfte fram.",
                   "timeStart": "14.880",
-                  "timeEnd": "21.380",
+                  "timeEnd": "22.200",
                   "entities": []
                 },
                 {
                   "text": "Min följdfråga är om ministern ser behov av ytterligare nationella riktlinjer i den här frågan.",
-                  "timeStart": "21.380",
+                  "timeStart": "22.200",
                   "timeEnd": "32.000",
                   "entities": []
                 },
@@ -15111,11 +15134,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 69,
         "mediaIndex": 69,
         "proceedingIndex": 69,
-        "alignDuration": 0.34319496154785156,
-        "nerDuration": 0.0559542179107666,
-        "anforandeNummer": 69
+        "alignDuration": 0.4072866439819336,
+        "nerDuration": 0.03347921371459961
       },
       "originalLanguage": "sv"
     },
@@ -15183,8 +15206,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15242,11 +15265,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 70,
         "mediaIndex": 70,
         "proceedingIndex": 70,
-        "alignDuration": 0.3494760990142822,
-        "nerDuration": 0.05851292610168457,
-        "anforandeNummer": 70
+        "alignDuration": 0.42467808723449707,
+        "nerDuration": 0.03592658042907715
       },
       "originalLanguage": "sv"
     },
@@ -15405,11 +15428,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 71,
         "mediaIndex": 71,
         "proceedingIndex": 71,
-        "alignDuration": 0.4336698055267334,
-        "nerDuration": 0.0924379825592041,
-        "anforandeNummer": 71
+        "alignDuration": 0.4660019874572754,
+        "nerDuration": 0.05309724807739258
       },
       "originalLanguage": "sv"
     },
@@ -15477,8 +15500,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15562,11 +15585,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 72,
         "mediaIndex": 72,
         "proceedingIndex": 72,
-        "alignDuration": 0.4133157730102539,
-        "nerDuration": 0.0836639404296875,
-        "anforandeNummer": 72
+        "alignDuration": 0.4645838737487793,
+        "nerDuration": 0.04705524444580078
       },
       "originalLanguage": "sv"
     },
@@ -15668,11 +15691,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 73,
         "mediaIndex": 73,
         "proceedingIndex": 73,
-        "alignDuration": 0.2982912063598633,
-        "nerDuration": 0.023778200149536133,
-        "anforandeNummer": 73
+        "alignDuration": 0.35866641998291016,
+        "nerDuration": 0.01498556137084961
       },
       "originalLanguage": "sv"
     },
@@ -15740,8 +15763,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15787,11 +15810,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 74,
         "mediaIndex": 74,
         "proceedingIndex": 74,
-        "alignDuration": 0.33890485763549805,
-        "nerDuration": 0.04050898551940918,
-        "anforandeNummer": 74
+        "alignDuration": 0.3815760612487793,
+        "nerDuration": 0.023924589157104492
       },
       "originalLanguage": "sv"
     },
@@ -15839,8 +15862,7 @@
           "label": "Magdalena Sundqvist",
           "context": "main-speaker",
           "faction": {
-            "label": "S",
-            "wid": "Q105112"
+            "label": "S"
           },
           "originPersonID": "0114714260118"
         }
@@ -15952,11 +15974,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 75,
         "mediaIndex": 75,
         "proceedingIndex": 75,
-        "alignDuration": 0.4252188205718994,
-        "nerDuration": 0.10126805305480957,
-        "anforandeNummer": 75
+        "alignDuration": 0.45821070671081543,
+        "nerDuration": 0.06095385551452637
       },
       "originalLanguage": "sv"
     },
@@ -16024,8 +16046,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16102,11 +16124,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 76,
         "mediaIndex": 76,
         "proceedingIndex": 76,
-        "alignDuration": 0.45560312271118164,
-        "nerDuration": 0.08420705795288086,
-        "anforandeNummer": 76
+        "alignDuration": 0.4987626075744629,
+        "nerDuration": 0.04918980598449707
       },
       "originalLanguage": "sv"
     },
@@ -16154,8 +16176,7 @@
           "label": "Magdalena Sundqvist",
           "context": "main-speaker",
           "faction": {
-            "label": "S",
-            "wid": "Q105112"
+            "label": "S"
           },
           "originPersonID": "0114714260118"
         }
@@ -16255,11 +16276,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 77,
         "mediaIndex": 77,
         "proceedingIndex": 77,
-        "alignDuration": 0.3444631099700928,
-        "nerDuration": 0.07472586631774902,
-        "anforandeNummer": 77
+        "alignDuration": 0.4110989570617676,
+        "nerDuration": 0.03945422172546387
       },
       "originalLanguage": "sv"
     },
@@ -16327,8 +16348,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16386,11 +16407,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 78,
         "mediaIndex": 78,
         "proceedingIndex": 78,
-        "alignDuration": 0.3833003044128418,
-        "nerDuration": 0.05586886405944824,
-        "anforandeNummer": 78
+        "alignDuration": 0.4094822406768799,
+        "nerDuration": 0.034742116928100586
       },
       "originalLanguage": "sv"
     },
@@ -16498,11 +16519,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 79,
         "mediaIndex": 79,
         "proceedingIndex": 79,
-        "alignDuration": 0.3447558879852295,
-        "nerDuration": 0.03381609916687012,
-        "anforandeNummer": 79
+        "alignDuration": 0.40912365913391113,
+        "nerDuration": 0.020025253295898438
       },
       "originalLanguage": "sv"
     },
@@ -16551,8 +16572,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -16568,8 +16588,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16697,11 +16717,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 80,
         "mediaIndex": 80,
         "proceedingIndex": 80,
-        "alignDuration": 0.45274901390075684,
-        "nerDuration": 0.12549901008605957,
-        "anforandeNummer": 80
+        "alignDuration": 0.5006556510925293,
+        "nerDuration": 0.08552980422973633
       },
       "originalLanguage": "sv"
     },
@@ -16809,11 +16829,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 81,
         "mediaIndex": 81,
         "proceedingIndex": 81,
-        "alignDuration": 0.3286111354827881,
-        "nerDuration": 0.03389692306518555,
-        "anforandeNummer": 81
+        "alignDuration": 0.4042801856994629,
+        "nerDuration": 0.020505666732788086
       },
       "originalLanguage": "sv"
     },
@@ -16862,8 +16882,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -16879,8 +16898,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16932,11 +16951,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 82,
         "mediaIndex": 82,
         "proceedingIndex": 82,
-        "alignDuration": 0.3663949966430664,
-        "nerDuration": 0.05792713165283203,
-        "anforandeNummer": 82
+        "alignDuration": 0.4156973361968994,
+        "nerDuration": 0.03195810317993164
       },
       "originalLanguage": "sv"
     },
@@ -17070,11 +17089,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 83,
         "mediaIndex": 83,
         "proceedingIndex": 83,
-        "alignDuration": 0.3922281265258789,
-        "nerDuration": 0.06044602394104004,
-        "anforandeNummer": 83
+        "alignDuration": 0.4337012767791748,
+        "nerDuration": 0.03916049003601074
       },
       "originalLanguage": "sv"
     },
@@ -17123,8 +17142,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -17140,8 +17158,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17258,11 +17276,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 84,
         "mediaIndex": 84,
         "proceedingIndex": 84,
-        "alignDuration": 0.45786094665527344,
-        "nerDuration": 0.09809303283691406,
-        "anforandeNummer": 84
+        "alignDuration": 0.49739956855773926,
+        "nerDuration": 0.06215190887451172
       },
       "originalLanguage": "sv"
     },
@@ -17401,11 +17419,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 85,
         "mediaIndex": 85,
         "proceedingIndex": 85,
-        "alignDuration": 0.3680760860443115,
-        "nerDuration": 0.06010603904724121,
-        "anforandeNummer": 85
+        "alignDuration": 0.41585516929626465,
+        "nerDuration": 0.040418386459350586
       },
       "originalLanguage": "sv"
     },
@@ -17454,8 +17472,7 @@
           "context": "main-speaker",
           "role": "Bistånds- och utrikeshandelsministern",
           "faction": {
-            "label": "M",
-            "wid": "Q110843"
+            "label": "M"
           },
           "originPersonID": "0910272619521"
         }
@@ -17471,8 +17488,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Bistånds- och utrikeshandelsministern Benjamin Dousa",
-              "speakerstatus": null,
+              "speaker": "Benjamin Dousa",
+              "speakerstatus": "Bistånds- och utrikeshandelsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17532,11 +17549,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 86,
         "mediaIndex": 86,
         "proceedingIndex": 86,
-        "alignDuration": 0.33234405517578125,
-        "nerDuration": 0.04520606994628906,
-        "anforandeNummer": 86
+        "alignDuration": 0.3904240131378174,
+        "nerDuration": 0.03205275535583496
       },
       "originalLanguage": "sv"
     },
@@ -17739,11 +17756,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 87,
         "mediaIndex": 87,
         "proceedingIndex": 87,
-        "alignDuration": 0.45343780517578125,
-        "nerDuration": 0.1116940975189209,
-        "anforandeNummer": 87
+        "alignDuration": 0.47708892822265625,
+        "nerDuration": 0.06872677803039551
       },
       "originalLanguage": "sv"
     },
@@ -17810,8 +17827,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "EU-minister JESSICA ROSENCRANTZ",
-              "speakerstatus": null,
+              "speaker": "JESSICA ROSENCRANTZ",
+              "speakerstatus": "EU-minister",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17959,11 +17976,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 88,
         "mediaIndex": 88,
         "proceedingIndex": 88,
-        "alignDuration": 0.4553568363189697,
-        "nerDuration": 0.2750101089477539,
-        "anforandeNummer": 88
+        "alignDuration": 0.49645328521728516,
+        "nerDuration": 0.09092974662780762
       },
       "originalLanguage": "sv"
     },
@@ -18140,11 +18157,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 89,
         "mediaIndex": 89,
         "proceedingIndex": 89,
-        "alignDuration": 0.3679642677307129,
-        "nerDuration": 0.11993408203125,
-        "anforandeNummer": 89
+        "alignDuration": 0.41707825660705566,
+        "nerDuration": 0.05981612205505371
       },
       "originalLanguage": "sv"
     },
@@ -18211,8 +18228,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "EU-minister JESSICA ROSENCRANTZ",
-              "speakerstatus": null,
+              "speaker": "JESSICA ROSENCRANTZ",
+              "speakerstatus": "EU-minister",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18318,11 +18335,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 90,
         "mediaIndex": 90,
         "proceedingIndex": 90,
-        "alignDuration": 0.3738548755645752,
-        "nerDuration": 0.08602595329284668,
-        "anforandeNummer": 90
+        "alignDuration": 0.420989990234375,
+        "nerDuration": 0.047557830810546875
       },
       "originalLanguage": "sv"
     },
@@ -18475,11 +18492,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 91,
         "mediaIndex": 91,
         "proceedingIndex": 91,
-        "alignDuration": 0.44107890129089355,
-        "nerDuration": 0.09033083915710449,
-        "anforandeNummer": 91
+        "alignDuration": 0.4872004985809326,
+        "nerDuration": 0.05481719970703125
       },
       "originalLanguage": "sv"
     },
@@ -18547,8 +18564,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Energi- och näringsministern Ebba Busch",
-              "speakerstatus": null,
+              "speaker": "Ebba Busch",
+              "speakerstatus": "Energi- och näringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18663,11 +18680,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 92,
         "mediaIndex": 92,
         "proceedingIndex": 92,
-        "alignDuration": 0.46250319480895996,
-        "nerDuration": 0.12901711463928223,
-        "anforandeNummer": 92
+        "alignDuration": 0.5111970901489258,
+        "nerDuration": 0.08637881278991699
       },
       "originalLanguage": "sv"
     },
@@ -18787,11 +18804,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 93,
         "mediaIndex": 93,
         "proceedingIndex": 93,
-        "alignDuration": 0.34448909759521484,
-        "nerDuration": 0.04877495765686035,
-        "anforandeNummer": 93
+        "alignDuration": 0.41889142990112305,
+        "nerDuration": 0.030742406845092773
       },
       "originalLanguage": "sv"
     },
@@ -18859,8 +18876,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Energi- och näringsministern Ebba Busch",
-              "speakerstatus": null,
+              "speaker": "Ebba Busch",
+              "speakerstatus": "Energi- och näringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18925,11 +18942,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 94,
         "mediaIndex": 94,
         "proceedingIndex": 94,
-        "alignDuration": 0.35827183723449707,
-        "nerDuration": 0.0713810920715332,
-        "anforandeNummer": 94
+        "alignDuration": 0.4195733070373535,
+        "nerDuration": 0.03938555717468262
       },
       "originalLanguage": "sv"
     },
@@ -19080,11 +19097,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 95,
         "mediaIndex": 95,
         "proceedingIndex": 95,
-        "alignDuration": 0.4420919418334961,
-        "nerDuration": 0.08457493782043457,
-        "anforandeNummer": 95
+        "alignDuration": 0.4874842166900635,
+        "nerDuration": 0.05259346961975098
       },
       "originalLanguage": "sv"
     },
@@ -19152,8 +19169,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19168,15 +19185,21 @@
                   "entities": []
                 },
                 {
-                  "text": "Jag önskar att de hade kunnat vara lika nöjda när de blickar tillbaka på sina åtta år vid makten – att de hade vidtagit de nödvändiga åtgärderna för att stärka kompetenskraven inom svensk äldreomsorg och att de hade lanserat språkkravet och redan haft det på plats så att äldre kunde förstå och göra sig förstådda och medarbetare sinsemellan kunde ha en bättre arbetsmiljö, men framför allt att de hade säkerställt den medicinska säkerheten.",
+                  "text": "Jag önskar att de hade kunnat vara lika nöjda när de blickar tillbaka på sina åtta år vid makten",
                   "timeStart": "6.800",
+                  "timeEnd": "11.080",
+                  "entities": []
+                },
+                {
+                  "text": "att de hade vidtagit de nödvändiga åtgärderna för att stärka kompetenskraven inom svensk äldreomsorg och att de hade lanserat språkkravet och redan haft det på plats så att äldre kunde förstå och göra sig förstådda och medarbetare sinsemellan kunde ha en bättre arbetsmiljö, men framför allt att de hade säkerställt den medicinska säkerheten.",
+                  "timeStart": "11.080",
                   "timeEnd": "32.120",
                   "entities": []
                 },
                 {
                   "text": "När det gäller utdrag ur belastnings- och misstankeregister, så att man på riktigt kan se till att öka tryggheten och säkerheten för äldre, önskar jag verkligen, fru talman, att Socialdemokraterna hade kunnat säga att de var nöjda över att de redan hade infört detta.",
                   "timeStart": "32.120",
-                  "timeEnd": "46.920",
+                  "timeEnd": "46.880",
                   "entities": [
                     {
                       "label": "Socialdemokraterna",
@@ -19188,7 +19211,7 @@
                 },
                 {
                   "text": "Nu är så inte fallet, utan det har vi fått på plats under den här mandatperioden.",
-                  "timeStart": "46.920",
+                  "timeStart": "46.880",
                   "timeEnd": "51.600",
                   "entities": []
                 },
@@ -19224,11 +19247,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 96,
         "mediaIndex": 96,
         "proceedingIndex": 96,
-        "alignDuration": 0.45946502685546875,
-        "nerDuration": 0.08191204071044922,
-        "anforandeNummer": 96
+        "alignDuration": 0.5207140445709229,
+        "nerDuration": 0.05302786827087402
       },
       "originalLanguage": "sv"
     },
@@ -19387,11 +19410,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 97,
         "mediaIndex": 97,
         "proceedingIndex": 97,
-        "alignDuration": 0.41432905197143555,
-        "nerDuration": 0.11627888679504395,
-        "anforandeNummer": 97
+        "alignDuration": 0.445972204208374,
+        "nerDuration": 0.05418682098388672
       },
       "originalLanguage": "sv"
     },
@@ -19458,8 +19481,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "EU-minister JESSICA ROSENCRANTZ",
-              "speakerstatus": null,
+              "speaker": "JESSICA ROSENCRANTZ",
+              "speakerstatus": "EU-minister",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19598,11 +19621,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 98,
         "mediaIndex": 98,
         "proceedingIndex": 98,
-        "alignDuration": 0.434769868850708,
-        "nerDuration": 0.14143109321594238,
-        "anforandeNummer": 98
+        "alignDuration": 0.46960997581481934,
+        "nerDuration": 0.0818016529083252
       },
       "originalLanguage": "sv"
     },
@@ -19771,11 +19794,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 99,
         "mediaIndex": 99,
         "proceedingIndex": 99,
-        "alignDuration": 0.4821739196777344,
-        "nerDuration": 0.11957907676696777,
-        "anforandeNummer": 99
+        "alignDuration": 0.5148842334747314,
+        "nerDuration": 0.07265067100524902
       },
       "originalLanguage": "sv"
     },
@@ -19842,8 +19865,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "EU-minister JESSICA ROSENCRANTZ",
-              "speakerstatus": null,
+              "speaker": "JESSICA ROSENCRANTZ",
+              "speakerstatus": "EU-minister",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19926,11 +19949,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 100,
         "mediaIndex": 100,
         "proceedingIndex": 100,
-        "alignDuration": 0.44829797744750977,
-        "nerDuration": 0.09855270385742188,
-        "anforandeNummer": 100
+        "alignDuration": 0.504241943359375,
+        "nerDuration": 0.055084943771362305
       },
       "originalLanguage": "sv"
     },
@@ -20109,11 +20132,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 101,
         "mediaIndex": 101,
         "proceedingIndex": 101,
-        "alignDuration": 0.4105970859527588,
-        "nerDuration": 0.08092093467712402,
-        "anforandeNummer": 101
+        "alignDuration": 0.46161723136901855,
+        "nerDuration": 0.0465390682220459
       },
       "originalLanguage": "sv"
     },
@@ -20180,8 +20203,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "EU-minister JESSICA ROSENCRANTZ",
-              "speakerstatus": null,
+              "speaker": "JESSICA ROSENCRANTZ",
+              "speakerstatus": "EU-minister",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20309,11 +20332,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 102,
         "mediaIndex": 102,
         "proceedingIndex": 102,
-        "alignDuration": 0.4694099426269531,
-        "nerDuration": 0.1445920467376709,
-        "anforandeNummer": 102
+        "alignDuration": 0.4928615093231201,
+        "nerDuration": 0.08057117462158203
       },
       "originalLanguage": "sv"
     },
@@ -20472,11 +20495,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 103,
         "mediaIndex": 103,
         "proceedingIndex": 103,
-        "alignDuration": 0.4493131637573242,
-        "nerDuration": 0.09091496467590332,
-        "anforandeNummer": 103
+        "alignDuration": 0.4736673831939697,
+        "nerDuration": 0.05694985389709473
       },
       "originalLanguage": "sv"
     },
@@ -20544,8 +20567,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20622,11 +20645,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 104,
         "mediaIndex": 104,
         "proceedingIndex": 104,
-        "alignDuration": 0.48013782501220703,
-        "nerDuration": 0.08572697639465332,
-        "anforandeNummer": 104
+        "alignDuration": 0.5113606452941895,
+        "nerDuration": 0.056433916091918945
       },
       "originalLanguage": "sv"
     },
@@ -20785,11 +20808,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 105,
         "mediaIndex": 105,
         "proceedingIndex": 105,
-        "alignDuration": 0.41603708267211914,
-        "nerDuration": 0.0807039737701416,
-        "anforandeNummer": 105
+        "alignDuration": 0.4690227508544922,
+        "nerDuration": 0.05236053466796875
       },
       "originalLanguage": "sv"
     },
@@ -20857,8 +20880,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20954,11 +20977,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 106,
         "mediaIndex": 106,
         "proceedingIndex": 106,
-        "alignDuration": 0.45937013626098633,
-        "nerDuration": 0.1005861759185791,
-        "anforandeNummer": 106
+        "alignDuration": 0.4953751564025879,
+        "nerDuration": 0.06466484069824219
       },
       "originalLanguage": "sv"
     },
@@ -21091,11 +21114,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 107,
         "mediaIndex": 107,
         "proceedingIndex": 107,
-        "alignDuration": 0.374204158782959,
-        "nerDuration": 0.05420684814453125,
-        "anforandeNummer": 107
+        "alignDuration": 0.43245887756347656,
+        "nerDuration": 0.035980939865112305
       },
       "originalLanguage": "sv"
     },
@@ -21163,8 +21186,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Energi- och näringsministern Ebba Busch",
-              "speakerstatus": null,
+              "speaker": "Ebba Busch",
+              "speakerstatus": "Energi- och näringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -21286,11 +21309,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 108,
         "mediaIndex": 108,
         "proceedingIndex": 108,
-        "alignDuration": 0.44919610023498535,
-        "nerDuration": 0.13068580627441406,
-        "anforandeNummer": 108
+        "alignDuration": 0.48268866539001465,
+        "nerDuration": 0.07578253746032715
       },
       "originalLanguage": "sv"
     },
@@ -21484,11 +21507,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 109,
         "mediaIndex": 109,
         "proceedingIndex": 109,
-        "alignDuration": 0.4594762325286865,
-        "nerDuration": 0.15244817733764648,
-        "anforandeNummer": 109
+        "alignDuration": 0.4850623607635498,
+        "nerDuration": 0.0751192569732666
       },
       "originalLanguage": "sv"
     },
@@ -21556,8 +21579,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -21628,11 +21651,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 110,
         "mediaIndex": 110,
         "proceedingIndex": 110,
-        "alignDuration": 0.44177675247192383,
-        "nerDuration": 0.08397603034973145,
-        "anforandeNummer": 110
+        "alignDuration": 0.4821324348449707,
+        "nerDuration": 0.05199599266052246
       },
       "originalLanguage": "sv"
     },
@@ -21797,11 +21820,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 111,
         "mediaIndex": 111,
         "proceedingIndex": 111,
-        "alignDuration": 0.4105808734893799,
-        "nerDuration": 0.08586788177490234,
-        "anforandeNummer": 111
+        "alignDuration": 0.46997547149658203,
+        "nerDuration": 0.058623552322387695
       },
       "originalLanguage": "sv"
     },
@@ -21869,8 +21892,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Energi- och näringsministern Ebba Busch",
-              "speakerstatus": null,
+              "speaker": "Ebba Busch",
+              "speakerstatus": "Energi- och näringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -21992,11 +22015,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 112,
         "mediaIndex": 112,
         "proceedingIndex": 112,
-        "alignDuration": 0.4662041664123535,
-        "nerDuration": 0.13107585906982422,
-        "anforandeNummer": 112
+        "alignDuration": 0.5038681030273438,
+        "nerDuration": 0.08570551872253418
       },
       "originalLanguage": "sv"
     },
@@ -22165,11 +22188,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 113,
         "mediaIndex": 113,
         "proceedingIndex": 113,
-        "alignDuration": 0.41773223876953125,
-        "nerDuration": 0.10117197036743164,
-        "anforandeNummer": 113
+        "alignDuration": 0.48745274543762207,
+        "nerDuration": 0.06474089622497559
       },
       "originalLanguage": "sv"
     },
@@ -22237,8 +22260,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -22328,11 +22351,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 114,
         "mediaIndex": 114,
         "proceedingIndex": 114,
-        "alignDuration": 0.45888614654541016,
-        "nerDuration": 0.11176323890686035,
-        "anforandeNummer": 114
+        "alignDuration": 0.49994826316833496,
+        "nerDuration": 0.061070919036865234
       },
       "originalLanguage": "sv"
     },
@@ -22504,11 +22527,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 115,
         "mediaIndex": 115,
         "proceedingIndex": 115,
-        "alignDuration": 0.4152698516845703,
-        "nerDuration": 0.08096170425415039,
-        "anforandeNummer": 115
+        "alignDuration": 0.48276734352111816,
+        "nerDuration": 0.049932241439819336
       },
       "originalLanguage": "sv"
     },
@@ -22575,8 +22598,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "EU-minister JESSICA ROSENCRANTZ",
-              "speakerstatus": null,
+              "speaker": "JESSICA ROSENCRANTZ",
+              "speakerstatus": "EU-minister",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -22686,11 +22709,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 116,
         "mediaIndex": 116,
         "proceedingIndex": 116,
-        "alignDuration": 0.4528629779815674,
-        "nerDuration": 0.12282013893127441,
-        "anforandeNummer": 116
+        "alignDuration": 0.510411262512207,
+        "nerDuration": 0.0713653564453125
       },
       "originalLanguage": "sv"
     },
@@ -22842,11 +22865,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 117,
         "mediaIndex": 117,
         "proceedingIndex": 117,
-        "alignDuration": 0.44805002212524414,
-        "nerDuration": 0.07853889465332031,
-        "anforandeNummer": 117
+        "alignDuration": 0.4927968978881836,
+        "nerDuration": 0.0482945442199707
       },
       "originalLanguage": "sv"
     },
@@ -22914,8 +22937,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -23010,11 +23033,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 118,
         "mediaIndex": 118,
         "proceedingIndex": 118,
-        "alignDuration": 0.45650172233581543,
-        "nerDuration": 0.12420320510864258,
-        "anforandeNummer": 118
+        "alignDuration": 0.5028281211853027,
+        "nerDuration": 0.06382393836975098
       },
       "originalLanguage": "sv"
     },
@@ -23167,11 +23190,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 119,
         "mediaIndex": 119,
         "proceedingIndex": 119,
-        "alignDuration": 0.3866732120513916,
-        "nerDuration": 0.07691597938537598,
-        "anforandeNummer": 119
+        "alignDuration": 0.46367740631103516,
+        "nerDuration": 0.04579329490661621
       },
       "originalLanguage": "sv"
     },
@@ -23239,8 +23262,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -23331,11 +23354,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 120,
         "mediaIndex": 120,
         "proceedingIndex": 120,
-        "alignDuration": 0.46783876419067383,
-        "nerDuration": 0.09486079216003418,
-        "anforandeNummer": 120
+        "alignDuration": 0.5007593631744385,
+        "nerDuration": 0.06040835380554199
       },
       "originalLanguage": "sv"
     },
@@ -23494,11 +23517,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 121,
         "mediaIndex": 121,
         "proceedingIndex": 121,
-        "alignDuration": 0.4722740650177002,
-        "nerDuration": 0.11767315864562988,
-        "anforandeNummer": 121
+        "alignDuration": 0.5155670642852783,
+        "nerDuration": 0.06650805473327637
       },
       "originalLanguage": "sv"
     },
@@ -23566,8 +23589,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Äldre- och socialförsäkringsministern Anna Tenje",
-              "speakerstatus": null,
+              "speaker": "Anna Tenje",
+              "speakerstatus": "Äldre- och socialförsäkringsministern",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -23689,11 +23712,11 @@
         }
       ],
       "debug": {
+        "anforandeNummer": 122,
         "mediaIndex": 122,
         "proceedingIndex": 122,
-        "alignDuration": 0.47626590728759766,
-        "nerDuration": 0.1269359588623047,
-        "anforandeNummer": 122
+        "alignDuration": 0.516556978225708,
+        "nerDuration": 0.08441305160522461
       },
       "originalLanguage": "sv"
     },
@@ -24289,12 +24312,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 123,
-        "proceedingIndex": 123,
-        "alignDuration": 1.7424557209014893,
-        "nerDuration": 0.5995519161224365,
         "anforandeNummer": 123,
-        "debattTitel": "Interparlamentariska unionen"
+        "mediaIndex": 123,
+        "debattTitel": "Interparlamentariska unionen",
+        "proceedingIndex": 123,
+        "alignDuration": 1.6719200611114502,
+        "nerDuration": 0.372572660446167
       },
       "originalLanguage": "sv"
     },
@@ -24935,12 +24958,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 124,
-        "proceedingIndex": 124,
-        "alignDuration": 1.9991929531097412,
-        "nerDuration": 0.6493520736694336,
         "anforandeNummer": 124,
-        "debattTitel": "Interparlamentariska unionen"
+        "mediaIndex": 124,
+        "debattTitel": "Interparlamentariska unionen",
+        "proceedingIndex": 124,
+        "alignDuration": 1.8987843990325928,
+        "nerDuration": 0.363300085067749
       },
       "originalLanguage": "sv"
     },
@@ -25305,12 +25328,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 125,
-        "proceedingIndex": 125,
-        "alignDuration": 1.1623039245605469,
-        "nerDuration": 0.39427614212036133,
         "anforandeNummer": 125,
-        "debattTitel": "Förenklingar i jaktlagstiftningen"
+        "mediaIndex": 125,
+        "debattTitel": "Förenklingar i jaktlagstiftningen",
+        "proceedingIndex": 125,
+        "alignDuration": 1.1332464218139648,
+        "nerDuration": 0.24366307258605957
       },
       "originalLanguage": "sv"
     },
@@ -25847,12 +25870,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 126,
-        "proceedingIndex": 126,
-        "alignDuration": 1.6408188343048096,
-        "nerDuration": 0.6194660663604736,
         "anforandeNummer": 126,
-        "debattTitel": "Förenklingar i jaktlagstiftningen"
+        "mediaIndex": 126,
+        "debattTitel": "Förenklingar i jaktlagstiftningen",
+        "proceedingIndex": 126,
+        "alignDuration": 1.5520603656768799,
+        "nerDuration": 0.345245361328125
       },
       "originalLanguage": "sv"
     },
@@ -26142,12 +26165,12 @@
                 {
                   "text": "Slutligen vill jag lyfta det som är kärnan i propositionen, nämligen att förenkla lagstiftningen.",
                   "timeStart": "257.280",
-                  "timeEnd": "261.600",
+                  "timeEnd": "261.680",
                   "entities": []
                 },
                 {
                   "text": "Det är också något vi gör i och med att förutsättningarna nu förbättras för att agera vid eftersök och hantering av skadat vilt.",
-                  "timeStart": "261.600",
+                  "timeStart": "261.680",
                   "timeEnd": "268.840",
                   "entities": []
                 },
@@ -26257,12 +26280,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 127,
-        "proceedingIndex": 127,
-        "alignDuration": 1.4461891651153564,
-        "nerDuration": 0.48055410385131836,
         "anforandeNummer": 127,
-        "debattTitel": "Förenklingar i jaktlagstiftningen"
+        "mediaIndex": 127,
+        "debattTitel": "Förenklingar i jaktlagstiftningen",
+        "proceedingIndex": 127,
+        "alignDuration": 1.3776249885559082,
+        "nerDuration": 0.2794361114501953
       },
       "originalLanguage": "sv"
     },
@@ -26559,12 +26582,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 128,
-        "proceedingIndex": 128,
-        "alignDuration": 0.8789129257202148,
-        "nerDuration": 0.2868001461029053,
         "anforandeNummer": 128,
-        "debattTitel": "Förenklingar i jaktlagstiftningen"
+        "mediaIndex": 128,
+        "debattTitel": "Förenklingar i jaktlagstiftningen",
+        "proceedingIndex": 128,
+        "alignDuration": 0.8880207538604736,
+        "nerDuration": 0.1573045253753662
       },
       "originalLanguage": "sv"
     },
@@ -26874,12 +26897,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 129,
-        "proceedingIndex": 129,
-        "alignDuration": 0.9006562232971191,
-        "nerDuration": 0.3029320240020752,
         "anforandeNummer": 129,
-        "debattTitel": "Förenklingar i jaktlagstiftningen"
+        "mediaIndex": 129,
+        "debattTitel": "Förenklingar i jaktlagstiftningen",
+        "proceedingIndex": 129,
+        "alignDuration": 0.9055838584899902,
+        "nerDuration": 0.190138578414917
       },
       "originalLanguage": "sv"
     },
@@ -27169,12 +27192,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 130,
-        "proceedingIndex": 130,
-        "alignDuration": 1.1390609741210938,
-        "nerDuration": 0.302731990814209,
         "anforandeNummer": 130,
-        "debattTitel": "Förenklingar i jaktlagstiftningen"
+        "mediaIndex": 130,
+        "debattTitel": "Förenklingar i jaktlagstiftningen",
+        "proceedingIndex": 130,
+        "alignDuration": 1.1123456954956055,
+        "nerDuration": 0.17281007766723633
       },
       "originalLanguage": "sv"
     },
@@ -27652,12 +27675,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 131,
-        "proceedingIndex": 131,
-        "alignDuration": 1.3531601428985596,
-        "nerDuration": 0.50813889503479,
         "anforandeNummer": 131,
-        "debattTitel": "Förenklingar i jaktlagstiftningen"
+        "mediaIndex": 131,
+        "debattTitel": "Förenklingar i jaktlagstiftningen",
+        "proceedingIndex": 131,
+        "alignDuration": 1.2582967281341553,
+        "nerDuration": 0.27801513671875
       },
       "originalLanguage": "sv"
     },
@@ -28002,12 +28025,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 132,
-        "proceedingIndex": 132,
-        "alignDuration": 1.1979141235351562,
-        "nerDuration": 0.33791327476501465,
         "anforandeNummer": 132,
-        "debattTitel": "Förenklingar i jaktlagstiftningen"
+        "mediaIndex": 132,
+        "debattTitel": "Förenklingar i jaktlagstiftningen",
+        "proceedingIndex": 132,
+        "alignDuration": 1.1237263679504395,
+        "nerDuration": 0.20117473602294922
       },
       "originalLanguage": "sv"
     },
@@ -28459,12 +28482,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 133,
-        "proceedingIndex": 133,
-        "alignDuration": 1.7939083576202393,
-        "nerDuration": 0.5122959613800049,
         "anforandeNummer": 133,
-        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+        "mediaIndex": 133,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
+        "proceedingIndex": 133,
+        "alignDuration": 1.6519780158996582,
+        "nerDuration": 0.3292863368988037
       },
       "originalLanguage": "sv"
     },
@@ -28847,12 +28870,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 134,
-        "proceedingIndex": 134,
-        "alignDuration": 1.3233270645141602,
-        "nerDuration": 0.41878724098205566,
         "anforandeNummer": 134,
-        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+        "mediaIndex": 134,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
+        "proceedingIndex": 134,
+        "alignDuration": 1.2115941047668457,
+        "nerDuration": 0.24217891693115234
       },
       "originalLanguage": "sv"
     },
@@ -29017,12 +29040,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 135,
-        "proceedingIndex": 135,
-        "alignDuration": 0.4857628345489502,
-        "nerDuration": 0.0953679084777832,
         "anforandeNummer": 135,
-        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+        "mediaIndex": 135,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
+        "proceedingIndex": 135,
+        "alignDuration": 0.5200986862182617,
+        "nerDuration": 0.05110621452331543
       },
       "originalLanguage": "sv"
     },
@@ -29191,8 +29214,20 @@
                   "entities": []
                 },
                 {
-                  "text": "Det är ingen hemlighet att vi sverigedemokrater – både jag i min hemkommun och mina partikamrater – i många fall har försökt få kommunerna att snabbt sätta igång med arbete för att motverka felaktiga utbetalningar av försörjningsstöd, bidrag till olika organisationer och så vidare men att våra förslag oftast har röstats ned av ett majoritetsstyre lett av Socialdemokraterna.",
+                  "text": "Det är ingen hemlighet att vi sverigedemokrater",
                   "timeStart": "69.680",
+                  "timeEnd": "72.920",
+                  "entities": []
+                },
+                {
+                  "text": "både jag i min hemkommun och mina partikamrater",
+                  "timeStart": "72.920",
+                  "timeEnd": "75.840",
+                  "entities": []
+                },
+                {
+                  "text": "i många fall har försökt få kommunerna att snabbt sätta igång med arbete för att motverka felaktiga utbetalningar av försörjningsstöd, bidrag till olika organisationer och så vidare men att våra förslag oftast har röstats ned av ett majoritetsstyre lett av Socialdemokraterna.",
+                  "timeStart": "75.840",
                   "timeEnd": "88.680",
                   "entities": [
                     {
@@ -29206,7 +29241,7 @@
                 {
                   "text": "Det här visar ju på att Socialdemokraterna säger en sak nationellt men inte följer upp det i kommuner och regioner.",
                   "timeStart": "88.680",
-                  "timeEnd": "92.600",
+                  "timeEnd": "93.640",
                   "entities": [
                     {
                       "label": "Socialdemokraterna",
@@ -29218,7 +29253,7 @@
                 },
                 {
                   "text": "Jag tror inte att Socialdemokraterna tror på sin egen politik.",
-                  "timeStart": "92.600",
+                  "timeStart": "93.640",
                   "timeEnd": "95.240",
                   "entities": [
                     {
@@ -29267,12 +29302,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 136,
-        "proceedingIndex": 136,
-        "alignDuration": 0.6548759937286377,
-        "nerDuration": 0.1970539093017578,
         "anforandeNummer": 136,
-        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+        "mediaIndex": 136,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
+        "proceedingIndex": 136,
+        "alignDuration": 0.6848239898681641,
+        "nerDuration": 0.11777639389038086
       },
       "originalLanguage": "sv"
     },
@@ -29512,12 +29547,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 137,
-        "proceedingIndex": 137,
-        "alignDuration": 0.6298460960388184,
-        "nerDuration": 0.2113959789276123,
         "anforandeNummer": 137,
-        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+        "mediaIndex": 137,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
+        "proceedingIndex": 137,
+        "alignDuration": 0.6519973278045654,
+        "nerDuration": 0.1303083896636963
       },
       "originalLanguage": "sv"
     },
@@ -29740,12 +29775,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 138,
-        "proceedingIndex": 138,
-        "alignDuration": 0.6542317867279053,
-        "nerDuration": 0.1986711025238037,
         "anforandeNummer": 138,
-        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+        "mediaIndex": 138,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
+        "proceedingIndex": 138,
+        "alignDuration": 0.6956441402435303,
+        "nerDuration": 0.11188292503356934
       },
       "originalLanguage": "sv"
     },
@@ -30078,12 +30113,12 @@
                 {
                   "text": "Det är samtidigt viktigt att slå fast att arbetet ska ske på ett respektfullt och rättssäkert sätt för den personliga integriteten.",
                   "timeStart": "278.200",
-                  "timeEnd": "288.880",
+                  "timeEnd": "288.920",
                   "entities": []
                 },
                 {
                   "text": "Informationsdelning ska vara tydligt reglerad och proportionerlig, och den ska användas där den behövs för att skydda det gemensamma.",
-                  "timeStart": "288.880",
+                  "timeStart": "288.920",
                   "timeEnd": "296.200",
                   "entities": []
                 },
@@ -30168,12 +30203,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 139,
-        "proceedingIndex": 139,
-        "alignDuration": 1.3481431007385254,
-        "nerDuration": 0.47945499420166016,
         "anforandeNummer": 139,
-        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen"
+        "mediaIndex": 139,
+        "debattTitel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
+        "proceedingIndex": 139,
+        "alignDuration": 1.2856628894805908,
+        "nerDuration": 0.2721071243286133
       },
       "originalLanguage": "sv"
     },
@@ -30510,12 +30545,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 140,
-        "proceedingIndex": 140,
-        "alignDuration": 1.2211720943450928,
-        "nerDuration": 0.3490939140319824,
         "anforandeNummer": 140,
-        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+        "mediaIndex": 140,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid",
+        "proceedingIndex": 140,
+        "alignDuration": 1.150402545928955,
+        "nerDuration": 0.32921910285949707
       },
       "originalLanguage": "sv"
     },
@@ -30915,12 +30950,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 141,
-        "proceedingIndex": 141,
-        "alignDuration": 1.5715351104736328,
-        "nerDuration": 0.425976037979126,
         "anforandeNummer": 141,
-        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+        "mediaIndex": 141,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid",
+        "proceedingIndex": 141,
+        "alignDuration": 1.4862275123596191,
+        "nerDuration": 0.31967711448669434
       },
       "originalLanguage": "sv"
     },
@@ -31397,12 +31432,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 142,
-        "proceedingIndex": 142,
-        "alignDuration": 1.685487985610962,
-        "nerDuration": 0.5401852130889893,
         "anforandeNummer": 142,
-        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+        "mediaIndex": 142,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid",
+        "proceedingIndex": 142,
+        "alignDuration": 1.5982742309570312,
+        "nerDuration": 0.3420841693878174
       },
       "originalLanguage": "sv"
     },
@@ -31909,12 +31944,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 143,
-        "proceedingIndex": 143,
-        "alignDuration": 1.4590611457824707,
-        "nerDuration": 0.5290689468383789,
         "anforandeNummer": 143,
-        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+        "mediaIndex": 143,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid",
+        "proceedingIndex": 143,
+        "alignDuration": 1.4018874168395996,
+        "nerDuration": 0.38674139976501465
       },
       "originalLanguage": "sv"
     },
@@ -32241,12 +32276,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 144,
-        "proceedingIndex": 144,
-        "alignDuration": 1.2698020935058594,
-        "nerDuration": 0.33829617500305176,
         "anforandeNummer": 144,
-        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+        "mediaIndex": 144,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid",
+        "proceedingIndex": 144,
+        "alignDuration": 1.1859681606292725,
+        "nerDuration": 0.22800827026367188
       },
       "originalLanguage": "sv"
     },
@@ -32795,12 +32830,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 145,
-        "proceedingIndex": 145,
-        "alignDuration": 2.1093571186065674,
-        "nerDuration": 0.5883550643920898,
         "anforandeNummer": 145,
-        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid"
+        "mediaIndex": 145,
+        "debattTitel": "En nationell utredningsfunktion för att förebygga suicid",
+        "proceedingIndex": 145,
+        "alignDuration": 1.7966134548187256,
+        "nerDuration": 0.4086630344390869
       },
       "originalLanguage": "sv"
     }

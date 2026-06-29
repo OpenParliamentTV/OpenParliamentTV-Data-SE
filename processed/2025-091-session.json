@@ -5,14 +5,13 @@
     "dateStart": "2026-03-17T00:00:00",
     "dateEnd": "2026-03-17T23:59:59",
     "lastProcessing": "align",
-    "lastUpdate": "2026-05-01T08:15:15",
+    "lastUpdate": "2026-06-29T09:27:00",
     "processing": {
-      "parse_proceedings": "2026-05-01T08:08:14",
-      "parse_media": "2026-05-01T08:08:14",
-      "merge": "2026-05-01T08:08:14",
-      "align": "2026-05-01T08:15:15",
-      "nel": "2026-05-25T09:23:40",
-      "ner": "2026-05-25T09:29:10"
+      "parse_proceedings": "2026-06-29T09:23:50",
+      "parse_media": "2026-06-29T09:23:50",
+      "merge": "2026-06-29T09:23:55+00:00",
+      "align": "2026-06-29T09:27:00",
+      "ner": "2026-06-29T09:29:41"
     }
   },
   "data": [
@@ -480,12 +479,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 1,
-        "proceedingIndex": 1,
-        "alignDuration": 1.7267680168151855,
-        "nerDuration": 0.757559061050415,
         "anforandeNummer": 1,
-        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+        "mediaIndex": 1,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor",
+        "proceedingIndex": 1,
+        "alignDuration": 1.5733435153961182,
+        "nerDuration": 0.36486291885375977
       },
       "originalLanguage": "sv"
     },
@@ -1087,12 +1086,12 @@
                 {
                   "text": "Det måste finnas en sammanhållen strategi för betalnings- och kontanthanteringssystemen, med redundans, som vägledande perspektiv.",
                   "timeStart": "466.900",
-                  "timeEnd": "475.660",
+                  "timeEnd": "476.360",
                   "entities": []
                 },
                 {
                   "text": "Att ekonomin fungerar i kris och krig är avgörande för att samhället ska kunna fungera.",
-                  "timeStart": "475.660",
+                  "timeStart": "476.360",
                   "timeEnd": "482.060",
                   "entities": []
                 },
@@ -1327,12 +1326,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 2,
-        "proceedingIndex": 2,
-        "alignDuration": 2.661113977432251,
-        "nerDuration": 1.1859588623046875,
         "anforandeNummer": 2,
-        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+        "mediaIndex": 2,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor",
+        "proceedingIndex": 2,
+        "alignDuration": 2.4510834217071533,
+        "nerDuration": 0.6607520580291748
       },
       "originalLanguage": "sv"
     },
@@ -1525,12 +1524,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 3,
-        "proceedingIndex": 3,
-        "alignDuration": 0.5053861141204834,
-        "nerDuration": 0.12805819511413574,
         "anforandeNummer": 3,
-        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+        "mediaIndex": 3,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor",
+        "proceedingIndex": 3,
+        "alignDuration": 0.549525260925293,
+        "nerDuration": 0.08218002319335938
       },
       "originalLanguage": "sv"
     },
@@ -1773,12 +1772,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 4,
-        "proceedingIndex": 4,
-        "alignDuration": 0.6280770301818848,
-        "nerDuration": 0.19880294799804688,
         "anforandeNummer": 4,
-        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+        "mediaIndex": 4,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor",
+        "proceedingIndex": 4,
+        "alignDuration": 0.7420792579650879,
+        "nerDuration": 0.13460445404052734
       },
       "originalLanguage": "sv"
     },
@@ -1917,12 +1916,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 5,
-        "proceedingIndex": 5,
-        "alignDuration": 0.3777620792388916,
-        "nerDuration": 0.06305789947509766,
         "anforandeNummer": 5,
-        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+        "mediaIndex": 5,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor",
+        "proceedingIndex": 5,
+        "alignDuration": 0.444263219833374,
+        "nerDuration": 0.04326152801513672
       },
       "originalLanguage": "sv"
     },
@@ -2184,12 +2183,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 6,
-        "proceedingIndex": 6,
-        "alignDuration": 0.630983829498291,
-        "nerDuration": 0.24497103691101074,
         "anforandeNummer": 6,
-        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+        "mediaIndex": 6,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor",
+        "proceedingIndex": 6,
+        "alignDuration": 0.6610376834869385,
+        "nerDuration": 0.15687918663024902
       },
       "originalLanguage": "sv"
     },
@@ -2584,12 +2583,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 7,
-        "proceedingIndex": 7,
-        "alignDuration": 1.317307949066162,
-        "nerDuration": 0.4163818359375,
         "anforandeNummer": 7,
-        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+        "mediaIndex": 7,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor",
+        "proceedingIndex": 7,
+        "alignDuration": 1.2299368381500244,
+        "nerDuration": 0.260638952255249
       },
       "originalLanguage": "sv"
     },
@@ -2911,12 +2910,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 8,
-        "proceedingIndex": 8,
-        "alignDuration": 0.7817769050598145,
-        "nerDuration": 0.33639097213745117,
         "anforandeNummer": 8,
-        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+        "mediaIndex": 8,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor",
+        "proceedingIndex": 8,
+        "alignDuration": 0.802588701248169,
+        "nerDuration": 0.1867389678955078
       },
       "originalLanguage": "sv"
     },
@@ -3217,12 +3216,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 9,
-        "proceedingIndex": 9,
-        "alignDuration": 1.0237879753112793,
-        "nerDuration": 0.3025522232055664,
         "anforandeNummer": 9,
-        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor"
+        "mediaIndex": 9,
+        "debattTitel": "Finansiell stabilitet och finansmarknadsfrågor",
+        "proceedingIndex": 9,
+        "alignDuration": 1.0508358478546143,
+        "nerDuration": 0.2465660572052002
       },
       "originalLanguage": "sv"
     },
@@ -3997,12 +3996,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 10,
-        "proceedingIndex": 10,
-        "alignDuration": 2.1036529541015625,
-        "nerDuration": 1.1059560775756836,
         "anforandeNummer": 10,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 10,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 10,
+        "alignDuration": 1.9886741638183594,
+        "nerDuration": 0.6333520412445068
       },
       "originalLanguage": "sv"
     },
@@ -4668,12 +4667,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 11,
-        "proceedingIndex": 11,
-        "alignDuration": 2.1340858936309814,
-        "nerDuration": 0.8134782314300537,
         "anforandeNummer": 11,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 11,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 11,
+        "alignDuration": 1.9823052883148193,
+        "nerDuration": 0.4906301498413086
       },
       "originalLanguage": "sv"
     },
@@ -5290,12 +5289,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 12,
-        "proceedingIndex": 12,
-        "alignDuration": 1.8530690670013428,
-        "nerDuration": 0.7419040203094482,
         "anforandeNummer": 12,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 12,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 12,
+        "alignDuration": 1.7062609195709229,
+        "nerDuration": 0.44102048873901367
       },
       "originalLanguage": "sv"
     },
@@ -5552,12 +5551,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 13,
-        "proceedingIndex": 13,
-        "alignDuration": 0.6537320613861084,
-        "nerDuration": 0.20715904235839844,
         "anforandeNummer": 13,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 13,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 13,
+        "alignDuration": 0.6764147281646729,
+        "nerDuration": 0.11491060256958008
       },
       "originalLanguage": "sv"
     },
@@ -5817,12 +5816,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 14,
-        "proceedingIndex": 14,
-        "alignDuration": 0.6838903427124023,
-        "nerDuration": 0.3602619171142578,
         "anforandeNummer": 14,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 14,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 14,
+        "alignDuration": 0.687647819519043,
+        "nerDuration": 0.1262061595916748
       },
       "originalLanguage": "sv"
     },
@@ -6095,12 +6094,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 15,
-        "proceedingIndex": 15,
-        "alignDuration": 0.6218760013580322,
-        "nerDuration": 0.2065432071685791,
         "anforandeNummer": 15,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 15,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 15,
+        "alignDuration": 0.669215202331543,
+        "nerDuration": 0.15795397758483887
       },
       "originalLanguage": "sv"
     },
@@ -6381,12 +6380,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 16,
-        "proceedingIndex": 16,
-        "alignDuration": 0.6951308250427246,
-        "nerDuration": 0.23394417762756348,
         "anforandeNummer": 16,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 16,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 16,
+        "alignDuration": 0.6775078773498535,
+        "nerDuration": 0.14375758171081543
       },
       "originalLanguage": "sv"
     },
@@ -6487,13 +6486,13 @@
         }
       ],
       "debug": {
-        "mediaIndex": 17,
-        "proceedingIndex": 17,
-        "nerDuration": 0.03259396553039551,
-        "alignError": "audio too long (4775s > 2400s)",
-        "alignSkip": "zero-duration-from-source",
         "anforandeNummer": 17,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 17,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 17,
+        "alignSkip": "zero-duration-from-source",
+        "alignError": "audio too long (4775s > 2400s)",
+        "nerDuration": 0.020328283309936523
       },
       "originalLanguage": "sv"
     },
@@ -7125,12 +7124,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 18,
-        "proceedingIndex": 18,
-        "alignDuration": 2.1543779373168945,
-        "nerDuration": 0.929905891418457,
         "anforandeNummer": 18,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 18,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 18,
+        "alignDuration": 1.9025020599365234,
+        "nerDuration": 0.43976664543151855
       },
       "originalLanguage": "sv"
     },
@@ -7485,12 +7484,12 @@
                 {
                   "text": "Det investeras också i både forskning och infrastruktur.",
                   "timeStart": "307.720",
-                  "timeEnd": "311.400",
+                  "timeEnd": "311.280",
                   "entities": []
                 },
                 {
                   "text": "Får man inte fart på tillväxten kommer det nämligen i slutändan att drabba välfärden – var så säker!",
-                  "timeStart": "311.400",
+                  "timeStart": "311.280",
                   "timeEnd": "318.420",
                   "entities": []
                 },
@@ -7647,12 +7646,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 19,
-        "proceedingIndex": 19,
-        "alignDuration": 1.9099810123443604,
-        "nerDuration": 0.6479201316833496,
         "anforandeNummer": 19,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 19,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 19,
+        "alignDuration": 1.6380136013031006,
+        "nerDuration": 0.36016201972961426
       },
       "originalLanguage": "sv"
     },
@@ -7791,12 +7790,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 20,
-        "proceedingIndex": 20,
-        "alignDuration": 0.43386387825012207,
-        "nerDuration": 0.08963584899902344,
         "anforandeNummer": 20,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 20,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 20,
+        "alignDuration": 0.46654820442199707,
+        "nerDuration": 0.038298845291137695
       },
       "originalLanguage": "sv"
     },
@@ -7928,8 +7927,14 @@
                   "entities": []
                 },
                 {
-                  "text": "Ja, det är riktigt att en tvåbarnsfamilj får ungefär 5 050 kronor mer i månaden jämfört med innan den här regeringen tillträdde, men just det faktum att hushållen får förbättrad köpkraft är oerhört centralt för att få fram fler företag – och dessutom företag som mår bra och som vågar anställa.",
+                  "text": "Ja, det är riktigt att en tvåbarnsfamilj får ungefär 5 050 kronor mer i månaden jämfört med innan den här regeringen tillträdde, men just det faktum att hushållen får förbättrad köpkraft är oerhört centralt för att få fram fler företag",
                   "timeStart": "46.320",
+                  "timeEnd": "61.720",
+                  "entities": []
+                },
+                {
+                  "text": "och dessutom företag som mår bra och som vågar anställa.",
+                  "timeStart": "61.720",
                   "timeEnd": "63.960",
                   "entities": []
                 },
@@ -7955,18 +7960,18 @@
                 {
                   "text": "Det gäller kvittokravet och andra saker.",
                   "timeStart": "77.240",
-                  "timeEnd": "79.520",
+                  "timeEnd": "79.880",
                   "entities": []
                 },
                 {
                   "text": "Det är en kostnad som företagen har haft, och den här regeringen ser över regelförenklingar på ett sätt som ingen annan regering någonsin har gjort.",
-                  "timeStart": "79.520",
-                  "timeEnd": "88.400",
+                  "timeStart": "79.880",
+                  "timeEnd": "88.080",
                   "entities": []
                 },
                 {
                   "text": "Vi har också ett implementeringsråd som jobbar med detta med gold-plating, som det kallas, nämligen att man krånglar till saker och ting så till den milda grad att vi överimplementerar EU-regler i Sverige.",
-                  "timeStart": "88.400",
+                  "timeStart": "88.080",
                   "timeEnd": "99.800",
                   "entities": [
                     {
@@ -8021,12 +8026,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 21,
-        "proceedingIndex": 21,
-        "alignDuration": 0.7554440498352051,
-        "nerDuration": 0.2445518970489502,
         "anforandeNummer": 21,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 21,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 21,
+        "alignDuration": 0.703815221786499,
+        "nerDuration": 0.12603521347045898
       },
       "originalLanguage": "sv"
     },
@@ -8209,12 +8214,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 22,
-        "proceedingIndex": 22,
-        "alignDuration": 0.4926600456237793,
-        "nerDuration": 0.10357403755187988,
         "anforandeNummer": 22,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 22,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 22,
+        "alignDuration": 0.5104892253875732,
+        "nerDuration": 0.07478857040405273
       },
       "originalLanguage": "sv"
     },
@@ -8460,12 +8465,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 23,
-        "proceedingIndex": 23,
-        "alignDuration": 0.6974997520446777,
-        "nerDuration": 0.18718695640563965,
         "anforandeNummer": 23,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 23,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 23,
+        "alignDuration": 0.6781165599822998,
+        "nerDuration": 0.14004302024841309
       },
       "originalLanguage": "sv"
     },
@@ -8967,12 +8972,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 24,
-        "proceedingIndex": 24,
-        "alignDuration": 1.9580740928649902,
-        "nerDuration": 0.6099729537963867,
         "anforandeNummer": 24,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 24,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 24,
+        "alignDuration": 1.7571313381195068,
+        "nerDuration": 0.34343552589416504
       },
       "originalLanguage": "sv"
     },
@@ -9523,12 +9528,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 25,
-        "proceedingIndex": 25,
-        "alignDuration": 1.7191569805145264,
-        "nerDuration": 0.6041102409362793,
         "anforandeNummer": 25,
-        "debattTitel": "Kommunala frågor"
+        "mediaIndex": 25,
+        "debattTitel": "Kommunala frågor",
+        "proceedingIndex": 25,
+        "alignDuration": 1.5502643585205078,
+        "nerDuration": 0.38779425621032715
       },
       "originalLanguage": "sv"
     },
@@ -10165,12 +10170,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 26,
-        "proceedingIndex": 26,
-        "alignDuration": 2.3450281620025635,
-        "nerDuration": 0.8053019046783447,
         "anforandeNummer": 26,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 26,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 26,
+        "alignDuration": 2.064833402633667,
+        "nerDuration": 0.4347035884857178
       },
       "originalLanguage": "sv"
     },
@@ -10404,12 +10409,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 27,
-        "proceedingIndex": 27,
-        "alignDuration": 0.6047191619873047,
-        "nerDuration": 0.17937278747558594,
         "anforandeNummer": 27,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 27,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 27,
+        "alignDuration": 0.6298627853393555,
+        "nerDuration": 0.10932779312133789
       },
       "originalLanguage": "sv"
     },
@@ -10647,12 +10652,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 28,
-        "proceedingIndex": 28,
-        "alignDuration": 0.6527740955352783,
-        "nerDuration": 0.17685914039611816,
         "anforandeNummer": 28,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 28,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 28,
+        "alignDuration": 0.6527187824249268,
+        "nerDuration": 0.10359311103820801
       },
       "originalLanguage": "sv"
     },
@@ -10915,12 +10920,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 29,
-        "proceedingIndex": 29,
-        "alignDuration": 0.6662042140960693,
-        "nerDuration": 0.23809313774108887,
         "anforandeNummer": 29,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 29,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 29,
+        "alignDuration": 0.6765525341033936,
+        "nerDuration": 0.1265556812286377
       },
       "originalLanguage": "sv"
     },
@@ -11166,12 +11171,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 30,
-        "proceedingIndex": 30,
-        "alignDuration": 0.6228542327880859,
-        "nerDuration": 0.18741202354431152,
         "anforandeNummer": 30,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 30,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 30,
+        "alignDuration": 0.6498422622680664,
+        "nerDuration": 0.10885930061340332
       },
       "originalLanguage": "sv"
     },
@@ -11377,12 +11382,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 31,
-        "proceedingIndex": 31,
-        "alignDuration": 0.6182289123535156,
-        "nerDuration": 0.15756869316101074,
         "anforandeNummer": 31,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 31,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 31,
+        "alignDuration": 0.6286513805389404,
+        "nerDuration": 0.09390068054199219
       },
       "originalLanguage": "sv"
     },
@@ -11471,13 +11476,13 @@
         }
       ],
       "debug": {
-        "mediaIndex": 32,
-        "proceedingIndex": 32,
-        "nerDuration": 0.009589910507202148,
-        "alignError": "audio too long (6771s > 2400s)",
-        "alignSkip": "zero-duration-from-source",
         "anforandeNummer": 32,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 32,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 32,
+        "alignSkip": "zero-duration-from-source",
+        "alignError": "audio too long (6771s > 2400s)",
+        "nerDuration": 0.006354570388793945
       },
       "originalLanguage": "sv"
     },
@@ -11671,12 +11676,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 33,
-        "proceedingIndex": 33,
-        "alignDuration": 0.6828718185424805,
-        "nerDuration": 0.1423492431640625,
         "anforandeNummer": 33,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 33,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 33,
+        "alignDuration": 0.5752198696136475,
+        "nerDuration": 0.08913064002990723
       },
       "originalLanguage": "sv"
     },
@@ -11869,12 +11874,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 34,
-        "proceedingIndex": 34,
-        "alignDuration": 0.5720160007476807,
-        "nerDuration": 0.14692401885986328,
         "anforandeNummer": 34,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 34,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 34,
+        "alignDuration": 0.5785846710205078,
+        "nerDuration": 0.08955264091491699
       },
       "originalLanguage": "sv"
     },
@@ -12087,12 +12092,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 35,
-        "proceedingIndex": 35,
-        "alignDuration": 0.5504269599914551,
-        "nerDuration": 0.1473400592803955,
         "anforandeNummer": 35,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 35,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 35,
+        "alignDuration": 0.5771646499633789,
+        "nerDuration": 0.08996391296386719
       },
       "originalLanguage": "sv"
     },
@@ -12326,12 +12331,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 36,
-        "proceedingIndex": 36,
-        "alignDuration": 0.6090900897979736,
-        "nerDuration": 0.157271146774292,
         "anforandeNummer": 36,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 36,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 36,
+        "alignDuration": 0.6116228103637695,
+        "nerDuration": 0.09298539161682129
       },
       "originalLanguage": "sv"
     },
@@ -12563,12 +12568,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 37,
-        "proceedingIndex": 37,
-        "alignDuration": 0.6274058818817139,
-        "nerDuration": 0.1942751407623291,
         "anforandeNummer": 37,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 37,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 37,
+        "alignDuration": 0.6398308277130127,
+        "nerDuration": 0.10077118873596191
       },
       "originalLanguage": "sv"
     },
@@ -12785,12 +12790,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 38,
-        "proceedingIndex": 38,
-        "alignDuration": 0.6432662010192871,
-        "nerDuration": 0.17410993576049805,
         "anforandeNummer": 38,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 38,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 38,
+        "alignDuration": 0.6386864185333252,
+        "nerDuration": 0.0969538688659668
       },
       "originalLanguage": "sv"
     },
@@ -12996,12 +13001,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 39,
-        "proceedingIndex": 39,
-        "alignDuration": 0.5971689224243164,
-        "nerDuration": 0.14947724342346191,
         "anforandeNummer": 39,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 39,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 39,
+        "alignDuration": 0.6347036361694336,
+        "nerDuration": 0.09057044982910156
       },
       "originalLanguage": "sv"
     },
@@ -13246,12 +13251,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 40,
-        "proceedingIndex": 40,
-        "alignDuration": 0.6276071071624756,
-        "nerDuration": 0.2024531364440918,
         "anforandeNummer": 40,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 40,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 40,
+        "alignDuration": 0.645662784576416,
+        "nerDuration": 0.10166311264038086
       },
       "originalLanguage": "sv"
     },
@@ -13519,12 +13524,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 41,
-        "proceedingIndex": 41,
-        "alignDuration": 0.625805139541626,
-        "nerDuration": 0.21665692329406738,
         "anforandeNummer": 41,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 41,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 41,
+        "alignDuration": 0.6321635246276855,
+        "nerDuration": 0.14160728454589844
       },
       "originalLanguage": "sv"
     },
@@ -13688,12 +13693,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 42,
-        "proceedingIndex": 42,
-        "alignDuration": 0.4897608757019043,
-        "nerDuration": 0.09274029731750488,
         "anforandeNummer": 42,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 42,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 42,
+        "alignDuration": 0.5287375450134277,
+        "nerDuration": 0.05991649627685547
       },
       "originalLanguage": "sv"
     },
@@ -13899,12 +13904,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 43,
-        "proceedingIndex": 43,
-        "alignDuration": 0.6379787921905518,
-        "nerDuration": 0.1776130199432373,
         "anforandeNummer": 43,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 43,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 43,
+        "alignDuration": 0.65915846824646,
+        "nerDuration": 0.11127471923828125
       },
       "originalLanguage": "sv"
     },
@@ -14592,12 +14597,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 44,
-        "proceedingIndex": 44,
-        "alignDuration": 2.0928640365600586,
-        "nerDuration": 0.742650032043457,
         "anforandeNummer": 44,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 44,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 44,
+        "alignDuration": 1.797590732574463,
+        "nerDuration": 0.5629410743713379
       },
       "originalLanguage": "sv"
     },
@@ -14784,12 +14789,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 45,
-        "proceedingIndex": 45,
-        "alignDuration": 0.6273977756500244,
-        "nerDuration": 0.14629387855529785,
         "anforandeNummer": 45,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 45,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 45,
+        "alignDuration": 0.600034236907959,
+        "nerDuration": 0.08259391784667969
       },
       "originalLanguage": "sv"
     },
@@ -15044,12 +15049,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 46,
-        "proceedingIndex": 46,
-        "alignDuration": 0.6142299175262451,
-        "nerDuration": 0.17605996131896973,
         "anforandeNummer": 46,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 46,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 46,
+        "alignDuration": 0.6133201122283936,
+        "nerDuration": 0.1139979362487793
       },
       "originalLanguage": "sv"
     },
@@ -15266,12 +15271,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 47,
-        "proceedingIndex": 47,
-        "alignDuration": 0.6609420776367188,
-        "nerDuration": 0.15629792213439941,
         "anforandeNummer": 47,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 47,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 47,
+        "alignDuration": 0.6740038394927979,
+        "nerDuration": 0.10684657096862793
       },
       "originalLanguage": "sv"
     },
@@ -15555,12 +15560,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 48,
-        "proceedingIndex": 48,
-        "alignDuration": 0.6597959995269775,
-        "nerDuration": 0.20390796661376953,
         "anforandeNummer": 48,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 48,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 48,
+        "alignDuration": 0.6365222930908203,
+        "nerDuration": 0.13123178482055664
       },
       "originalLanguage": "sv"
     },
@@ -15759,12 +15764,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 49,
-        "proceedingIndex": 49,
-        "alignDuration": 0.47030019760131836,
-        "nerDuration": 0.13366222381591797,
         "anforandeNummer": 49,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 49,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 49,
+        "alignDuration": 0.5034084320068359,
+        "nerDuration": 0.07676124572753906
       },
       "originalLanguage": "sv"
     },
@@ -16054,12 +16059,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 50,
-        "proceedingIndex": 50,
-        "alignDuration": 0.6686108112335205,
-        "nerDuration": 0.2691841125488281,
         "anforandeNummer": 50,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 50,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 50,
+        "alignDuration": 0.6633803844451904,
+        "nerDuration": 0.1561598777770996
       },
       "originalLanguage": "sv"
     },
@@ -16248,12 +16253,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 51,
-        "proceedingIndex": 51,
-        "alignDuration": 0.4760158061981201,
-        "nerDuration": 0.09540486335754395,
         "anforandeNummer": 51,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 51,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 51,
+        "alignDuration": 0.4776434898376465,
+        "nerDuration": 0.06266546249389648
       },
       "originalLanguage": "sv"
     },
@@ -16529,12 +16534,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 52,
-        "proceedingIndex": 52,
-        "alignDuration": 0.7457499504089355,
-        "nerDuration": 0.20643925666809082,
         "anforandeNummer": 52,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 52,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 52,
+        "alignDuration": 0.6795022487640381,
+        "nerDuration": 0.12809967994689941
       },
       "originalLanguage": "sv"
     },
@@ -17475,12 +17480,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 53,
-        "proceedingIndex": 53,
-        "alignDuration": 2.025291919708252,
-        "nerDuration": 1.0863091945648193,
         "anforandeNummer": 53,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 53,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 53,
+        "alignDuration": 1.6974139213562012,
+        "nerDuration": 0.55228590965271
       },
       "originalLanguage": "sv"
     },
@@ -17738,12 +17743,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 54,
-        "proceedingIndex": 54,
-        "alignDuration": 0.6401951313018799,
-        "nerDuration": 0.20046496391296387,
         "anforandeNummer": 54,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 54,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 54,
+        "alignDuration": 0.6212813854217529,
+        "nerDuration": 0.11452555656433105
       },
       "originalLanguage": "sv"
     },
@@ -17985,12 +17990,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 55,
-        "proceedingIndex": 55,
-        "alignDuration": 0.5466179847717285,
-        "nerDuration": 0.18358516693115234,
         "anforandeNummer": 55,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 55,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 55,
+        "alignDuration": 0.5415692329406738,
+        "nerDuration": 0.11304879188537598
       },
       "originalLanguage": "sv"
     },
@@ -18276,12 +18281,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 56,
-        "proceedingIndex": 56,
-        "alignDuration": 0.6439359188079834,
-        "nerDuration": 0.22553396224975586,
         "anforandeNummer": 56,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 56,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 56,
+        "alignDuration": 0.6329751014709473,
+        "nerDuration": 0.15619540214538574
       },
       "originalLanguage": "sv"
     },
@@ -18480,12 +18485,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 57,
-        "proceedingIndex": 57,
-        "alignDuration": 0.5431859493255615,
-        "nerDuration": 0.14490008354187012,
         "anforandeNummer": 57,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 57,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 57,
+        "alignDuration": 0.5399560928344727,
+        "nerDuration": 0.08246111869812012
       },
       "originalLanguage": "sv"
     },
@@ -18997,12 +19002,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 58,
-        "proceedingIndex": 58,
-        "alignDuration": 2.0318362712860107,
-        "nerDuration": 0.6297729015350342,
         "anforandeNummer": 58,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 58,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 58,
+        "alignDuration": 1.672485589981079,
+        "nerDuration": 0.3443641662597656
       },
       "originalLanguage": "sv"
     },
@@ -19129,9 +19134,9 @@
                   "entities": []
                 },
                 {
-                  "text": "Den här regeringen har påbörjat ett stort reformarbete eftersom Sverige behöver fortsatt ökad tillväxt – inte för statistikens skull, fru talman, utan för jobben, för att kunna finansiera sjukvård, skola och äldreomsorg, för att familjer ska kunna leva trygga liv och för att vårt land ska vara starkt i en allt osäkrare värld.",
+                  "text": "Den här regeringen har påbörjat ett stort reformarbete eftersom Sverige behöver fortsatt ökad tillväxt",
                   "timeStart": "50.840",
-                  "timeEnd": "73.500",
+                  "timeEnd": "58.040",
                   "entities": [
                     {
                       "label": "Sverige",
@@ -19140,6 +19145,12 @@
                       "score": 0.3659
                     }
                   ]
+                },
+                {
+                  "text": "inte för statistikens skull, fru talman, utan för jobben, för att kunna finansiera sjukvård, skola och äldreomsorg, för att familjer ska kunna leva trygga liv och för att vårt land ska vara starkt i en allt osäkrare värld.",
+                  "timeStart": "58.040",
+                  "timeEnd": "73.500",
+                  "entities": []
                 },
                 {
                   "text": "Fru talman!",
@@ -19168,12 +19179,12 @@
                 {
                   "text": "Vi driver ett brett arbete för regelförenkling.",
                   "timeStart": "100.220",
-                  "timeEnd": "104.240",
+                  "timeEnd": "104.280",
                   "entities": []
                 },
                 {
                   "text": "Regelkrånglet kostar våra svenska företag 400 miljarder kronor.",
-                  "timeStart": "104.240",
+                  "timeStart": "104.280",
                   "timeEnd": "110.680",
                   "entities": []
                 },
@@ -19204,12 +19215,12 @@
                 {
                   "text": "Det tog mindre än ett år till beslutet att ta bort matkravet, vilket besparar företagen kostnader på hela 4 miljarder kronor.",
                   "timeStart": "131.280",
-                  "timeEnd": "141.040",
+                  "timeEnd": "140.680",
                   "entities": []
                 },
                 {
                   "text": "Samtidigt finns nu fler e-tjänster, mer standardiserade processer och digitala fullmakter som underlättar företagens vardag och frigör resurser till kärnverksamhet, innovation och tillväxt.",
-                  "timeStart": "141.040",
+                  "timeStart": "140.680",
                   "timeEnd": "154.060",
                   "entities": []
                 },
@@ -19234,12 +19245,12 @@
                 {
                   "text": "För många småföretag är steget från att arbeta ensam till att anställa sin första medarbetare mycket stort.",
                   "timeStart": "163.800",
-                  "timeEnd": "171.560",
+                  "timeEnd": "171.280",
                   "entities": []
                 },
                 {
                   "text": "Därför har vi under den här mandatperioden sänkt arbetsgivaravgifterna för anställning av unga samt genom stärkt växa-stöd, vilket ger möjlighet för unga att komma in på arbetsmarknaden.",
-                  "timeStart": "171.560",
+                  "timeStart": "171.280",
                   "timeEnd": "183.920",
                   "entities": []
                 },
@@ -19368,18 +19379,18 @@
                 {
                   "text": "Politiker som jag men även många företagsledare har ansvar för att berätta om den potential som finns i vårt vackra land och den tillväxtmotor och de tillväxtproducerande delar som finns, inte minst i våra norra regioner.",
                   "timeStart": "289.880",
-                  "timeEnd": "306.360",
+                  "timeEnd": "306.200",
                   "entities": []
                 },
                 {
                   "text": "Vi behöver marknadsföra och berätta om det.",
-                  "timeStart": "306.360",
-                  "timeEnd": "311.400",
+                  "timeStart": "306.200",
+                  "timeEnd": "311.440",
                   "entities": []
                 },
                 {
                   "text": "Besöksnäringen är därför viktig för Sverige.",
-                  "timeStart": "311.400",
+                  "timeStart": "311.440",
                   "timeEnd": "314.240",
                   "entities": [
                     {
@@ -19492,12 +19503,12 @@
                 {
                   "text": "Vi kristdemokrater vill gå längre och sänka arbetsgivaravgifterna för anställda redan från 16 års ålder.",
                   "timeStart": "397.800",
-                  "timeEnd": "404.640",
+                  "timeEnd": "405.520",
                   "entities": []
                 },
                 {
                   "text": "Det är viktigt för att unga tidigt ska få möjlighet att komma in på arbetsmarknaden och få erfarenhet och möjlighet att växa in i vuxenvärlden med ansvar och intresse för en framtid med utbildning och nya jobb.",
-                  "timeStart": "404.640",
+                  "timeStart": "405.520",
                   "timeEnd": "418.780",
                   "entities": []
                 },
@@ -19522,12 +19533,12 @@
                 {
                   "text": "Där finns stor potential att rusta våra unga och öka deras möjligheter att starta företag.",
                   "timeStart": "422.520",
-                  "timeEnd": "428.440",
+                  "timeEnd": "427.680",
                   "entities": []
                 },
                 {
                   "text": "Vi kristdemokrater driver också frågan om vikten av att alla gymnasieskolor i Sverige ska vara skyldiga att erbjuda Ung Företagsamhet.",
-                  "timeStart": "428.440",
+                  "timeStart": "427.680",
                   "timeEnd": "438.640",
                   "entities": [
                     {
@@ -19560,24 +19571,24 @@
                 {
                   "text": "Vi ska också vara internationellt attraktiva för investeringar i forskning och utveckling.",
                   "timeStart": "457.480",
-                  "timeEnd": "464.120",
+                  "timeEnd": "463.300",
                   "entities": []
                 },
                 {
                   "text": "Fru talman!",
-                  "timeStart": "464.120",
+                  "timeStart": "463.300",
                   "timeEnd": "464.760",
                   "entities": []
                 },
                 {
                   "text": "För att innovativa företag ska kunna växa behövs en politik som ser till att det finns test- och demonstrationsanläggningar.",
                   "timeStart": "464.760",
-                  "timeEnd": "471.280",
+                  "timeEnd": "471.240",
                   "entities": []
                 },
                 {
                   "text": "De bidrar till att förkorta tiden från forskning till nyttiggörande.",
-                  "timeStart": "471.280",
+                  "timeStart": "471.240",
                   "timeEnd": "474.960",
                   "entities": []
                 },
@@ -19615,7 +19626,7 @@
                 {
                   "text": "Regeringen stärker svensk export genom Business Sweden, Exportkreditnämnden och riktade stödinsatser samt genom att driva handelsfrågor på EU-nivå.",
                   "timeStart": "508.280",
-                  "timeEnd": "517.440",
+                  "timeEnd": "517.040",
                   "entities": [
                     {
                       "label": "Business Sweden",
@@ -19633,7 +19644,7 @@
                 },
                 {
                   "text": "Genom Business Sweden underlättar man för företag att etablera sig internationellt och navigera i regelverk och hitta affärspartner.",
-                  "timeStart": "517.440",
+                  "timeStart": "517.040",
                   "timeEnd": "524.680",
                   "entities": [
                     {
@@ -19665,12 +19676,12 @@
                 {
                   "text": "Kristdemokraterna ser företagande som en del av det sociala kontraktet i samhället.",
                   "timeStart": "539.320",
-                  "timeEnd": "545.800",
+                  "timeEnd": "545.160",
                   "entities": []
                 },
                 {
                   "text": "Företag skapar arbetstillfällen, arbetstillfällen skapar skatteintäkter och skatteintäkter finansierar vår gemensamma välfärd.",
-                  "timeStart": "545.800",
+                  "timeStart": "545.160",
                   "timeEnd": "553.640",
                   "entities": []
                 },
@@ -19683,30 +19694,30 @@
                 {
                   "text": "När företag anställer kan skolan utvecklas.",
                   "timeStart": "556.040",
-                  "timeEnd": "559.720",
+                  "timeEnd": "559.640",
                   "entities": []
                 },
                 {
                   "text": "När företag investerar kan hela landet leva.",
-                  "timeStart": "559.720",
+                  "timeStart": "559.640",
                   "timeEnd": "563.000",
                   "entities": []
                 },
                 {
                   "text": "Det är därför en stark ekonomi och en stark välfärd alltid hör ihop.",
                   "timeStart": "563.000",
-                  "timeEnd": "566.760",
+                  "timeEnd": "567.640",
                   "entities": []
                 },
                 {
                   "text": "Fru talman!",
-                  "timeStart": "566.760",
-                  "timeEnd": "567.120",
+                  "timeStart": "567.640",
+                  "timeEnd": "567.800",
                   "entities": []
                 },
                 {
                   "text": "Jag vill återigen yrka bifall till utskottets förslag i betänkandet och avslag på samtliga motioner.",
-                  "timeStart": "567.120",
+                  "timeStart": "567.800",
                   "timeEnd": "575.000",
                   "entities": []
                 }
@@ -19730,12 +19741,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 59,
-        "proceedingIndex": 59,
-        "alignDuration": 2.223629951477051,
-        "nerDuration": 0.8809871673583984,
         "anforandeNummer": 59,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 59,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 59,
+        "alignDuration": 1.9402244091033936,
+        "nerDuration": 0.5772852897644043
       },
       "originalLanguage": "sv"
     },
@@ -20328,12 +20339,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 60,
-        "proceedingIndex": 60,
-        "alignDuration": 1.9005911350250244,
-        "nerDuration": 0.6551051139831543,
         "anforandeNummer": 60,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 60,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 60,
+        "alignDuration": 1.6527531147003174,
+        "nerDuration": 0.40442371368408203
       },
       "originalLanguage": "sv"
     },
@@ -20454,12 +20465,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 61,
-        "proceedingIndex": 61,
-        "alignDuration": 0.3232855796813965,
-        "nerDuration": 0.03730010986328125,
         "anforandeNummer": 61,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 61,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 61,
+        "alignDuration": 0.394956111907959,
+        "nerDuration": 0.023597002029418945
       },
       "originalLanguage": "sv"
     },
@@ -20689,12 +20700,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 62,
-        "proceedingIndex": 62,
-        "alignDuration": 0.7653713226318359,
-        "nerDuration": 0.21953487396240234,
         "anforandeNummer": 62,
-        "debattTitel": "Näringspolitik"
+        "mediaIndex": 62,
+        "debattTitel": "Näringspolitik",
+        "proceedingIndex": 62,
+        "alignDuration": 0.74786376953125,
+        "nerDuration": 0.12765169143676758
       },
       "originalLanguage": "sv"
     },
@@ -21294,12 +21305,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 63,
-        "proceedingIndex": 63,
-        "alignDuration": 2.2980058193206787,
-        "nerDuration": 0.7826941013336182,
         "anforandeNummer": 63,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 63,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 63,
+        "alignDuration": 1.9569635391235352,
+        "nerDuration": 0.4358205795288086
       },
       "originalLanguage": "sv"
     },
@@ -21494,12 +21505,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 64,
-        "proceedingIndex": 64,
-        "alignDuration": 0.6566948890686035,
-        "nerDuration": 0.14328789710998535,
         "anforandeNummer": 64,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 64,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 64,
+        "alignDuration": 0.6254312992095947,
+        "nerDuration": 0.07645750045776367
       },
       "originalLanguage": "sv"
     },
@@ -21698,12 +21709,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 65,
-        "proceedingIndex": 65,
-        "alignDuration": 0.6516001224517822,
-        "nerDuration": 0.16262388229370117,
         "anforandeNummer": 65,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 65,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 65,
+        "alignDuration": 0.6598641872406006,
+        "nerDuration": 0.0917971134185791
       },
       "originalLanguage": "sv"
     },
@@ -21874,12 +21885,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 66,
-        "proceedingIndex": 66,
-        "alignDuration": 0.5599019527435303,
-        "nerDuration": 0.11119413375854492,
         "anforandeNummer": 66,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 66,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 66,
+        "alignDuration": 0.5214767456054688,
+        "nerDuration": 0.0558779239654541
       },
       "originalLanguage": "sv"
     },
@@ -21976,12 +21987,12 @@
                 {
                   "text": "Men vad ledamoten From egentligen borde ägna lite uppmärksamhet åt och fundera lite över är:",
                   "timeStart": "20.320",
-                  "timeEnd": "29.040",
+                  "timeEnd": "29.000",
                   "entities": []
                 },
                 {
                   "text": "Hur hamnade vi där?",
-                  "timeStart": "29.040",
+                  "timeStart": "29.000",
                   "timeEnd": "30.160",
                   "entities": []
                 },
@@ -22085,12 +22096,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 67,
-        "proceedingIndex": 67,
-        "alignDuration": 0.5613019466400146,
-        "nerDuration": 0.14958882331848145,
         "anforandeNummer": 67,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 67,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 67,
+        "alignDuration": 0.5542981624603271,
+        "nerDuration": 0.08840203285217285
       },
       "originalLanguage": "sv"
     },
@@ -22271,12 +22282,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 68,
-        "proceedingIndex": 68,
-        "alignDuration": 0.6785540580749512,
-        "nerDuration": 0.13579416275024414,
         "anforandeNummer": 68,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 68,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 68,
+        "alignDuration": 0.6452128887176514,
+        "nerDuration": 0.07409906387329102
       },
       "originalLanguage": "sv"
     },
@@ -22484,12 +22495,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 69,
-        "proceedingIndex": 69,
-        "alignDuration": 0.651961088180542,
-        "nerDuration": 0.15856099128723145,
         "anforandeNummer": 69,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 69,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 69,
+        "alignDuration": 0.64312744140625,
+        "nerDuration": 0.0873260498046875
       },
       "originalLanguage": "sv"
     },
@@ -22633,12 +22644,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 70,
-        "proceedingIndex": 70,
-        "alignDuration": 0.544287919998169,
-        "nerDuration": 0.11542510986328125,
         "anforandeNummer": 70,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 70,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 70,
+        "alignDuration": 0.5515525341033936,
+        "nerDuration": 0.053171634674072266
       },
       "originalLanguage": "sv"
     },
@@ -22849,12 +22860,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 71,
-        "proceedingIndex": 71,
-        "alignDuration": 0.6666321754455566,
-        "nerDuration": 0.17867708206176758,
         "anforandeNummer": 71,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 71,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 71,
+        "alignDuration": 0.6754217147827148,
+        "nerDuration": 0.11407971382141113
       },
       "originalLanguage": "sv"
     },
@@ -23396,12 +23407,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 72,
-        "proceedingIndex": 72,
-        "alignDuration": 2.012753963470459,
-        "nerDuration": 0.65323805809021,
         "anforandeNummer": 72,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 72,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 72,
+        "alignDuration": 1.797755241394043,
+        "nerDuration": 0.3445141315460205
       },
       "originalLanguage": "sv"
     },
@@ -24043,12 +24054,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 73,
-        "proceedingIndex": 73,
-        "alignDuration": 1.6311120986938477,
-        "nerDuration": 0.726661205291748,
         "anforandeNummer": 73,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 73,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 73,
+        "alignDuration": 1.4285621643066406,
+        "nerDuration": 0.3666696548461914
       },
       "originalLanguage": "sv"
     },
@@ -24220,12 +24231,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 74,
-        "proceedingIndex": 74,
-        "alignDuration": 0.5090241432189941,
-        "nerDuration": 0.09276318550109863,
         "anforandeNummer": 74,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 74,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 74,
+        "alignDuration": 0.5193455219268799,
+        "nerDuration": 0.054459571838378906
       },
       "originalLanguage": "sv"
     },
@@ -24443,12 +24454,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 75,
-        "proceedingIndex": 75,
-        "alignDuration": 0.4808380603790283,
-        "nerDuration": 0.15182995796203613,
         "anforandeNummer": 75,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 75,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 75,
+        "alignDuration": 0.5027801990509033,
+        "nerDuration": 0.08941030502319336
       },
       "originalLanguage": "sv"
     },
@@ -24582,12 +24593,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 76,
-        "proceedingIndex": 76,
-        "alignDuration": 0.4018838405609131,
-        "nerDuration": 0.04861903190612793,
         "anforandeNummer": 76,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 76,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 76,
+        "alignDuration": 0.43143534660339355,
+        "nerDuration": 0.027426958084106445
       },
       "originalLanguage": "sv"
     },
@@ -24719,12 +24730,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 77,
-        "proceedingIndex": 77,
-        "alignDuration": 0.36139893531799316,
-        "nerDuration": 0.05832505226135254,
         "anforandeNummer": 77,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 77,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 77,
+        "alignDuration": 0.40592527389526367,
+        "nerDuration": 0.038722991943359375
       },
       "originalLanguage": "sv"
     },
@@ -24884,12 +24895,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 78,
-        "proceedingIndex": 78,
-        "alignDuration": 0.4164741039276123,
-        "nerDuration": 0.06949019432067871,
         "anforandeNummer": 78,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 78,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 78,
+        "alignDuration": 0.44066548347473145,
+        "nerDuration": 0.046208858489990234
       },
       "originalLanguage": "sv"
     },
@@ -25077,12 +25088,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 79,
-        "proceedingIndex": 79,
-        "alignDuration": 0.4437069892883301,
-        "nerDuration": 0.12153983116149902,
         "anforandeNummer": 79,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 79,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 79,
+        "alignDuration": 0.4811568260192871,
+        "nerDuration": 0.08562350273132324
       },
       "originalLanguage": "sv"
     },
@@ -25254,12 +25265,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 80,
-        "proceedingIndex": 80,
-        "alignDuration": 0.449404239654541,
-        "nerDuration": 0.08649277687072754,
         "anforandeNummer": 80,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 80,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 80,
+        "alignDuration": 0.4846813678741455,
+        "nerDuration": 0.05684256553649902
       },
       "originalLanguage": "sv"
     },
@@ -25404,12 +25415,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 81,
-        "proceedingIndex": 81,
-        "alignDuration": 0.3828909397125244,
-        "nerDuration": 0.06590795516967773,
         "anforandeNummer": 81,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 81,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 81,
+        "alignDuration": 0.42441725730895996,
+        "nerDuration": 0.040416717529296875
       },
       "originalLanguage": "sv"
     },
@@ -25907,12 +25918,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 82,
-        "proceedingIndex": 82,
-        "alignDuration": 1.9617071151733398,
-        "nerDuration": 0.5779669284820557,
         "anforandeNummer": 82,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 82,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 82,
+        "alignDuration": 1.6782948970794678,
+        "nerDuration": 0.36084532737731934
       },
       "originalLanguage": "sv"
     },
@@ -26405,12 +26416,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 83,
-        "proceedingIndex": 83,
-        "alignDuration": 1.2912569046020508,
-        "nerDuration": 0.5035998821258545,
         "anforandeNummer": 83,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 83,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 83,
+        "alignDuration": 1.2047295570373535,
+        "nerDuration": 0.2929503917694092
       },
       "originalLanguage": "sv"
     },
@@ -26580,12 +26591,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 84,
-        "proceedingIndex": 84,
-        "alignDuration": 0.4882659912109375,
-        "nerDuration": 0.10173988342285156,
         "anforandeNummer": 84,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 84,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 84,
+        "alignDuration": 0.48737621307373047,
+        "nerDuration": 0.05460333824157715
       },
       "originalLanguage": "sv"
     },
@@ -26748,12 +26759,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 85,
-        "proceedingIndex": 85,
-        "alignDuration": 0.39724016189575195,
-        "nerDuration": 0.08063793182373047,
         "anforandeNummer": 85,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 85,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 85,
+        "alignDuration": 0.42449402809143066,
+        "nerDuration": 0.06745290756225586
       },
       "originalLanguage": "sv"
     },
@@ -26905,12 +26916,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 86,
-        "proceedingIndex": 86,
-        "alignDuration": 0.4386870861053467,
-        "nerDuration": 0.07007312774658203,
         "anforandeNummer": 86,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 86,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 86,
+        "alignDuration": 0.43770623207092285,
+        "nerDuration": 0.0469663143157959
       },
       "originalLanguage": "sv"
     },
@@ -27081,12 +27092,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 87,
-        "proceedingIndex": 87,
-        "alignDuration": 0.45046234130859375,
-        "nerDuration": 0.0926048755645752,
         "anforandeNummer": 87,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 87,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 87,
+        "alignDuration": 0.4845149517059326,
+        "nerDuration": 0.06285977363586426
       },
       "originalLanguage": "sv"
     },
@@ -27294,12 +27305,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 88,
-        "proceedingIndex": 88,
-        "alignDuration": 0.5332849025726318,
-        "nerDuration": 0.13115406036376953,
         "anforandeNummer": 88,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 88,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 88,
+        "alignDuration": 0.5572800636291504,
+        "nerDuration": 0.09018707275390625
       },
       "originalLanguage": "sv"
     },
@@ -27563,12 +27574,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 89,
-        "proceedingIndex": 89,
-        "alignDuration": 0.6570250988006592,
-        "nerDuration": 0.19598817825317383,
         "anforandeNummer": 89,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 89,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 89,
+        "alignDuration": 0.6255068778991699,
+        "nerDuration": 0.11974954605102539
       },
       "originalLanguage": "sv"
     },
@@ -27806,12 +27817,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 90,
-        "proceedingIndex": 90,
-        "alignDuration": 0.6524319648742676,
-        "nerDuration": 0.18895912170410156,
         "anforandeNummer": 90,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 90,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 90,
+        "alignDuration": 0.6283390522003174,
+        "nerDuration": 0.10535073280334473
       },
       "originalLanguage": "sv"
     },
@@ -28062,12 +28073,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 91,
-        "proceedingIndex": 91,
-        "alignDuration": 0.6238479614257812,
-        "nerDuration": 0.17976021766662598,
         "anforandeNummer": 91,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 91,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 91,
+        "alignDuration": 0.615936279296875,
+        "nerDuration": 0.10569214820861816
       },
       "originalLanguage": "sv"
     },
@@ -28786,12 +28797,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 92,
-        "proceedingIndex": 92,
-        "alignDuration": 1.813380241394043,
-        "nerDuration": 0.7776899337768555,
         "anforandeNummer": 92,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 92,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 92,
+        "alignDuration": 1.6095764636993408,
+        "nerDuration": 0.45427465438842773
       },
       "originalLanguage": "sv"
     },
@@ -29480,12 +29491,12 @@
                 {
                   "text": "Fru talman!",
                   "timeStart": "630.340",
-                  "timeEnd": "631.760",
+                  "timeEnd": "631.800",
                   "entities": []
                 },
                 {
                   "text": "Till sist vill jag snabbt lyfta fram att den globala efterfrågan på metaller tyvärr också har lett till ökade planer på djuphavsbrytning, där mineral som kobolt, nickel och litium finns på flera tusen meters djup.",
-                  "timeStart": "631.760",
+                  "timeStart": "631.800",
                   "timeEnd": "645.760",
                   "entities": []
                 },
@@ -29533,12 +29544,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 93,
-        "proceedingIndex": 93,
-        "alignDuration": 2.597574234008789,
-        "nerDuration": 0.9258921146392822,
         "anforandeNummer": 93,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 93,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 93,
+        "alignDuration": 2.2672762870788574,
+        "nerDuration": 0.557079553604126
       },
       "originalLanguage": "sv"
     },
@@ -29739,12 +29750,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 94,
-        "proceedingIndex": 94,
-        "alignDuration": 0.6682412624359131,
-        "nerDuration": 0.16915082931518555,
         "anforandeNummer": 94,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 94,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 94,
+        "alignDuration": 0.598250150680542,
+        "nerDuration": 0.07788968086242676
       },
       "originalLanguage": "sv"
     },
@@ -29956,12 +29967,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 95,
-        "proceedingIndex": 95,
-        "alignDuration": 0.6631402969360352,
-        "nerDuration": 0.16101789474487305,
         "anforandeNummer": 95,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 95,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 95,
+        "alignDuration": 0.6623272895812988,
+        "nerDuration": 0.0944066047668457
       },
       "originalLanguage": "sv"
     },
@@ -30187,12 +30198,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 96,
-        "proceedingIndex": 96,
-        "alignDuration": 0.695300817489624,
-        "nerDuration": 0.15668392181396484,
         "anforandeNummer": 96,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 96,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 96,
+        "alignDuration": 0.6545369625091553,
+        "nerDuration": 0.10882091522216797
       },
       "originalLanguage": "sv"
     },
@@ -30409,12 +30420,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 97,
-        "proceedingIndex": 97,
-        "alignDuration": 0.6587100028991699,
-        "nerDuration": 0.16644620895385742,
         "anforandeNummer": 97,
-        "debattTitel": "Mineralpolitik"
+        "mediaIndex": 97,
+        "debattTitel": "Mineralpolitik",
+        "proceedingIndex": 97,
+        "alignDuration": 0.6461944580078125,
+        "nerDuration": 0.1033015251159668
       },
       "originalLanguage": "sv"
     }

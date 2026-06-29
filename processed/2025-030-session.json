@@ -5,14 +5,13 @@
     "dateStart": "2025-11-11T00:00:00",
     "dateEnd": "2025-11-11T23:59:59",
     "lastProcessing": "align",
-    "lastUpdate": "2026-05-24T10:55:49",
+    "lastUpdate": "2026-06-29T09:24:31",
     "processing": {
-      "parse_proceedings": "2026-05-24T10:54:23",
-      "parse_media": "2026-05-24T10:54:23",
-      "merge": "2026-05-24T10:54:30",
-      "align": "2026-05-24T10:55:49",
-      "nel": "2026-05-25T09:23:40",
-      "ner": "2026-05-25T09:28:41"
+      "parse_proceedings": "2026-06-29T09:23:46",
+      "parse_media": "2026-06-29T09:23:46",
+      "merge": "2026-06-29T09:23:55+00:00",
+      "align": "2026-06-29T09:24:31",
+      "ner": "2026-06-29T09:29:23"
     }
   },
   "data": [
@@ -80,8 +79,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Gymnasie-, högskole- och forskningsministern Lotta Edholm",
-              "speakerstatus": null,
+              "speaker": "Lotta Edholm",
+              "speakerstatus": "Gymnasie-, högskole- och forskningsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -268,12 +267,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 1,
-        "proceedingIndex": 1,
-        "alignDuration": 1.0599761009216309,
-        "nerDuration": 0.6315550804138184,
         "anforandeNummer": 1,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 1,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 1,
+        "alignDuration": 1.0391404628753662,
+        "nerDuration": 0.28221654891967773
       },
       "originalLanguage": "sv"
     },
@@ -548,12 +547,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 2,
-        "proceedingIndex": 2,
-        "alignDuration": 0.972430944442749,
-        "nerDuration": 0.47809815406799316,
         "anforandeNummer": 2,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 2,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 2,
+        "alignDuration": 1.045395851135254,
+        "nerDuration": 0.19860053062438965
       },
       "originalLanguage": "sv"
     },
@@ -860,12 +859,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 3,
-        "proceedingIndex": 3,
-        "alignDuration": 0.9042680263519287,
-        "nerDuration": 0.7129631042480469,
         "anforandeNummer": 3,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 3,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 3,
+        "alignDuration": 0.9315989017486572,
+        "nerDuration": 0.20007944107055664
       },
       "originalLanguage": "sv"
     },
@@ -1223,12 +1222,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 4,
-        "proceedingIndex": 4,
-        "alignDuration": 0.9626469612121582,
-        "nerDuration": 0.7868893146514893,
         "anforandeNummer": 4,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 4,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 4,
+        "alignDuration": 0.9802894592285156,
+        "nerDuration": 0.2806217670440674
       },
       "originalLanguage": "sv"
     },
@@ -1296,8 +1295,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Gymnasie-, högskole- och forskningsministern Lotta Edholm",
-              "speakerstatus": null,
+              "speaker": "Lotta Edholm",
+              "speakerstatus": "Gymnasie-, högskole- och forskningsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -1482,12 +1481,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 5,
-        "proceedingIndex": 5,
-        "alignDuration": 0.8717989921569824,
-        "nerDuration": 0.30669093132019043,
         "anforandeNummer": 5,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 5,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 5,
+        "alignDuration": 0.8732128143310547,
+        "nerDuration": 0.20497512817382812
       },
       "originalLanguage": "sv"
     },
@@ -1753,12 +1752,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 6,
-        "proceedingIndex": 6,
-        "alignDuration": 0.9850759506225586,
-        "nerDuration": 0.4737091064453125,
         "anforandeNummer": 6,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 6,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 6,
+        "alignDuration": 0.9636135101318359,
+        "nerDuration": 0.16156601905822754
       },
       "originalLanguage": "sv"
     },
@@ -1969,12 +1968,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 7,
-        "proceedingIndex": 7,
-        "alignDuration": 0.6276531219482422,
-        "nerDuration": 0.24567389488220215,
         "anforandeNummer": 7,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 7,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 7,
+        "alignDuration": 0.6252048015594482,
+        "nerDuration": 0.10679030418395996
       },
       "originalLanguage": "sv"
     },
@@ -2232,12 +2231,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 8,
-        "proceedingIndex": 8,
-        "alignDuration": 0.6305699348449707,
-        "nerDuration": 0.21300315856933594,
         "anforandeNummer": 8,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 8,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 8,
+        "alignDuration": 0.6418304443359375,
+        "nerDuration": 0.13239502906799316
       },
       "originalLanguage": "sv"
     },
@@ -2305,8 +2304,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Gymnasie-, högskole- och forskningsministern Lotta Edholm",
-              "speakerstatus": null,
+              "speaker": "Lotta Edholm",
+              "speakerstatus": "Gymnasie-, högskole- och forskningsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2476,12 +2475,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 9,
-        "proceedingIndex": 9,
-        "alignDuration": 0.7349758148193359,
-        "nerDuration": 0.2775542736053467,
         "anforandeNummer": 9,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 9,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 9,
+        "alignDuration": 0.728691577911377,
+        "nerDuration": 0.1363849639892578
       },
       "originalLanguage": "sv"
     },
@@ -2669,12 +2668,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 10,
-        "proceedingIndex": 10,
-        "alignDuration": 0.6300761699676514,
-        "nerDuration": 0.14283204078674316,
         "anforandeNummer": 10,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 10,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 10,
+        "alignDuration": 0.6452217102050781,
+        "nerDuration": 0.10382390022277832
       },
       "originalLanguage": "sv"
     },
@@ -2742,8 +2741,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Gymnasie-, högskole- och forskningsministern Lotta Edholm",
-              "speakerstatus": null,
+              "speaker": "Lotta Edholm",
+              "speakerstatus": "Gymnasie-, högskole- och forskningsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2869,12 +2868,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 11,
-        "proceedingIndex": 11,
-        "alignDuration": 0.545583963394165,
-        "nerDuration": 0.15274715423583984,
         "anforandeNummer": 11,
-        "debattTitel": "De mindre universitetens betydelse för hela landet"
+        "mediaIndex": 11,
+        "debattTitel": "De mindre universitetens betydelse för hela landet",
+        "proceedingIndex": 11,
+        "alignDuration": 0.5622541904449463,
+        "nerDuration": 0.09884500503540039
       },
       "originalLanguage": "sv"
     },
@@ -2942,8 +2941,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Utrikesministern Maria Malmer Stenergard",
-              "speakerstatus": null,
+              "speaker": "Maria Malmer Stenergard",
+              "speakerstatus": "Utrikesministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -3254,12 +3253,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 12,
-        "proceedingIndex": 12,
-        "alignDuration": 0.8686447143554688,
-        "nerDuration": 0.9732098579406738,
         "anforandeNummer": 12,
-        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+        "mediaIndex": 12,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
+        "proceedingIndex": 12,
+        "alignDuration": 0.8340351581573486,
+        "nerDuration": 0.20067405700683594
       },
       "originalLanguage": "sv"
     },
@@ -3307,8 +3306,7 @@
           "label": "Daniel Riazat",
           "context": "main-speaker",
           "faction": {
-            "label": "-",
-            "wid": ""
+            "label": "-"
           },
           "originPersonID": "07012286624",
           "wid": "Q18245374",
@@ -3574,12 +3572,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 13,
-        "proceedingIndex": 13,
-        "alignDuration": 1.0277178287506104,
-        "nerDuration": 0.6656160354614258,
         "anforandeNummer": 13,
-        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+        "mediaIndex": 13,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
+        "proceedingIndex": 13,
+        "alignDuration": 1.005946159362793,
+        "nerDuration": 0.19145560264587402
       },
       "originalLanguage": "sv"
     },
@@ -3647,8 +3645,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Utrikesministern Maria Malmer Stenergard",
-              "speakerstatus": null,
+              "speaker": "Maria Malmer Stenergard",
+              "speakerstatus": "Utrikesministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -3818,12 +3816,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 14,
-        "proceedingIndex": 14,
-        "alignDuration": 0.764915943145752,
-        "nerDuration": 0.2299818992614746,
         "anforandeNummer": 14,
-        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+        "mediaIndex": 14,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
+        "proceedingIndex": 14,
+        "alignDuration": 0.7921979427337646,
+        "nerDuration": 0.12588238716125488
       },
       "originalLanguage": "sv"
     },
@@ -3871,8 +3869,7 @@
           "label": "Daniel Riazat",
           "context": "main-speaker",
           "faction": {
-            "label": "-",
-            "wid": ""
+            "label": "-"
           },
           "originPersonID": "07012286624",
           "wid": "Q18245374",
@@ -4172,12 +4169,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 15,
-        "proceedingIndex": 15,
-        "alignDuration": 1.0106031894683838,
-        "nerDuration": 0.3547689914703369,
         "anforandeNummer": 15,
-        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+        "mediaIndex": 15,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
+        "proceedingIndex": 15,
+        "alignDuration": 1.0075533390045166,
+        "nerDuration": 0.19726014137268066
       },
       "originalLanguage": "sv"
     },
@@ -4245,8 +4242,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Utrikesministern Maria Malmer Stenergard",
-              "speakerstatus": null,
+              "speaker": "Maria Malmer Stenergard",
+              "speakerstatus": "Utrikesministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -4502,12 +4499,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 16,
-        "proceedingIndex": 16,
-        "alignDuration": 0.8220720291137695,
-        "nerDuration": 0.28284311294555664,
         "anforandeNummer": 16,
-        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+        "mediaIndex": 16,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
+        "proceedingIndex": 16,
+        "alignDuration": 0.835782527923584,
+        "nerDuration": 0.14811921119689941
       },
       "originalLanguage": "sv"
     },
@@ -4555,8 +4552,7 @@
           "label": "Daniel Riazat",
           "context": "main-speaker",
           "faction": {
-            "label": "-",
-            "wid": ""
+            "label": "-"
           },
           "originPersonID": "07012286624",
           "wid": "Q18245374",
@@ -4721,12 +4717,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 17,
-        "proceedingIndex": 17,
-        "alignDuration": 0.6275720596313477,
-        "nerDuration": 0.1394360065460205,
         "anforandeNummer": 17,
-        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+        "mediaIndex": 17,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
+        "proceedingIndex": 17,
+        "alignDuration": 0.6446924209594727,
+        "nerDuration": 0.09169483184814453
       },
       "originalLanguage": "sv"
     },
@@ -4794,8 +4790,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Utrikesministern Maria Malmer Stenergard",
-              "speakerstatus": null,
+              "speaker": "Maria Malmer Stenergard",
+              "speakerstatus": "Utrikesministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -4973,12 +4969,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 18,
-        "proceedingIndex": 18,
-        "alignDuration": 0.6157362461090088,
-        "nerDuration": 0.19445490837097168,
         "anforandeNummer": 18,
-        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza"
+        "mediaIndex": 18,
+        "debattTitel": "Skydd av båtkonvojer och deras besättningar på väg till Gaza",
+        "proceedingIndex": 18,
+        "alignDuration": 0.6352269649505615,
+        "nerDuration": 0.12582612037658691
       },
       "originalLanguage": "sv"
     },
@@ -5046,8 +5042,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Utrikesministern Maria Malmer Stenergard",
-              "speakerstatus": null,
+              "speaker": "Maria Malmer Stenergard",
+              "speakerstatus": "Utrikesministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5250,12 +5246,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 19,
-        "proceedingIndex": 19,
-        "alignDuration": 0.7268579006195068,
-        "nerDuration": 0.34101414680480957,
         "anforandeNummer": 19,
-        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+        "mediaIndex": 19,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
+        "proceedingIndex": 19,
+        "alignDuration": 0.6881191730499268,
+        "nerDuration": 0.14084291458129883
       },
       "originalLanguage": "sv"
     },
@@ -5614,12 +5610,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 20,
-        "proceedingIndex": 20,
-        "alignDuration": 1.0081830024719238,
-        "nerDuration": 0.6824719905853271,
         "anforandeNummer": 20,
-        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+        "mediaIndex": 20,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
+        "proceedingIndex": 20,
+        "alignDuration": 0.9644742012023926,
+        "nerDuration": 0.2002856731414795
       },
       "originalLanguage": "sv"
     },
@@ -5687,8 +5683,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Utrikesministern Maria Malmer Stenergard",
-              "speakerstatus": null,
+              "speaker": "Maria Malmer Stenergard",
+              "speakerstatus": "Utrikesministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5896,12 +5892,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 21,
-        "proceedingIndex": 21,
-        "alignDuration": 0.712183952331543,
-        "nerDuration": 0.2339341640472412,
         "anforandeNummer": 21,
-        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+        "mediaIndex": 21,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
+        "proceedingIndex": 21,
+        "alignDuration": 0.7621567249298096,
+        "nerDuration": 0.12701034545898438
       },
       "originalLanguage": "sv"
     },
@@ -6208,12 +6204,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 22,
-        "proceedingIndex": 22,
-        "alignDuration": 0.7437279224395752,
-        "nerDuration": 0.281843900680542,
         "anforandeNummer": 22,
-        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+        "mediaIndex": 22,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
+        "proceedingIndex": 22,
+        "alignDuration": 0.7331480979919434,
+        "nerDuration": 0.15457868576049805
       },
       "originalLanguage": "sv"
     },
@@ -6281,8 +6277,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Utrikesministern Maria Malmer Stenergard",
-              "speakerstatus": null,
+              "speaker": "Maria Malmer Stenergard",
+              "speakerstatus": "Utrikesministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -6436,12 +6432,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 23,
-        "proceedingIndex": 23,
-        "alignDuration": 0.5748081207275391,
-        "nerDuration": 0.6543450355529785,
         "anforandeNummer": 23,
-        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+        "mediaIndex": 23,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
+        "proceedingIndex": 23,
+        "alignDuration": 0.5840506553649902,
+        "nerDuration": 0.09903287887573242
       },
       "originalLanguage": "sv"
     },
@@ -6685,12 +6681,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 24,
-        "proceedingIndex": 24,
-        "alignDuration": 0.6391150951385498,
-        "nerDuration": 0.23836302757263184,
         "anforandeNummer": 24,
-        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+        "mediaIndex": 24,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
+        "proceedingIndex": 24,
+        "alignDuration": 0.6750926971435547,
+        "nerDuration": 0.13001060485839844
       },
       "originalLanguage": "sv"
     },
@@ -6758,8 +6754,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Utrikesministern Maria Malmer Stenergard",
-              "speakerstatus": null,
+              "speaker": "Maria Malmer Stenergard",
+              "speakerstatus": "Utrikesministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -6930,12 +6926,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 25,
-        "proceedingIndex": 25,
-        "alignDuration": 0.5819299221038818,
-        "nerDuration": 0.2509732246398926,
         "anforandeNummer": 25,
-        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn"
+        "mediaIndex": 25,
+        "debattTitel": "Stöd till dokumentation och spårning av bortförda ukrainska barn",
+        "proceedingIndex": 25,
+        "alignDuration": 0.606835126876831,
+        "nerDuration": 0.11250448226928711
       },
       "originalLanguage": "sv"
     },
@@ -7003,8 +6999,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Landsbygdsministern Peter Kullgren",
-              "speakerstatus": null,
+              "speaker": "Peter Kullgren",
+              "speakerstatus": "Landsbygdsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7144,12 +7140,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 26,
-        "proceedingIndex": 26,
-        "alignDuration": 0.6211788654327393,
-        "nerDuration": 0.2416977882385254,
         "anforandeNummer": 26,
-        "debattTitel": "Handläggningstider hos Jordbruksverket"
+        "mediaIndex": 26,
+        "debattTitel": "Handläggningstider hos Jordbruksverket",
+        "proceedingIndex": 26,
+        "alignDuration": 0.6599116325378418,
+        "nerDuration": 0.1028754711151123
       },
       "originalLanguage": "sv"
     },
@@ -7412,12 +7408,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 27,
-        "proceedingIndex": 27,
-        "alignDuration": 0.972891092300415,
-        "nerDuration": 0.3354952335357666,
         "anforandeNummer": 27,
-        "debattTitel": "Handläggningstider hos Jordbruksverket"
+        "mediaIndex": 27,
+        "debattTitel": "Handläggningstider hos Jordbruksverket",
+        "proceedingIndex": 27,
+        "alignDuration": 0.9427015781402588,
+        "nerDuration": 0.15142822265625
       },
       "originalLanguage": "sv"
     },
@@ -7485,8 +7481,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Landsbygdsministern Peter Kullgren",
-              "speakerstatus": null,
+              "speaker": "Peter Kullgren",
+              "speakerstatus": "Landsbygdsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7634,12 +7630,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 28,
-        "proceedingIndex": 28,
-        "alignDuration": 0.718189001083374,
-        "nerDuration": 0.21365118026733398,
         "anforandeNummer": 28,
-        "debattTitel": "Handläggningstider hos Jordbruksverket"
+        "mediaIndex": 28,
+        "debattTitel": "Handläggningstider hos Jordbruksverket",
+        "proceedingIndex": 28,
+        "alignDuration": 0.7126975059509277,
+        "nerDuration": 0.11672592163085938
       },
       "originalLanguage": "sv"
     },
@@ -7974,12 +7970,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 29,
-        "proceedingIndex": 29,
-        "alignDuration": 1.0138378143310547,
-        "nerDuration": 0.31638193130493164,
         "anforandeNummer": 29,
-        "debattTitel": "Handläggningstider hos Jordbruksverket"
+        "mediaIndex": 29,
+        "debattTitel": "Handläggningstider hos Jordbruksverket",
+        "proceedingIndex": 29,
+        "alignDuration": 0.9865851402282715,
+        "nerDuration": 0.20597577095031738
       },
       "originalLanguage": "sv"
     },
@@ -8047,8 +8043,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Landsbygdsministern Peter Kullgren",
-              "speakerstatus": null,
+              "speaker": "Peter Kullgren",
+              "speakerstatus": "Landsbygdsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8150,12 +8146,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 30,
-        "proceedingIndex": 30,
-        "alignDuration": 0.6962299346923828,
-        "nerDuration": 0.14056611061096191,
         "anforandeNummer": 30,
-        "debattTitel": "Handläggningstider hos Jordbruksverket"
+        "mediaIndex": 30,
+        "debattTitel": "Handläggningstider hos Jordbruksverket",
+        "proceedingIndex": 30,
+        "alignDuration": 0.6969788074493408,
+        "nerDuration": 0.07283926010131836
       },
       "originalLanguage": "sv"
     },
@@ -8268,9 +8264,9 @@
                   "entities": []
                 },
                 {
-                  "text": "Vi har ju en rätt så stor egen rådighet, och det jag framför allt vill skicka med och som jag tror att många håller med om är att man måste hitta en modell som passar oss i Sverige, självklart utifrån både EU-lagstiftning och svensk lagstiftning – en modell som passar projekt för landsbygden, som passar Leader, vår föreningsrörelse och företagsamheten på landsbygden.",
+                  "text": "Vi har ju en rätt så stor egen rådighet, och det jag framför allt vill skicka med och som jag tror att många håller med om är att man måste hitta en modell som passar oss i Sverige, självklart utifrån både EU-lagstiftning och svensk lagstiftning",
                   "timeStart": "60.640",
-                  "timeEnd": "101.120",
+                  "timeEnd": "90.360",
                   "entities": [
                     {
                       "label": "Sverige",
@@ -8281,6 +8277,12 @@
                   ]
                 },
                 {
+                  "text": "en modell som passar projekt för landsbygden, som passar Leader, vår föreningsrörelse och företagsamheten på landsbygden.",
+                  "timeStart": "90.360",
+                  "timeEnd": "101.120",
+                  "entities": []
+                },
+                {
                   "text": "Det får inte enbart vara den svenska förvaltningsmodellen som ska styra, för då blir det tyvärr byråkratiskt och långdraget.",
                   "timeStart": "101.120",
                   "timeEnd": "108.600",
@@ -8289,12 +8291,12 @@
                 {
                   "text": "Om departement, ansvarigt statligt verk och de som är berörda sitter ned tillsammans kommer man att hitta en lösning på det här.",
                   "timeStart": "108.600",
-                  "timeEnd": "120.920",
+                  "timeEnd": "121.240",
                   "entities": []
                 },
                 {
                   "text": "Jag vill tacka för en bra interpellationsdebatt!",
-                  "timeStart": "120.920",
+                  "timeStart": "121.240",
                   "timeEnd": "125.000",
                   "entities": []
                 }
@@ -8318,12 +8320,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 31,
-        "proceedingIndex": 31,
-        "alignDuration": 0.5728342533111572,
-        "nerDuration": 0.10413074493408203,
         "anforandeNummer": 31,
-        "debattTitel": "Handläggningstider hos Jordbruksverket"
+        "mediaIndex": 31,
+        "debattTitel": "Handläggningstider hos Jordbruksverket",
+        "proceedingIndex": 31,
+        "alignDuration": 0.6158790588378906,
+        "nerDuration": 0.0670614242553711
       },
       "originalLanguage": "sv"
     },
@@ -8391,8 +8393,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Landsbygdsministern Peter Kullgren",
-              "speakerstatus": null,
+              "speaker": "Peter Kullgren",
+              "speakerstatus": "Landsbygdsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8523,12 +8525,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 32,
-        "proceedingIndex": 32,
-        "alignDuration": 0.5648660659790039,
-        "nerDuration": 0.14881110191345215,
         "anforandeNummer": 32,
-        "debattTitel": "Handläggningstider hos Jordbruksverket"
+        "mediaIndex": 32,
+        "debattTitel": "Handläggningstider hos Jordbruksverket",
+        "proceedingIndex": 32,
+        "alignDuration": 0.6006381511688232,
+        "nerDuration": 0.10009384155273438
       },
       "originalLanguage": "sv"
     },
@@ -8596,8 +8598,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Landsbygdsministern Peter Kullgren",
-              "speakerstatus": null,
+              "speaker": "Peter Kullgren",
+              "speakerstatus": "Landsbygdsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8723,12 +8725,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 33,
-        "proceedingIndex": 33,
-        "alignDuration": 0.6662940979003906,
-        "nerDuration": 0.143571138381958,
         "anforandeNummer": 33,
-        "debattTitel": "Finansiering av älgförvaltningen"
+        "mediaIndex": 33,
+        "debattTitel": "Finansiering av älgförvaltningen",
+        "proceedingIndex": 33,
+        "alignDuration": 0.6669175624847412,
+        "nerDuration": 0.10733652114868164
       },
       "originalLanguage": "sv"
     },
@@ -8959,12 +8961,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 34,
-        "proceedingIndex": 34,
-        "alignDuration": 1.011918067932129,
-        "nerDuration": 0.22166013717651367,
         "anforandeNummer": 34,
-        "debattTitel": "Finansiering av älgförvaltningen"
+        "mediaIndex": 34,
+        "debattTitel": "Finansiering av älgförvaltningen",
+        "proceedingIndex": 34,
+        "alignDuration": 0.9621129035949707,
+        "nerDuration": 0.13098835945129395
       },
       "originalLanguage": "sv"
     },
@@ -9032,8 +9034,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Landsbygdsministern Peter Kullgren",
-              "speakerstatus": null,
+              "speaker": "Peter Kullgren",
+              "speakerstatus": "Landsbygdsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9199,12 +9201,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 35,
-        "proceedingIndex": 35,
-        "alignDuration": 0.8809740543365479,
-        "nerDuration": 0.20146489143371582,
         "anforandeNummer": 35,
-        "debattTitel": "Finansiering av älgförvaltningen"
+        "mediaIndex": 35,
+        "debattTitel": "Finansiering av älgförvaltningen",
+        "proceedingIndex": 35,
+        "alignDuration": 0.8395788669586182,
+        "nerDuration": 0.14156532287597656
       },
       "originalLanguage": "sv"
     },
@@ -9441,12 +9443,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 36,
-        "proceedingIndex": 36,
-        "alignDuration": 1.0296010971069336,
-        "nerDuration": 0.2563650608062744,
         "anforandeNummer": 36,
-        "debattTitel": "Finansiering av älgförvaltningen"
+        "mediaIndex": 36,
+        "debattTitel": "Finansiering av älgförvaltningen",
+        "proceedingIndex": 36,
+        "alignDuration": 0.9496719837188721,
+        "nerDuration": 0.14717960357666016
       },
       "originalLanguage": "sv"
     },
@@ -9514,8 +9516,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Landsbygdsministern Peter Kullgren",
-              "speakerstatus": null,
+              "speaker": "Peter Kullgren",
+              "speakerstatus": "Landsbygdsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9671,12 +9673,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 37,
-        "proceedingIndex": 37,
-        "alignDuration": 0.8007891178131104,
-        "nerDuration": 0.18915510177612305,
         "anforandeNummer": 37,
-        "debattTitel": "Finansiering av älgförvaltningen"
+        "mediaIndex": 37,
+        "debattTitel": "Finansiering av älgförvaltningen",
+        "proceedingIndex": 37,
+        "alignDuration": 0.7878174781799316,
+        "nerDuration": 0.12651562690734863
       },
       "originalLanguage": "sv"
     },
@@ -9832,12 +9834,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 38,
-        "proceedingIndex": 38,
-        "alignDuration": 0.6352760791778564,
-        "nerDuration": 0.1067662239074707,
         "anforandeNummer": 38,
-        "debattTitel": "Finansiering av älgförvaltningen"
+        "mediaIndex": 38,
+        "debattTitel": "Finansiering av älgförvaltningen",
+        "proceedingIndex": 38,
+        "alignDuration": 0.6312136650085449,
+        "nerDuration": 0.06619548797607422
       },
       "originalLanguage": "sv"
     },
@@ -9905,8 +9907,8 @@
           "textBody": [
             {
               "type": "speech",
-              "speaker": "Landsbygdsministern Peter Kullgren",
-              "speakerstatus": null,
+              "speaker": "Peter Kullgren",
+              "speakerstatus": "Landsbygdsministern",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9976,12 +9978,12 @@
         }
       ],
       "debug": {
-        "mediaIndex": 39,
-        "proceedingIndex": 39,
-        "alignDuration": 0.4208369255065918,
-        "nerDuration": 0.0673668384552002,
         "anforandeNummer": 39,
-        "debattTitel": "Finansiering av älgförvaltningen"
+        "mediaIndex": 39,
+        "debattTitel": "Finansiering av älgförvaltningen",
+        "proceedingIndex": 39,
+        "alignDuration": 0.45722365379333496,
+        "nerDuration": 0.042655229568481445
       },
       "originalLanguage": "sv"
     }
