@@ -79,7 +79,7 @@
             {
               "type": "speech",
               "speaker": "Dennis Dioukarev",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -552,7 +552,7 @@
             {
               "type": "speech",
               "speaker": "Patrik Lundqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -1399,7 +1399,7 @@
             {
               "type": "speech",
               "speaker": "Dennis Dioukarev",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -1597,7 +1597,7 @@
             {
               "type": "speech",
               "speaker": "Patrik Lundqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -1845,7 +1845,7 @@
             {
               "type": "speech",
               "speaker": "Dennis Dioukarev",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -1989,7 +1989,7 @@
             {
               "type": "speech",
               "speaker": "Patrik Lundqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -2256,7 +2256,7 @@
             {
               "type": "speech",
               "speaker": "Ida Drougge",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -2656,7 +2656,7 @@
             {
               "type": "speech",
               "speaker": "Andreas Lennkvist Manriquez",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -2983,7 +2983,7 @@
             {
               "type": "speech",
               "speaker": "Martin Ådahl",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -3289,7 +3289,7 @@
             {
               "type": "speech",
               "speaker": "Mattias Eriksson Falk",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -4069,7 +4069,7 @@
             {
               "type": "speech",
               "speaker": "Eva Lindh",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -4740,7 +4740,7 @@
             {
               "type": "speech",
               "speaker": "Adam Reuterskiöld",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -5362,7 +5362,7 @@
             {
               "type": "speech",
               "speaker": "Eva Lindh",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -5624,7 +5624,7 @@
             {
               "type": "speech",
               "speaker": "Adam Reuterskiöld",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -5889,7 +5889,7 @@
             {
               "type": "speech",
               "speaker": "Eva Lindh",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -6167,7 +6167,7 @@
             {
               "type": "speech",
               "speaker": "Adam Reuterskiöld",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -6448,7 +6448,7 @@
             {
               "type": "speech",
               "speaker": "Tredje vice talmannen",
-              "speakerstatus": "tredje vice talman",
+              "speakerstatus": "vice-president",
               "sentences": [
                 {
                   "text": "Jag påminner ledamöterna om att när man tilltalar en meddebattör är det inte bara med förnamn,",
@@ -6560,7 +6560,7 @@
             {
               "type": "speech",
               "speaker": "Ilona Szatmári Waldau",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -7197,7 +7197,7 @@
             {
               "type": "speech",
               "speaker": "Hans Eklind",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -7719,7 +7719,7 @@
             {
               "type": "speech",
               "speaker": "Anders Karlsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -7863,7 +7863,7 @@
             {
               "type": "speech",
               "speaker": "Hans Eklind",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -8099,7 +8099,7 @@
             {
               "type": "speech",
               "speaker": "Anders Karlsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -8287,7 +8287,7 @@
             {
               "type": "speech",
               "speaker": "Hans Eklind",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -8538,7 +8538,7 @@
             {
               "type": "speech",
               "speaker": "Anders Karlsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -9045,7 +9045,7 @@
             {
               "type": "speech",
               "speaker": "Janine Alm Ericson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -9601,7 +9601,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -10243,7 +10243,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Vencu Velasquez Castro",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -10482,7 +10482,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -10725,7 +10725,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Vencu Velasquez Castro",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -10993,7 +10993,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11244,7 +11244,7 @@
             {
               "type": "speech",
               "speaker": "Birger Lahti",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman och ledamoten Fransson!",
@@ -11450,7 +11450,7 @@
             {
               "type": "speech",
               "speaker": "Andre vice talmannen",
-              "speakerstatus": "andre vice talman",
+              "speakerstatus": "vice-president",
               "sentences": [
                 {
                   "text": "Jag vill bara påminna om att den här debatten handlar om näringspolitik, så att den inte går alltför långt utanför det.",
@@ -11550,7 +11550,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11749,7 +11749,7 @@
             {
               "type": "speech",
               "speaker": "Birger Lahti",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11947,7 +11947,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12165,7 +12165,7 @@
             {
               "type": "speech",
               "speaker": "Anders Ådahl",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12404,7 +12404,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12641,7 +12641,7 @@
             {
               "type": "speech",
               "speaker": "Anders Ådahl",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12863,7 +12863,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13074,7 +13074,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13324,7 +13324,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13597,7 +13597,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13766,7 +13766,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13977,7 +13977,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Vencu Velasquez Castro",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14670,7 +14670,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14862,7 +14862,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Vencu Velasquez Castro",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15122,7 +15122,7 @@
             {
               "type": "speech",
               "speaker": "Josef Fransson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15344,7 +15344,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Vencu Velasquez Castro",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15633,7 +15633,7 @@
             {
               "type": "speech",
               "speaker": "Louise Eklund",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15837,7 +15837,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Vencu Velasquez Castro",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16132,7 +16132,7 @@
             {
               "type": "speech",
               "speaker": "Louise Eklund",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16326,7 +16326,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Vencu Velasquez Castro",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16607,7 +16607,7 @@
             {
               "type": "speech",
               "speaker": "Kjell Jansson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17553,7 +17553,7 @@
             {
               "type": "speech",
               "speaker": "Birger Lahti",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17816,7 +17816,7 @@
             {
               "type": "speech",
               "speaker": "Kjell Jansson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18063,7 +18063,7 @@
             {
               "type": "speech",
               "speaker": "Birger Lahti",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18354,7 +18354,7 @@
             {
               "type": "speech",
               "speaker": "Kjell Jansson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18558,7 +18558,7 @@
             {
               "type": "speech",
               "speaker": "Birger Lahti",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19075,7 +19075,7 @@
             {
               "type": "speech",
               "speaker": "Lili André",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19814,7 +19814,7 @@
             {
               "type": "speech",
               "speaker": "Anders Ådahl",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20412,7 +20412,7 @@
             {
               "type": "speech",
               "speaker": "Louise Eklund",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20538,7 +20538,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20773,7 +20773,7 @@
             {
               "type": "speech",
               "speaker": "Eric Palmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -21378,7 +21378,7 @@
             {
               "type": "speech",
               "speaker": "Isak From",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -21578,7 +21578,7 @@
             {
               "type": "speech",
               "speaker": "Eric Palmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -21782,7 +21782,7 @@
             {
               "type": "speech",
               "speaker": "Isak From",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -21958,7 +21958,7 @@
             {
               "type": "speech",
               "speaker": "Eric Palmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -22169,7 +22169,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -22355,7 +22355,7 @@
             {
               "type": "speech",
               "speaker": "Eric Palmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -22568,7 +22568,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -22717,7 +22717,7 @@
             {
               "type": "speech",
               "speaker": "Eric Palmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -22933,7 +22933,7 @@
             {
               "type": "speech",
               "speaker": "Isak From",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -23480,7 +23480,7 @@
             {
               "type": "speech",
               "speaker": "Kjell Jansson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -24127,7 +24127,7 @@
             {
               "type": "speech",
               "speaker": "Isak From",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -24304,7 +24304,7 @@
             {
               "type": "speech",
               "speaker": "Kjell Jansson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -24527,7 +24527,7 @@
             {
               "type": "speech",
               "speaker": "Isak From",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -24666,7 +24666,7 @@
             {
               "type": "speech",
               "speaker": "Kjell Jansson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -24803,7 +24803,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -24968,7 +24968,7 @@
             {
               "type": "speech",
               "speaker": "Kjell Jansson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -25161,7 +25161,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -25338,7 +25338,7 @@
             {
               "type": "speech",
               "speaker": "Kjell Jansson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -25488,7 +25488,7 @@
             {
               "type": "speech",
               "speaker": "Birger Lahti",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -25991,7 +25991,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Brodin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -26489,7 +26489,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -26664,7 +26664,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Brodin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -26832,7 +26832,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -26989,7 +26989,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Brodin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -27165,7 +27165,7 @@
             {
               "type": "speech",
               "speaker": "Birger Lahti",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman och ledamoten Brodin!",
@@ -27378,7 +27378,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Brodin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -27647,7 +27647,7 @@
             {
               "type": "speech",
               "speaker": "Birger Lahti",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -27890,7 +27890,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Brodin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -28146,7 +28146,7 @@
             {
               "type": "speech",
               "speaker": "Anders Ådahl",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -28870,7 +28870,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -29617,7 +29617,7 @@
             {
               "type": "speech",
               "speaker": "Eric Palmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -29823,7 +29823,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -30040,7 +30040,7 @@
             {
               "type": "speech",
               "speaker": "Eric Palmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -30271,7 +30271,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Luhr",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",

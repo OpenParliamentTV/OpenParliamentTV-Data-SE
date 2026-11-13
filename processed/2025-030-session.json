@@ -80,7 +80,7 @@
             {
               "type": "speech",
               "speaker": "Lotta Edholm",
-              "speakerstatus": "Gymnasie-, högskole- och forskningsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -340,7 +340,7 @@
             {
               "type": "speech",
               "speaker": "Peder Björk",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -620,7 +620,7 @@
             {
               "type": "speech",
               "speaker": "Lena Bäckelin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -932,7 +932,7 @@
             {
               "type": "speech",
               "speaker": "Carina Ödebrink",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -1296,7 +1296,7 @@
             {
               "type": "speech",
               "speaker": "Lotta Edholm",
-              "speakerstatus": "Gymnasie-, högskole- och forskningsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -1554,7 +1554,7 @@
             {
               "type": "speech",
               "speaker": "Peder Björk",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -1825,7 +1825,7 @@
             {
               "type": "speech",
               "speaker": "Lena Bäckelin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2041,7 +2041,7 @@
             {
               "type": "speech",
               "speaker": "Carina Ödebrink",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2305,7 +2305,7 @@
             {
               "type": "speech",
               "speaker": "Lotta Edholm",
-              "speakerstatus": "Gymnasie-, högskole- och forskningsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2548,7 +2548,7 @@
             {
               "type": "speech",
               "speaker": "Peder Björk",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2742,7 +2742,7 @@
             {
               "type": "speech",
               "speaker": "Lotta Edholm",
-              "speakerstatus": "Gymnasie-, högskole- och forskningsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2942,7 +2942,7 @@
             {
               "type": "speech",
               "speaker": "Maria Malmer Stenergard",
-              "speakerstatus": "Utrikesministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -3325,7 +3325,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Riazat",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -3646,7 +3646,7 @@
             {
               "type": "speech",
               "speaker": "Maria Malmer Stenergard",
-              "speakerstatus": "Utrikesministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -3888,7 +3888,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Riazat",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -4243,7 +4243,7 @@
             {
               "type": "speech",
               "speaker": "Maria Malmer Stenergard",
-              "speakerstatus": "Utrikesministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -4571,7 +4571,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Riazat",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -4791,7 +4791,7 @@
             {
               "type": "speech",
               "speaker": "Maria Malmer Stenergard",
-              "speakerstatus": "Utrikesministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5043,7 +5043,7 @@
             {
               "type": "speech",
               "speaker": "Maria Malmer Stenergard",
-              "speakerstatus": "Utrikesministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5319,7 +5319,7 @@
             {
               "type": "speech",
               "speaker": "Carina Ödebrink",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5684,7 +5684,7 @@
             {
               "type": "speech",
               "speaker": "Maria Malmer Stenergard",
-              "speakerstatus": "Utrikesministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5965,7 +5965,7 @@
             {
               "type": "speech",
               "speaker": "Carina Ödebrink",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -6278,7 +6278,7 @@
             {
               "type": "speech",
               "speaker": "Maria Malmer Stenergard",
-              "speakerstatus": "Utrikesministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -6505,7 +6505,7 @@
             {
               "type": "speech",
               "speaker": "Carina Ödebrink",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -6755,7 +6755,7 @@
             {
               "type": "speech",
               "speaker": "Maria Malmer Stenergard",
-              "speakerstatus": "Utrikesministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7000,7 +7000,7 @@
             {
               "type": "speech",
               "speaker": "Peter Kullgren",
-              "speakerstatus": "Landsbygdsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7213,7 +7213,7 @@
             {
               "type": "speech",
               "speaker": "Mikael Larsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7482,7 +7482,7 @@
             {
               "type": "speech",
               "speaker": "Peter Kullgren",
-              "speakerstatus": "Landsbygdsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7703,7 +7703,7 @@
             {
               "type": "speech",
               "speaker": "Mikael Larsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8044,7 +8044,7 @@
             {
               "type": "speech",
               "speaker": "Peter Kullgren",
-              "speakerstatus": "Landsbygdsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8219,7 +8219,7 @@
             {
               "type": "speech",
               "speaker": "Mikael Larsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8394,7 +8394,7 @@
             {
               "type": "speech",
               "speaker": "Peter Kullgren",
-              "speakerstatus": "Landsbygdsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8599,7 +8599,7 @@
             {
               "type": "speech",
               "speaker": "Peter Kullgren",
-              "speakerstatus": "Landsbygdsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8798,7 +8798,7 @@
             {
               "type": "speech",
               "speaker": "Mikael Larsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9035,7 +9035,7 @@
             {
               "type": "speech",
               "speaker": "Peter Kullgren",
-              "speakerstatus": "Landsbygdsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9274,7 +9274,7 @@
             {
               "type": "speech",
               "speaker": "Mikael Larsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9517,7 +9517,7 @@
             {
               "type": "speech",
               "speaker": "Peter Kullgren",
-              "speakerstatus": "Landsbygdsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9746,7 +9746,7 @@
             {
               "type": "speech",
               "speaker": "Mikael Larsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9908,7 +9908,7 @@
             {
               "type": "speech",
               "speaker": "Peter Kullgren",
-              "speakerstatus": "Landsbygdsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",

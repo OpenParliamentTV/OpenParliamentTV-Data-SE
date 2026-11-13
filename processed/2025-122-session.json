@@ -79,7 +79,7 @@
             {
               "type": "speech",
               "speaker": "Joar Forssell",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -343,7 +343,7 @@
             {
               "type": "speech",
               "speaker": "Isabell Mixter",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -534,7 +534,7 @@
             {
               "type": "speech",
               "speaker": "Joar Forssell",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -745,7 +745,7 @@
             {
               "type": "speech",
               "speaker": "Isabell Mixter",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -967,7 +967,7 @@
             {
               "type": "speech",
               "speaker": "Joar Forssell",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -1195,7 +1195,7 @@
             {
               "type": "speech",
               "speaker": "Niklas Sigvardsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -1400,7 +1400,7 @@
             {
               "type": "speech",
               "speaker": "Joar Forssell",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -1635,7 +1635,7 @@
             {
               "type": "speech",
               "speaker": "Niklas Sigvardsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -1860,7 +1860,7 @@
             {
               "type": "speech",
               "speaker": "Joar Forssell",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2176,7 +2176,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Hansén",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2345,7 +2345,7 @@
             {
               "type": "speech",
               "speaker": "Joar Forssell",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman och ledamoten!",
@@ -2574,7 +2574,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Hansén",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -2730,7 +2730,7 @@
             {
               "type": "speech",
               "speaker": "Joar Forssell",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -3004,7 +3004,7 @@
             {
               "type": "speech",
               "speaker": "Niklas Sigvardsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -3565,7 +3565,7 @@
             {
               "type": "speech",
               "speaker": "Patrick Reslow",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -3697,7 +3697,7 @@
             {
               "type": "speech",
               "speaker": "Niklas Sigvardsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -3901,7 +3901,7 @@
             {
               "type": "speech",
               "speaker": "Patrick Reslow",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -4140,7 +4140,7 @@
             {
               "type": "speech",
               "speaker": "Niklas Sigvardsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -4314,7 +4314,7 @@
             {
               "type": "speech",
               "speaker": "Patrick Reslow",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -4835,7 +4835,7 @@
             {
               "type": "speech",
               "speaker": "Isabell Mixter",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -4966,7 +4966,7 @@
             {
               "type": "speech",
               "speaker": "Patrick Reslow",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5110,7 +5110,7 @@
             {
               "type": "speech",
               "speaker": "Isabell Mixter",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5267,7 +5267,7 @@
             {
               "type": "speech",
               "speaker": "Patrick Reslow",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5434,7 +5434,7 @@
             {
               "type": "speech",
               "speaker": "Isabell Mixter",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -5934,7 +5934,7 @@
             {
               "type": "speech",
               "speaker": "Josefin Malmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -6542,7 +6542,7 @@
             {
               "type": "speech",
               "speaker": "Niklas Sigvardsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -6758,7 +6758,7 @@
             {
               "type": "speech",
               "speaker": "Josefin Malmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -6896,7 +6896,7 @@
             {
               "type": "speech",
               "speaker": "Niklas Sigvardsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7041,7 +7041,7 @@
             {
               "type": "speech",
               "speaker": "Josefin Malmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7215,7 +7215,7 @@
             {
               "type": "speech",
               "speaker": "Isabell Mixter",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7413,7 +7413,7 @@
             {
               "type": "speech",
               "speaker": "Josefin Malmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7666,7 +7666,7 @@
             {
               "type": "speech",
               "speaker": "Isabell Mixter",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -7870,7 +7870,7 @@
             {
               "type": "speech",
               "speaker": "Josefin Malmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8092,7 +8092,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Hansén",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8400,7 +8400,7 @@
             {
               "type": "speech",
               "speaker": "Josefin Malmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8558,7 +8558,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Hansén",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8677,7 +8677,7 @@
             {
               "type": "speech",
               "speaker": "Josefin Malmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -8913,7 +8913,7 @@
             {
               "type": "speech",
               "speaker": "Camilla Hansén",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9099,7 +9099,7 @@
             {
               "type": "speech",
               "speaker": "Niels Paarup-Petersen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -9781,7 +9781,7 @@
             {
               "type": "speech",
               "speaker": "Mathias Bengtsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -10148,7 +10148,7 @@
             {
               "type": "speech",
               "speaker": "Serkan Köse",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -10929,7 +10929,7 @@
             {
               "type": "speech",
               "speaker": "Andre vice talmannen",
-              "speakerstatus": "andre vice talman",
+              "speakerstatus": "vice-president",
               "sentences": [
                 {
                   "text": "Jag vill hälsa statsråden välkomna.",
@@ -11079,7 +11079,7 @@
             {
               "type": "speech",
               "speaker": "Mathias Tegnér",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11223,7 +11223,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11402,7 +11402,7 @@
             {
               "type": "speech",
               "speaker": "Mathias Tegnér",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11565,7 +11565,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11702,7 +11702,7 @@
             {
               "type": "speech",
               "speaker": "Linda Lindberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -11913,7 +11913,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12088,7 +12088,7 @@
             {
               "type": "speech",
               "speaker": "Linda Lindberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12219,7 +12219,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12355,7 +12355,7 @@
             {
               "type": "speech",
               "speaker": "Ilona Szatmári Waldau",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12509,7 +12509,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12664,7 +12664,7 @@
             {
               "type": "speech",
               "speaker": "Ilona Szatmári Waldau",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12806,7 +12806,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -12955,7 +12955,7 @@
             {
               "type": "speech",
               "speaker": "Anders Ådahl",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13114,7 +13114,7 @@
             {
               "type": "speech",
               "speaker": "Ebba Busch",
-              "speakerstatus": "Energi- och näringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13295,7 +13295,7 @@
             {
               "type": "speech",
               "speaker": "Anders Ådahl",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13421,7 +13421,7 @@
             {
               "type": "speech",
               "speaker": "Ebba Busch",
-              "speakerstatus": "Energi- och näringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13545,7 +13545,7 @@
             {
               "type": "speech",
               "speaker": "Janine Alm Ericson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13732,7 +13732,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -13913,7 +13913,7 @@
             {
               "type": "speech",
               "speaker": "Janine Alm Ericson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14035,7 +14035,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14178,7 +14178,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Tolgfors",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14308,7 +14308,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14474,7 +14474,7 @@
             {
               "type": "speech",
               "speaker": "Katarina Tolgfors",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14603,7 +14603,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14771,7 +14771,7 @@
             {
               "type": "speech",
               "speaker": "Dan Hovskär",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -14921,7 +14921,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15076,7 +15076,7 @@
             {
               "type": "speech",
               "speaker": "Dan Hovskär",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15207,7 +15207,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15337,7 +15337,7 @@
             {
               "type": "speech",
               "speaker": "Anders Ekegren",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15501,7 +15501,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15657,7 +15657,7 @@
             {
               "type": "speech",
               "speaker": "Anders Ekegren",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15764,7 +15764,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -15879,7 +15879,7 @@
             {
               "type": "speech",
               "speaker": "Magdalena Sundqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16047,7 +16047,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16193,7 +16193,7 @@
             {
               "type": "speech",
               "speaker": "Magdalena Sundqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16349,7 +16349,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16479,7 +16479,7 @@
             {
               "type": "speech",
               "speaker": "Markus Wiechel",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16589,7 +16589,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16789,7 +16789,7 @@
             {
               "type": "speech",
               "speaker": "Markus Wiechel",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -16899,7 +16899,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17023,7 +17023,7 @@
             {
               "type": "speech",
               "speaker": "Anna Lasses",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17159,7 +17159,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17348,7 +17348,7 @@
             {
               "type": "speech",
               "speaker": "Anna Lasses",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17489,7 +17489,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Dousa",
-              "speakerstatus": "Bistånds- och utrikeshandelsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17621,7 +17621,7 @@
             {
               "type": "speech",
               "speaker": "Erik Ottoson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -17828,7 +17828,7 @@
             {
               "type": "speech",
               "speaker": "JESSICA ROSENCRANTZ",
-              "speakerstatus": "EU-minister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18048,7 +18048,7 @@
             {
               "type": "speech",
               "speaker": "Erik Ottoson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18229,7 +18229,7 @@
             {
               "type": "speech",
               "speaker": "JESSICA ROSENCRANTZ",
-              "speakerstatus": "EU-minister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18407,7 +18407,7 @@
             {
               "type": "speech",
               "speaker": "Lili André",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18565,7 +18565,7 @@
             {
               "type": "speech",
               "speaker": "Ebba Busch",
-              "speakerstatus": "Energi- och näringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18752,7 +18752,7 @@
             {
               "type": "speech",
               "speaker": "Lili André",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -18877,7 +18877,7 @@
             {
               "type": "speech",
               "speaker": "Ebba Busch",
-              "speakerstatus": "Energi- och näringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19014,7 +19014,7 @@
             {
               "type": "speech",
               "speaker": "Peder Björk",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19170,7 +19170,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19319,7 +19319,7 @@
             {
               "type": "speech",
               "speaker": "Erik Hellsborn",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19482,7 +19482,7 @@
             {
               "type": "speech",
               "speaker": "JESSICA ROSENCRANTZ",
-              "speakerstatus": "EU-minister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19693,7 +19693,7 @@
             {
               "type": "speech",
               "speaker": "Niels Paarup-Petersen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -19866,7 +19866,7 @@
             {
               "type": "speech",
               "speaker": "JESSICA ROSENCRANTZ",
-              "speakerstatus": "EU-minister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20021,7 +20021,7 @@
             {
               "type": "speech",
               "speaker": "Ulrika Heindorff",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20204,7 +20204,7 @@
             {
               "type": "speech",
               "speaker": "JESSICA ROSENCRANTZ",
-              "speakerstatus": "EU-minister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20404,7 +20404,7 @@
             {
               "type": "speech",
               "speaker": "Eva Lindh",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20568,7 +20568,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20717,7 +20717,7 @@
             {
               "type": "speech",
               "speaker": "Daniel Persson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -20881,7 +20881,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -21049,7 +21049,7 @@
             {
               "type": "speech",
               "speaker": "Jesper Skalberg Karlsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -21187,7 +21187,7 @@
             {
               "type": "speech",
               "speaker": "Ebba Busch",
-              "speakerstatus": "Energi- och näringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -21381,7 +21381,7 @@
             {
               "type": "speech",
               "speaker": "Jytte Guteland",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -21580,7 +21580,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -21723,7 +21723,7 @@
             {
               "type": "speech",
               "speaker": "Eric Palmqvist",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -21893,7 +21893,7 @@
             {
               "type": "speech",
               "speaker": "Ebba Busch",
-              "speakerstatus": "Energi- och näringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -22087,7 +22087,7 @@
             {
               "type": "speech",
               "speaker": "Caroline Högström",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -22261,7 +22261,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -22423,7 +22423,7 @@
             {
               "type": "speech",
               "speaker": "Peter Ollén",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -22599,7 +22599,7 @@
             {
               "type": "speech",
               "speaker": "JESSICA ROSENCRANTZ",
-              "speakerstatus": "EU-minister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -22781,7 +22781,7 @@
             {
               "type": "speech",
               "speaker": "Malin Höglund",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -22938,7 +22938,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -23105,7 +23105,7 @@
             {
               "type": "speech",
               "speaker": "Margareta Cederfelt",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -23263,7 +23263,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -23426,7 +23426,7 @@
             {
               "type": "speech",
               "speaker": "Magnus Resare",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -23590,7 +23590,7 @@
             {
               "type": "speech",
               "speaker": "Anna Tenje",
-              "speakerstatus": "Äldre- och socialförsäkringsministern",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -23783,7 +23783,7 @@
             {
               "type": "speech",
               "speaker": "Mattias Karlsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -24384,7 +24384,7 @@
             {
               "type": "speech",
               "speaker": "Margareta Cederfelt",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -25031,7 +25031,7 @@
             {
               "type": "speech",
               "speaker": "Malin Larsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -25401,7 +25401,7 @@
             {
               "type": "speech",
               "speaker": "Emma Nohrén",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -25943,7 +25943,7 @@
             {
               "type": "speech",
               "speaker": "Mattias Eriksson Falk",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -26353,7 +26353,7 @@
             {
               "type": "speech",
               "speaker": "Kajsa Fredholm",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -26655,7 +26655,7 @@
             {
               "type": "speech",
               "speaker": "Lars Johnsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -26970,7 +26970,7 @@
             {
               "type": "speech",
               "speaker": "Anders Karlsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -27265,7 +27265,7 @@
             {
               "type": "speech",
               "speaker": "Kjell-Arne Ottosson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -27748,7 +27748,7 @@
             {
               "type": "speech",
               "speaker": "Elin Nilsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -28098,7 +28098,7 @@
             {
               "type": "speech",
               "speaker": "Eva Lindh",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -28555,7 +28555,7 @@
             {
               "type": "speech",
               "speaker": "Mattias Eriksson Falk",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -28943,7 +28943,7 @@
             {
               "type": "speech",
               "speaker": "Eva Lindh",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -29113,7 +29113,7 @@
             {
               "type": "speech",
               "speaker": "Mattias Eriksson Falk",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -29375,7 +29375,7 @@
             {
               "type": "speech",
               "speaker": "Eva Lindh",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -29620,7 +29620,7 @@
             {
               "type": "speech",
               "speaker": "Mattias Eriksson Falk",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -29848,7 +29848,7 @@
             {
               "type": "speech",
               "speaker": "Adam Reuterskiöld",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -30276,7 +30276,7 @@
             {
               "type": "speech",
               "speaker": "Anna Vikström",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -30618,7 +30618,7 @@
             {
               "type": "speech",
               "speaker": "Christofer Bergenblock",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Herr talman!",
@@ -31023,7 +31023,7 @@
             {
               "type": "speech",
               "speaker": "Carita Boulwén",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -31505,7 +31505,7 @@
             {
               "type": "speech",
               "speaker": "Ulrika Westerlund",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -32017,7 +32017,7 @@
             {
               "type": "speech",
               "speaker": "Thomas Ragnarsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
@@ -32349,7 +32349,7 @@
             {
               "type": "speech",
               "speaker": "Dan Hovskär",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fru talman!",
